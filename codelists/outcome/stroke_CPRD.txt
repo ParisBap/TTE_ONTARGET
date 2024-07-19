@@ -1,0 +1,40 @@
+snomedctconceptid	medcodeid	term
+274100004	300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified
+274100004	300939013	[X]Other intracerebral haemorrhage
+21454007	300936018	[X]Other subarachnoid haemorrhage
+363302008	426231000006114	[X]Sequelae of other nontraumatic intracranial haemorrhage
+21454007	428181000006115	[X]Subarachnoid haemorrh from intracranial artery, unspecif
+21454007	300935019	[X]Subarachnoid haemorrhage from other intracranial arteries
+195165005	503791000006114	Basal nucleus haemorrhage
+732923001	483988011	Bulbar haemorrhage
+75038005	502878012	Cerebellar haemorrhage
+274100004	884421000006119	Cerebral haemorrhage
+274100004	989201000006117	Cerebral haemorrhage
+274100004	989211000006119	Cerebral haemorrhage NOS
+49422009	495394013	Cortical haemorrhage
+274100004	605471000006112	CVA - cerebrovascular accid due to intracerebral haemorrhage
+195167002	300276019	External capsule haemorrhage
+417506008	2548554013	Haemorrhagic stroke monitoring
+52201006	496232015	Internal capsule haemorrhage
+274100004	744901000006114	Intracerebral haemorrhage
+274100004	744921000006116	Intracerebral haemorrhage in hemisphere, unspecified
+274100004	300287010	Intracerebral haemorrhage NOS
+195168007	300277011	Intracerebral haemorrhage, intraventricular
+195169004	746571000006116	Intracerebral haemorrhage, multiple localized
+1386000	300298011	Intracranial haemorrhage NOS
+274100004	748941000006115	Left sided intracerebral haemorrhage, unspecified
+230710000	345675012	Lobar cerebral haemorrhage
+62914000	300290016	Other and unspecified intracranial haemorrhage
+7713009	503469016	Pontine haemorrhage
+308128006	163261000006119	Right sided intracerebral haemorrhage, unspecified
+195241001	300407010	Sequelae of intracerebral haemorrhage
+363302008	149551000006111	Sequelae of other nontraumatic intracranial haemorrhage
+195240000	300406018	Sequelae of subarachnoid haemorrhage
+274100004	122371000006118	Stroke due to intracerebral haemorrhage
+21454007	123441000006112	Subarachnoid haemorrh from intracranial artery, unspecif
+21454007	481028017	Subarachnoid haemorrhage
+21454007	123481000006118	Subarachnoid haemorrhage from anterior communicating artery
+195155004	300244012	Subarachnoid haemorrhage from carotid siphon and bifurcation
+21454007	123511000006114	Subarachnoid haemorrhage from middle cerebral artery
+21454007	123521000006118	Subarachnoid haemorrhage from posterior communicating artery
+21454007	300257016	Subarachnoid haemorrhage NOS

@@ -1,0 +1,38 @@
+icd	description
+I60	Subarachnoid haemorrhage
+I60.0	Subarachnoid haemorrhage from carotid siphon and bifurcation
+I60.1	Subarachnoid haemorrhage from middle cerebral artery
+I60.2	Subarachnoid haemorrhage from anterior communicating artery
+I60.3	Subarachnoid haemorrhage from posterior communicating artery
+I60.4	Subarachnoid haemorrhage from basilar artery
+I60.5	Subarachnoid haemorrhage from vertebral artery
+I60.6	Subarachnoid haemorrhage from other intracranial arteries
+I60.7	Subarachnoid haemorrhage from intracranial artery, unspecified
+I60.8	Other subarachnoid haemorrhage
+I60.9	Subarachnoid haemorrhage, unspecified
+I61	Intracerebral haemorrhage
+I61.0	Intracerebral haemorrhage in hemisphere, subcortical
+I61.1	Intracerebral haemorrhage in hemisphere, cortical
+I61.2	Intracerebral haemorrhage in hemisphere, unspecified
+I61.3	Intracerebral haemorrhage in brain stem
+I61.4	Intracerebral haemorrhage in cerebellum
+I61.5	Intracerebral haemorrhage, intraventricular
+I61.6	Intracerebral haemorrhage, multiple localized
+I61.8	Other intracerebral haemorrhage
+I61.9	Intracerebral haemorrhage, unspecified
+I62	Other nontraumatic intracranial haemorrhage
+I63 	cerebral infarction
+I63.0	cerebral infarction due to thrombosis of precerebral arteries
+I63.1	cerebral infarction due to embolism of precerebral arteries
+I63.2	cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3	cerebral infarction due to thrombosis of cerebral arteries
+I63.4	cerebral infarction due to embolism of cerebral arteries
+I63.5	cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6	cerebral infarction due to cerebral venous thrombosis, nonpyogenic
+I63.8	other cerebral infarction
+I63.9	cerebral infarction, unspecified
+I64	stroke, not specified as haemorrhage or infarction
+I69.0	Sequelae of subarachnoid haemorrhage
+I69.1	Sequelae of intracerebral haemorrhage
+I69.2	Sequelae of other nontraumatic intracranial haemorrhage
+S06.6	Traumatic subarachnoid haemorrhage

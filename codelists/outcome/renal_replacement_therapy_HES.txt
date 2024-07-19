@@ -1,0 +1,16 @@
+icd	description
+I77.9	arteriovenous fistula, acquired
+N16.5	renal tubulo-interstitial disorders in transplant rejection
+N18.5	chronic kidney disease, stage 5
+T82.4	mechanical complication of vascular dialysis catheter
+T86.1	kidney transplant failure and rejection
+Y60.2	during kidney dialysis or other perfusion
+Y61.2	during kidney dialysis or other perfusion
+Y62.2	during kidney dialysis or other perfusion
+Y84.1	kidney dialysis
+Z49	care involving dialysis
+Z49.0	preparatory care for dialysis
+Z49.1	extracorporeal dialysis
+Z49.2	other dialysis
+Z94.0	kidney transplant status
+Z99.2	dependence on renal dialysis

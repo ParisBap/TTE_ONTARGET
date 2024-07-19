@@ -1,0 +1,22 @@
+opcscode	opcsdescription
+L74.2	creation of arteriovenous fistula nec
+L74.6	creation of graft fistula for dialysis
+M01	transplantation of kidney
+M01.3	allotransplantation of kidney from cadaver nec
+M01.8	other specified transplantation of kidney
+M02.6	excision of rejected transplated kidney
+M02.7	excision of transplanted kidney nec
+M08.4	exploration of transplanted kidney
+M17	interventions associated with transplantation of kidney
+M17.2	pre-transplantation of kidney work-up - recipient
+M17.4	post-transplantation of kidney examination - recipient
+M17.8	other specified interventions associated with transplantation of kidney
+X40.1	renal dialysis
+X40.2	peritoneal dialysis nec
+X40.3	haemodialysis nec
+X40.4	haemofiltration
+X40.5	automated peritoneal dialysis
+X40.6	continuous ambulatory peritoneal dialysis
+X41.1	insertion of ambulatory peritoneal dialysis catheter
+X41.2	removal of ambulatory peritoneal dialysis catheter
+X42.1	insertion of temporary peritoneal dialysis catheter

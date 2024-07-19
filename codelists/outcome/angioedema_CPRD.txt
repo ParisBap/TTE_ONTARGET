@@ -1,0 +1,2 @@
+medcodeid	term	snomedctconceptid
+68871010	Angioedema	41291007
