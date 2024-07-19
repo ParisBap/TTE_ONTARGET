@@ -1,0 +1,63 @@
+OPCScode	OPCSdescription
+K40	Saphenous vein graft replacement of coronary artery
+K40.2	Saphenous vein graft replacement of two coronary arteries
+K40.3	Saphenous vein graft replacement of three coronary arteries
+K40.4	Saphenous vein graft replacement of four or more coronary arteries
+K40.8	Other specified saphenous vein graft replacement of coronary artery
+K40.9	Unspecified saphenous vein graft replacement of coronary artery
+K41	Other autograft replacement of coronary artery
+K41.2	Autograft replacement of two coronary arteries not elsewhere classified
+K41.3	Autograft replacement of three coronary arteries not elsewhere classified
+K41.4	Autograft replacement of four or more coronary arteries not elsewhere classified
+K41.8	Other specified autograft replacement of coronary artery
+K41.9	Unspecified other autograft replacement of coronary artery
+K42	Allograft replacement of coronary artery
+K42.2	Allograft replacement of two coronary arteries
+K42.3	Allograft replacement of three coronary arteries
+K42.4	Allograft replacement of four or more coronary arteries
+K42.8	Other specified allograft replacement of coronary artery
+K42.9	Unspecified allograft replacement of coronary artery
+K43	Prosthetic replacement of coronary artery
+K43.2	Prosthetic replacement of two coronary ateries
+K43.3	Prosthetic replacement of three coronary ateries
+K43.4	Prosthetic replacement of four or more coronary ateries
+K43.8	Other specified prosthetic replacement of coronary artery
+K43.9	Unspecified prosthetic replacement of coronary artery
+K44	Other replacement of coronary artery
+K44.1	Replacement of coronary arteries using multiple methods
+K44.2	Revision of replacement of coronary artery
+K44.8	Other specified other replacement of coronary artery
+K44.9	Unspecified other replacement of coronary artery
+K45	Connection of throacic artery to coronary artery
+K45.1	Double anastomosis of mammary arteries to coronary arteries
+K45.2	Double anastomosis of thoracic arteries to coronary arteries not elsewhere classified
+K45.3	Anastomosis of mammary artery to left anterior descending coronary artery
+K45.4	Anastomosis of mammary artery to coronary artery not elsewhere classified
+K45.5	Anastomosis of thoracic artery to coronary artery not elsewhere classified
+K45.6	Revision of connection of throacic artery to coronary artery
+K45.8	Other specified connection of throacic artery to coronary artery
+K45.9	Unspecified connection of throacic artery to coronary artery
+K46.8	Other specified other bypass of coronary artery
+K46.9	Unspecified other bypass of coronary artery
+K48.3	Open angioplasty of coronary artery
+K49.1	Percutaneous transluminal balloon angioplasty of one coronary artery
+K49.2	Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+K49.3	Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+K49.4	Percutaneous transluminal cutting balloon angioplasty of coronary artery
+K49.8	Other specified transluminal balloon angioplasty of coronary artery
+K49.9	Unspecified transluminal balloon angioplasty of coronary artery
+K50.1	Percutaneous transluminal laser coronary angioplasty
+K50.2	Percutaneous transluminal coronary thrombolysis using streptokinase
+K50.3	Percutaneous transluminal injection of therapeutic substance into coronary artery NEC
+K50.4	Percutaneous transluminal atherectomy of coronary artery
+K51.1	Percutaneous transluminal angioscopy
+K75.1	Percutaneous transluminal balloon angioplasty and insertion of 1-2 drug-eluting stents into coronary artery
+K75.2	Percutaneous transluminal balloon angioplasty and insertion of 3 or more drug-eluting stents into coronary artery
+K75.3	Percutaneous transluminal balloon angioplasty and insertion of 1-2 stents into coronary artery
+K75.4	Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC
+K75.8	Other specified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+K75.9	Unspecified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+L66.5	Percutaneous transluminal balloon angioplasty of artery
+L71.1	Percutaneous transluminal angioplasty of artery
+L94.7	Percutaneous transluminal balloon angioplasty of vein NEC
+L99.6	Percutaneous transluminal balloon test occlusion of vein

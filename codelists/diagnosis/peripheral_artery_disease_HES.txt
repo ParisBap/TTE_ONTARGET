@@ -1,0 +1,69 @@
+OPCScode	OPCSdescription
+L16.1	Emergency bypass of aorta by anastomosis of axillary artery to femoral artery
+L16.2	Bypass of aorta by anastomosis of axillary artery to femoral artery NEC
+L16.3	Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries
+L20.6	Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+L21.6	Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+L50.1	Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+L50.2	Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+L50.3	Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+L50.4	Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+L50.5	Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+L50.6	Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+L50.8	Other specified other emergency bypass of iliac artery
+L50.9	Unspecified other emergency bypass of iliac artery
+L51.1	Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+L51.2	Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+L51.3	Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+L51.4	Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+L51.5	Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+L51.6	Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+L51.8	Other specified other bypass of iliac artery
+L51.9	Unspecified other bypass of iliac artery
+L54.1	Percutaneous transluminal angioplasty of iliac artery
+L58.1	Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+L58.2	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+L58.3	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+L58.4	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+L58.5	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+L58.6	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+L58.7	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+L58.8	Other specified other emergency bypass of femoral artery
+L58.9	Unspecified other emergency bypass of femoral artery
+L59.1	Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+L59.2	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+L59.3	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+L59.4	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+L59.5	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+L59.6	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+L59.7	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+L59.8	Other specified other bypass of femoral artery
+L59.9	Unspecified other bypass of femoral artery
+L63.1	Percutaneous transluminal angioplasty of femoral artery
+U50.1	Delivery of rehabilitation for amputation of limb
+X09	Amputation of leg
+X09.1	Hindquarter amputation
+X09.2	Disarticulation of hip
+X09.3	Amputation of leg above knee
+X09.4	Amputation of leg through knee
+X09.5	Amputation of leg below knee
+X09.8	Amputation of leg: Other specified
+X09.9	Amputation of leg: Unspecified
+X10	Amputation of foot
+X10.1	Amputation of foot through ankle
+X10.2	Disarticulation of tarsal bones
+X10.3	Disarticulation of metatarsal bones
+X10.4	Amputation through metatarsal bones
+X10.8	Amputation of foot: Other specified
+X10.9	Amputation of foot: Unspecified
+X11.1	Amputation of great toe
+X11.2	Amputation of phalanx of toe
+X11.8	Other specified amputation of toe
+X11.9	Unspecified amputation of toe
+X12.1	Reamputation at higher level
+X12.2	Excision of lesion of amputation stump
+X12.3	Shortening of length of amputation stump
+X12.4	Revision of coverage of amputation stump
+X12.5	Drainage of amputation stump
+X12.8	Other specified operations on amputation stump
+X12.9	Unspecified operations on amputation stump

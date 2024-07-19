@@ -1,0 +1,189 @@
+medcodeid	term	snomedctconceptid
+1176621000000116	Referred for peripheral artery disease assessment	527251000000101
+317351012	[D]Failure of peripheral circulation	27942005
+1222508013	[D]Peripheral circulatory failure	27942005
+461123018	[V]Acquired absence of limb	271396005
+461132016	[V]Acquired absence of upper and lower limbs, any level	271396005
+300963017	[X]Other specified peripheral vascular diseases	400047006
+300970017	[X]Peripheral angiopathy in diseases classified elsewhere	400047006
+325479017	[X]Traumatic amputation of other parts of foot	95859009
+504195017	Above knee amputation	79733001
+429878012	Acquired renal artery stenosis	289923007
+877091000006114	Amputation - lower limb	397117006
+480191000006114	Amputation above knee	79733001
+480201000006112	Amputation below knee	88312006
+877181000006112	Amputation foot: mid-tarsal	265738003
+877191000006110	Amputation foot:tarsal-metatar	265738003
+480301000006116	Amputation of foot	180030006
+394610018	Amputation of foot NOS	180030006
+1785726017	Amputation of leg	397117006
+278464014	Amputation of leg NOS	397117006
+480361000006115	Amputation of leg through thigh	79733001
+480371000006110	Amputation of limb(s) with complication, without blame	217049000
+224191000000115	Amputation through ankle	397218006
+480501000006114	Amputation through knee	265736004
+394609011	Amputation through metatarsal bones	265739006
+931881000006115	Angioplasty of femoral artery	175715003
+444907010	ARAS - Atherosclerotic renal artery stenosis	302910002
+300607015	Arterial insufficiency	195374003
+300436010	Arteriosclerotic vascular disease NOS	72092001
+877141000006118	Below knee amputation	88312006
+523741000006112	Boyd amputation of hindfoot	265737008
+523751000006114	Boyd amputation of leg below knee	88312006
+527701000006116	Burgess amputation of leg below knee	88312006
+1767701000006110	Bypass aorta anastomosis axillary artery bi femoral arteries	233379008
+530051000006117	Bypass aorta by anastomosis axillary to femoral artery NEC	233379008
+530091000006111	Bypass common iliac artery by aorta/com iliac art anast NEC	116360008
+530111000006119	Bypass femoral artery by fem/peron a anast c prosthesis NEC	233383008
+530121000006110	Bypass femoral artery by fem/peron a anast c vein graft NEC	448323005
+530131000006113	Bypass femoral artery by fem/pop art anast c prosthesis NEC	312688006
+530141000006115	Bypass femoral artery by fem/pop art anast c vein graft NEC	50807007
+530151000006118	Bypass femoral artery by fem/tib art anast c prosthesis NEC	233383008
+530161000006116	Bypass femoral artery by fem/tib art anast c vein graft NEC	448529008
+530171000006111	Bypass femoral artery by femoral/femoral art anastomosis NEC	44662004
+530181000006114	Bypass iliac artery by aorta/ext iliac art anastomosis NEC	116360008
+530191000006112	Bypass iliac artery by femoral/femoral art anastomosis NEC	233380006
+530201000006110	Bypass iliac artery by iliac/femoral artery anastomosis NEC	51018000
+530211000006113	Bypass iliac artery by iliac/iliac artery anastomosis NEC	116360008
+530221000006117	Bypass leg artery by aorta/com femoral art anastomosis NEC	116360008
+530231000006119	Bypass leg artery by aorta/deep femoral art anastomosis NEC	405482000
+530781000006110	Bypass popliteal art by pop/peron art anast c vein graft NEC	233384002
+530791000006113	Bypass popliteal artery by pop/fem artery anastomosis NEC	112828007
+530801000006114	Bypass popliteal artery by pop/peron art anast c prosth NEC	233384002
+530811000006112	Bypass popliteal artery by pop/pop a anast c prosthesis NEC	233384002
+530821000006116	Bypass popliteal artery by pop/pop a anast c vein graft NEC	233384002
+530831000006118	Bypass popliteal artery by pop/tib a anast c prosthesis NEC	233384002
+530841000006111	Bypass popliteal artery by pop/tib a anast c vein graft NEC	233384002
+552571000006118	Chopart midtarsal amputation	265739006
+411512011	Claudication	63491006
+375462013	Claudication distance	252094004
+300547018	Embolism and thrombosis of a leg artery NOS	195318006
+300534011	Embolism and thrombosis of an arm or leg artery	195318006
+300541017	Embolism and thrombosis of the anterior tibial artery	195325004
+300542012	Embolism and thrombosis of the dorsalis pedis artery	195326003
+300539018	Embolism and thrombosis of the femoral artery	195323006
+300540016	Embolism and thrombosis of the popliteal artery	195324000
+300543019	Embolism and thrombosis of the posterior tibial artery	195327007
+639341000006115	Emerg aortic bypass by anastomosis axillary to femoral art	175276005
+639391000006112	Emerg bypass comm iliac art by aorta/com iliac art anast NEC	116360008
+639401000006114	Emerg bypass fem art by fem/peron a anast c vein graft NEC	233383008
+639411000006112	Emerg bypass femoral art by fem/peron art anast c prosth NEC	233383008
+639421000006116	Emerg bypass femoral art by fem/pop a anast c vein graft NEC	112828007
+639431000006118	Emerg bypass femoral art by fem/pop art anast c prosth NEC	112828007
+639441000006111	Emerg bypass femoral art by fem/tib a anast c vein graft NEC	233383008
+639451000006113	Emerg bypass femoral art by fem/tib art anast c prosth NEC	233383008
+639461000006110	Emerg bypass femoral artery by fem/fem art anastomosis NEC	116360008
+639471000006115	Emerg bypass iliac art by iliac/femoral art anastomosis NEC	51018000
+639481000006117	Emerg bypass iliac artery by aorta/ext iliac art anast NEC	116360008
+639491000006119	Emerg bypass iliac artery by femoral/femoral art anast NEC	233380006
+639521000006117	Emerg bypass leg artery by aorta/com fem art anastomosis NEC	116360008
+639531000006119	Emerg bypass leg artery by aorta/deep fem anastomosis NEC	405482000
+639541000006112	Emerg bypass pop art by pop/peron art anast c vein graft NEC	233384002
+639551000006114	Emerg bypass pop art by pop/pop art anast c vein graft NEC	233384002
+639561000006111	Emerg bypass pop art by pop/tib art anast c vein graft NEC	233384002
+639571000006116	Emerg bypass popliteal art by pop/peron a anast c prosth NEC	233384002
+639581000006118	Emerg bypass popliteal art by pop/pop art anast c prosth NEC	233384002
+639591000006115	Emerg bypass popliteal art by pop/tib art anast c prosth NEC	233384002
+639601000006111	Emerg bypass popliteal artery by pop/fem art anastomosis NEC	116360008
+639771000006110	Emerg replace aneurysm fem artery by fem/fem art anastomosis	175632006
+639881000006115	Emerg replace aneurysm pop artery by pop/fem art anastomosis	175633001
+271865013	Emergency bypass of iliac artery by unspecified anastomosis	405477007
+300433019	Extremity artery atheroma	195254008
+300434013	Extremity artery atheroma NOS	195254008
+668831000006118	Ferre hindquarter amputation	265735000
+805681000006117	Gordon - Taylor hindquarter amputation	265735000
+807811000006118	Guyon amputation of leg below knee	88312006
+406167011	H/O: limb amputation	271396005
+251862012	H/O: limb amputation NOS	271396005
+251861017	H/O: lower limb amputation	161622006
+451376017	H/O: Peripheral vascular disease procedure	308071004
+251860016	H/O: upper limb amputation	161621004
+822651000006112	Hey amputation of foot	180030006
+877101000006115	Hind quarter amputation	265735000
+394601014	Hindquarter amputation	265735000
+105536013	Intermittent claudication	63491006
+742481000006118	Ischaemia of legs	233961000
+443199013	Ischaemic foot	301755001
+2377871000000112	Ischaemic foot pain at rest	713412006
+2377911000000114	Ischaemic foot pain when walking	713674006
+357895013	Ischaemic leg ulcer	238793001
+450665015	Ischaemic toe	307408003
+309177010	Ischaemic ulcer diabetic foot	201250006
+758211000006112	Jaboulay hindquarter amputation	265735000
+754281000006113	King hindquarter amputation	265735000
+754301000006112	Kirk amputation of leg through thigh	79733001
+742141000006119	Lisfranc tarsometatarsal amputation	265738003
+349665018	Other bypass of common femoral artery	405463009
+349664019	Other bypass of deep femoral artery	405463009
+349663013	Other bypass of femoral artery	405463009
+394339014	Other bypass of femoral artery or popliteal artery	405469008
+272003016	Other bypass of femoral artery or popliteal artery NOS	405469008
+36061000006118	Other bypass of femoral artery or popliteal artery OS	405469008
+349666017	Other bypass of femoral or popliteal artery by anastomosis	405516005
+394323019	Other bypass of iliac artery	405477007
+349677011	Other bypass of iliac artery by anastomosis	405477007
+271868010	Other bypass of iliac artery NOS	116360008
+349662015	Other bypass of popliteal artery	233384002
+349661010	Other bypass of superficial femoral artery	405463009
+32181000006113	Other emerg bypass femoral or popliteal art by anastomosis	116360008
+349671012	Other emergency bypass of common femoral artery	116360008
+349670013	Other emergency bypass of deep femoral artery	116360008
+349667014	Other emergency bypass of femoral artery	405463009
+394338018	Other emergency bypass of femoral artery or popliteal artery	405516005
+31351000006112	Other emergency bypass of femoral or popliteal artery NOS	116360008
+31361000006114	Other emergency bypass of femoral or popliteal artery OS	405516005
+349668016	Other emergency bypass of superficial femoral artery	116360008
+395791015	Other peripheral vascular disease	400047006
+17311000006112	Other replacement aneurysmal femoral artery by anastomosis	405463009
+410970013	Other replacement of aneurysmal common femoral artery	405463009
+410972017	Other replacement of aneurysmal deep femoral artery	405463009
+394337011	Other replacement of aneurysmal femoral artery	405463009
+410969012	Other replacement of aneurysmal superficial femoral artery	405463009
+278483019	Other specified amputation of foot	180030006
+278463015	Other specified amputation of leg	397117006
+271867017	Other specified other bypass of iliac artery	116360008
+300510018	Other specified peripheral vascular disease	400047006
+300514010	Other specified peripheral vascular disease NOS	400047006
+271842015	Other specified replacement of aneurysmal iliac artery	116360008
+272052017	Percutaneous transluminal angioplasty of femoral artery	175715003
+271900018	Percutaneous transluminal angioplasty of iliac artery	175612005
+239491000006117	Percutaneous transluminal angioplasty of popliteal artery	175716002
+1548451000006111	Percutaneous transluminal placement peripheral stent artery	237451000000109
+300511019	Peripheral angiopathic disease EC NOS	400047006
+1847121000006114	Peripheral arterial disease	399957001
+2465211000000113	Peripheral arterial disease screening	968121000000103
+300550015	Peripheral arterial embolism and thrombosis NOS	195318006
+350533013	Peripheral ischaemia	233958001
+350535018	Peripheral ischaemic vascular disease	233958001
+216185010	Peripheral vascular disease monitoring	134379001
+741131000000114	Peripheral vascular disease monitoring first letter	376621000000109
+741071000000112	Peripheral vascular disease monitoring invitation	376591000000106
+2231891000000112	Peripheral vascular disease monitoring second letter	863151000000105
+2231911000000110	Peripheral vascular disease monitoring third letter	863161000000108
+300515011	Peripheral vascular disease NOS	400047006
+235911000006116	Peripheral vascular disease NOS	400047006
+226241000006117	Pirogoff amputation of foot through ankle	397218006
+216701000006116	Post radiological embolism of lower limb artery	312380005
+192101000006118	Ray transmetatarsal amputation	265739006
+1230211012	Renal artery atherosclerosis	45281005
+443820016	Renal artery stenosis	302233006
+173541000006112	Replace aneurysm fem artery by fem/fem art anastomosis NEC	44662004
+173551000006114	Replace aneurysm iliac art by aorta/ext iliac art anast NEC	116360008
+173561000006111	Replace aneurysm iliac artery by iliac/iliac art anast NEC	116360008
+173571000006116	Replace aneurysm leg artery by aorta/com fem art anast NEC	116360008
+173581000006118	Replace aneurysm leg artery by aorta/sup fem art anast NEC	116360008
+173641000006113	Replace aneurysm popliteal artery by pop/fem anastomosis NEC	112828007
+271843013	Replacement of aneurysmal iliac artery NOS	116360008
+132291000006113	Sorrondo hindquarter amputation	265735000
+125921000006113	Steelquist hindquarter amputation	265735000
+220751000000118	Syme amputation of foot through ankle	275095009
+107381000006112	Tarsometatarsal amputation	265738003
+107671000006115	Taylor hindquarter amputation	265735000
+897301000006114	Traumatic amputation - foot	95859009
+325275014	Traumatic amputation of both feet	213378007
+158784014	Traumatic amputation of foot	95859009
+321789011	Traumatic amputation of foot NOS	95859009
+92371000006118	Traumatic amputation, foot	95859009
+92951000006110	Traumatic bilateral amputation of foot without complication	95859009
+86471000006111	Traumatic unilateral amputation of foot without complication	86914005
+1715241000006112	Vascular claudication	63491006

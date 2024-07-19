@@ -1,0 +1,77 @@
+icd	description
+G45	Transient cerebral ischaemic attacks and related syndromes
+G45.0	Vertebro-basilar artery syndrome
+G45.1	Carotid artery syndrome (hemispheric)
+G45.2	Multiple and bilateral precerebral artery syndromes
+G45.8	Other transient cerebral ischaemic attacks and related syndromes
+G45.9	Transient cerebral ischaemic attack, unspecified
+G46	Vascular syndromes of brain in cerebrovascular diseases
+G46.0	Middle cerebral artery syndrome
+G46.1	Anterior cerebral artery syndrome
+G46.2	Posterior cerebral artery syndrome
+G46.3	Brain stem stroke syndrome
+G46.4	Cerebellar stroke syndrome
+G46.5	Pure motor lacunar syndrome
+G46.6	Pure sensory lacunar syndrome
+G46.7	Other lacunar syndromes
+G46.8	Other vascular syndromes of brain in cerebrovascular diseases
+I60	Subarachnoid haemorrhage
+I60.0	Subarachnoid haemorrhage from carotid siphon and bifurcation
+I60.1	Subarachnoid haemorrhage from middle cerebral artery
+I60.2	Subarachnoid haemorrhage from anterior communicating artery
+I60.3	Subarachnoid haemorrhage from posterior communicating artery
+I60.4	Subarachnoid haemorrhage from basilar artery
+I60.5	Subarachnoid haemorrhage from vertebral artery
+I60.6	Subarachnoid haemorrhage from other intracranial arteries
+I60.7	Subarachnoid haemorrhage from intracranial artery, unspecified
+I60.8	Other subarachnoid haemorrhage
+I60.9	Subarachnoid haemorrhage, unspecified
+I61	Intracerebral haemorrhage
+I61.0	Intracerebral haemorrhage in hemisphere, subcortical
+I61.1	Intracerebral haemorrhage in hemisphere, cortical
+I61.2	Intracerebral haemorrhage in hemisphere, unspecified
+I61.3	Intracerebral haemorrhage in brain stem
+I61.4	Intracerebral haemorrhage in cerebellum
+I61.5	Intracerebral haemorrhage, intraventricular
+I61.6	Intracerebral haemorrhage, multiple localized
+I61.8	Other intracerebral haemorrhage
+I61.9	Intracerebral haemorrhage, unspecified
+I62	Other nontraumatic intracranial haemorrhage
+I62.9	Intracranial haemorrhage (nontraumatic), unspecified
+I63	Cerebral infarction
+I63.0	Cerebral infarction due to thrombosis of precerebral arteries
+I63.1	Cerebral infarction due to embolism of precerebral arteries
+I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3	Cerebral infarction due to thrombosis of cerebral arteries
+I63.4	Cerebral infarction due to embolism of cerebral arteries
+I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6	Cerebral infarction due to cerebral venous thrombosis, nonpyogenic
+I63.8	Other cerebral infarction
+I63.9	Cerebral infarction, unspecified
+I64	Stroke, not specified as haemorrhage or infarction
+I65	Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction
+I65.0	Occlusion and stenosis of vertebral artery
+I65.1	Occlusion and stenosis of basilar artery
+I65.2	Occlusion and stenosis of carotid artery
+I65.3	Occlusion and stenosis of multiple and bilateral precerebral arteries
+I65.8	Occlusion and stenosis of other precerebral artery
+I65.9	Occlusion and stenosis of unspecified precerebral artery
+I66	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction
+I66.0	Occlusion and stenosis of middle cerebral artery
+I66.1	Occlusion and stenosis of anterior cerebral artery
+I66.2	Occlusion and stenosis of posterior cerebral artery
+I66.3	Occlusion and stenosis of cerebellar arteries
+I66.4	Occlusion and stenosis of multiple and bilateral cerebral arteries
+I66.8	Occlusion and stenosis of other cerebral artery
+I66.9	Occlusion and stenosis of unspecified cerebral artery
+I67	Other cerebrovascular diseases
+I67.8	Other specified cerebrovascular diseases
+I67.9	Cerebrovascular disease, unspecified
+I69	Sequelae of cerebrovascular disease
+I69.0	Sequelae of subarachnoid haemorrhage
+I69.1	Sequelae of intracerebral haemorrhage
+I69.2	Sequelae of other nontraumatic intracranial haemorrhage
+I69.3	Sequelae of cerebral infarction
+I69.4	Sequelae of stroke, not specified as haemorrhage or infarction
+I69.8	Sequelae of other and unspecified cerebrovascular diseases
+I72.5	Aneurysm and dissection of other precerebral arteries

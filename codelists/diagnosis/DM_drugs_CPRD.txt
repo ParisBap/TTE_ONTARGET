@@ -1,0 +1,881 @@
+prodcodeid	productname
+10019141000033111	unifine pentips plus hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+10021741000033116	needlebay fine pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+10021841000033114	needlebay fine pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+10021941000033118	needlebay fine pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+10042541000033117	exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices
+10042641000033116	bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pen
+10043341000033116	vamju 30mg modified-release tablets
+10043441000033110	vamju 60mg modified-release tablets
+10044541000033113	insulin degludec 100units/ml / liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices
+10044641000033114	xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pen
+1017141000033110	orabet tablets 500 mg
+1017241000033115	orabet tablets 850 mg
+10207841000033118	dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices
+10207941000033114	dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices
+10208041000033112	trulicity 0.75mg/0.5ml solution for injection pre-filled pen
+10208141000033111	trulicity 1.5mg/0.5ml solution for injection pre-filled pen
+10251341000033112	glidipion 15mg tablets
+10252641000033111	insulin lispro 200units/ml solution for injection 3ml pre-filled disposable devices
+10252741000033119	humalog kwikpen 200units/ml solution for injection 3ml pre-filled pen
+10259341000033113	novopen 5 hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+10259441000033119	novopen 5 hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+10259541000033118	juniorstar hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-30 units
+10259641000033117	juniorstar hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-30 units
+10259741000033114	juniorstar hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-30 units
+10259941000033112	comfort point needles for insulin pens 5 mm/31 gauge
+10260741000033113	glucorx finepoint ultra hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+10336941000033112	diabiom 15mg tablets
+10337041000033113	diabiom 30mg tablets
+10337141000033112	diabiom 45mg tablets
+10494241000033110	insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices
+10494441000033111	toujeo 300units/ml solution for injection 1.5ml pre-filled solostar pen
+10598841000033113	glucient sr 750mg tablets
+10598941000033117	glucient sr 1000mg tablets
+10600641000033118	abasaglar 100units/ml solution for injection 3ml cartridges
+10600741000033110	abasaglar kwikpen 100units/ml solution for injection 3ml pre-filled pen
+10614141000033116	empagliflozin 5mg / metformin 850mg tablets
+10614241000033111	empagliflozin 5mg / metformin 1g tablets
+10614341000033118	empagliflozin 12.5mg / metformin 850mg tablets
+10614441000033112	empagliflozin 12.5mg / metformin 1g tablets
+10614541000033113	synjardy 5mg/850mg tablets
+10614641000033114	synjardy 5mg/1000mg tablets
+10614741000033117	synjardy 12.5mg/850mg tablets
+10614841000033110	synjardy 12.5mg/1000mg tablets
+10623141000033112	glucoject hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+10623241000033117	glucoject hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+10623341000033110	glucoject hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+10623441000033116	glucoject hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+10623541000033115	glucoject hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/29gauge
+10639641000033119	glucoject hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+10673941000033110	insulin human 100units/ml solution for injection 10ml vials
+10674041000033112	insulin human 100units/ml solution for injection 3.15ml cartridges
+10674141000033111	insuman infusat 100units/ml solution for injection 10ml vials
+10674341000033114	insuman infusat 100units/ml solution for injection 3.15ml cartridges
+10701641000033116	bilxona 30mg modified-release tablets
+10701741000033113	bilxona 60mg modified-release tablets
+10951041000033114	albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices
+10951141000033113	albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices
+10952341000033119	eperzan 30mg powder and solvent for solution for injection pre-filled pen
+10953041000033113	eperzan 50mg powder and solvent for solution for injection pre-filled pen
+10982741000033111	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+10982841000033118	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+10982941000033114	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/32gauge
+10983041000033116	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+10983141000033117	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32gauge
+10983241000033112	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+10983341000033119	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/32gauge
+10983441000033113	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/29gauge
+10983541000033114	haemofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+11075341000033112	bd viva hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+11075441000033118	bd viva hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+11075541000033117	bd viva hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+11078441000033114	carepoint needles for insulin pens 4 mm/31 gauge
+11078541000033110	carepoint needles for insulin pens 5 mm/31 gauge
+11078641000033111	carepoint needles for insulin pens 6 mm/31 gauge
+11078741000033119	carepoint needles for insulin pens 8 mm/31 gauge
+11078841000033112	carepoint needles for insulin pens 12 mm/29 gauge
+1119741000033114	insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials
+11414341000033114	nanopass hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32.5gauge
+11414441000033115	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32.5gauge
+11441000033114	acarbose 100mg tablets
+1153441000033112	rastinon tablets 500 mg
+11536041000033117	mylife clickfine autoprotect hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+11541000033110	acarbose 50mg tablets
+11736441000033110	neon verifine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/31gauge
+11736541000033111	neon verifine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+11736641000033112	neon verifine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+11736741000033115	neon verifine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+11736841000033113	neon verifine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/30gauge
+11736941000033117	neon verifine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+11737041000033116	neon verifine ultra hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+11746741000033119	sharpsguard disposal unit
+11746841000033112	sharpsguard disposal unit
+11767441000033115	profine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+11767541000033119	profine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+11767641000033118	profine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+11767941000033113	profine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+11768141000033110	profine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+11781341000033117	metformin 1g/5ml oral solution sugar free
+11781441000033111	metformin 850mg/5ml oral solution sugar free
+11813541000033114	microdot verifine safety pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/30gauge
+11814141000033119	neon verifine safety hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+11814341000033116	neon verifine safety hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/30gauge
+1184741000033113	romozin tablets 200 mg
+1184841000033115	romozin tablets 300 mg
+1184941000033111	romozin tablets 400 mg
+11898041000033111	saxagliptin 5mg / dapagliflozin 10mg tablets
+11898141000033110	qtern 5mg/10mg tablets
+11918941000033116	zicron pr 30mg tablets
+11919041000033113	saxenda 6mg/ml solution for injection 3ml pre-filled pen
+12146841000033115	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+12186441000033111	fiasp 100units/ml solution for injection 10ml vials
+12186541000033112	fiasp flextouch 100units/ml solution for injection 3ml pre-filled pen
+12186641000033113	fiasp penfill 100units/ml solution for injection 3ml cartridges
+12326541000033110	meijumet 500mg modified-release tablets
+12326641000033111	meijumet 750mg modified-release tablets
+12326741000033119	meijumet 1000mg modified-release tablets
+12333341000033110	allstar hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+12333441000033116	allstar hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+12380741000033111	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+12380841000033118	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/32gauge
+12380941000033114	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32gauge
+12388941000033112	glucorx carepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/31gauge
+12389141000033116	glucorx carepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+12389241000033111	glucorx carepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+12389341000033118	glucorx carepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+12389441000033112	glucorx carepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+1240741000033113	sabre disposable insulin syringe 0.5 ml
+1240841000033115	sabre disposable insulin syringe 1 ml
+12419841000033117	bd viva hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+12436041000033110	allstar pro hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+12436141000033114	allstar pro hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+12447541000033115	glucorx carepoint ultra hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+12477441000033117	teduglutide 1.25mg powder and solvent for solution for injection vials
+12477541000033116	revestive 1.25mg powder and solvent for solution for injection vials
+12478141000033112	glucorx carepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/29gauge
+12480041000033117	dropsafe safety pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+12480141000033118	dropsafe safety pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+12481641000033115	humulin r kwikpen 500units/ml solution for injection 3ml pre-filled pen
+12486241000033111	humalog junior kwikpen 100units/ml solution for injection 3ml pre-filled pen
+12499641000033117	mylife penfine classic hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+12499741000033114	neria guard subcutaneous drug delivery device 12cm tubing 6mm needle 27gauge
+12499841000033116	neria guard subcutaneous drug delivery device 12cm tubing 9mm needle 27gauge
+12499941000033112	neria guard subcutaneous drug delivery device 60cm tubing 6mm needle 27gauge
+12500041000033112	neria guard subcutaneous drug delivery device 60cm tubing 9mm needle 27gauge
+12500141000033111	neria guard subcutaneous drug delivery device 110cm tubing 6mm needle 27gauge
+12500241000033116	neria guard subcutaneous drug delivery device 110cm tubing 9mm needle 27gauge
+12518941000033113	unifine pentips hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/33gauge
+12519341000033119	unifine pentips plus hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/33gauge
+12519841000033111	carefine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+12519941000033115	carefine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+12520041000033117	carefine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+12520141000033118	carefine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+12541241000033115	u100 insulin sterile, single use syringes with 12mm needle 0.3 ml, 0.3 mm/30g
+12573641000033115	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/31gauge
+12573741000033112	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+12573841000033119	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+12573941000033110	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/32gauge
+12574041000033112	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+12574141000033111	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32gauge
+12574241000033116	4sure hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+12593141000033115	yaltormin sr 500mg tablets
+12593241000033110	yaltormin sr 750mg tablets
+12593341000033117	yaltormin sr 1000mg tablets
+12600741000033116	insulin lispro sanofi 100units/ml solution for injection 10ml vials
+12600841000033114	insulin lispro sanofi 100units/ml solution for injection 3ml cartridges
+12600941000033118	insulin lispro sanofi 100units/ml solution for injection 3ml pre-filled pen
+12624241000033111	insulin soluble porcine 100units/ml solution for injection 10ml vials
+12641000033116	acetohexamide tablets 500 mg
+12664441000033115	metuxtan sr 500mg tablets
+12686641000033112	semglee 100units/ml solution for injection 3ml pre-filled pen
+12711741000033115	microdot max safety pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/30gauge
+1278041000033114	semi-daonil 2.5mg tablets
+12876141000033116	semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device
+12876241000033111	semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device
+12876341000033118	semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device
+12876441000033112	ozempic 1mg/0.74ml solution for injection 3ml pre-filled pen
+12876541000033113	ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pen
+12876641000033114	ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pen
+12880941000033111	ertugliflozin 5mg tablets
+12881041000033118	ertugliflozin 15mg tablets
+12881141000033119	steglatro 5mg tablets
+12881241000033114	steglatro 15mg tablets
+12902541000033110	suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled solostar pen
+12902641000033111	suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled solostar pen
+12902741000033119	insulin glargine 100units/ml / lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices
+12902841000033112	insulin glargine 100units/ml / lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices
+12998741000033119	insulin glargine 300units/ml solution for injection 3ml pre-filled disposable devices
+12998841000033112	toujeo 300units/ml solution for injection 3ml pre-filled doublestar pen
+12998941000033116	gliclazide 160mg tablets
+12999041000033113	glydex 160mg tablets
+13027441000033117	glucorx safety pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/30gauge
+13027541000033116	glucorx safety pen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/30gauge
+1415541000033116	terumo disposable insulin syringe 0.5 ml
+1450941000033113	tolbutamide 500mg tablets
+1452241000033117	tolanase tablets 100 mg
+1452341000033110	tolanase tablets 250 mg
+1452741000033111	tolazamide tablets 100 mg
+1452841000033118	tolazamide tablets 250 mg
+1472141000033110	troglitazone tablets 200 mg
+1472241000033115	troglitazone tablets 300 mg
+1472341000033113	troglitazone tablets 400 mg
+1480541000033110	hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with not less than 12mm needle 0.33mm/29gauge
+1480641000033111	u100 insulin sterile, single use syringes with 12mm needle 0.3 ml, 0.36 mm/28g
+1480741000033119	u100 insulin sterile, single use syringes with 12mm needle 0.3 ml, 0.4 mm/27g
+1480841000033112	u100 insulin sterile, single use syringes with 12mm needle 0.3 ml, 0.45 mm/26g
+1480941000033116	hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with not less than 12mm needle 0.33mm/29gauge
+1481041000033114	hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with not less than 12mm needle 0.36mm/28gauge
+1481141000033113	hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with not less than 12mm needle 0.4mm/27gauge
+1481241000033118	u100 insulin sterile, single use syringes with 12mm needle 0.5 ml, 0.45 mm/26g
+1481341000033111	u100 insulin sterile, single use syringes with needle 0.36 x 13 mm/28g ref no443723113
+148841000033116	biphasic insulin injection 100 units/ml
+1490141000033119	unifine hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 12mm needle 0.33mm/29gauge
+1577541000033112	bd micro-fine + hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12.7mm/29gauge
+1602941000033117	diaglyk 80mg tablets
+1615941000033113	humulin i 100units/ml suspension for injection 3ml cartridges
+1616041000033115	humulin s 100units/ml solution for injection 3ml cartridges
+1616241000033111	humulin m2 100units/ml suspension for injection 3ml cartridges
+1616341000033118	humulin m3 100units/ml suspension for injection 3ml cartridges
+1620641000033115	isophane insulin (human pyr) injection 100 units/ml, 10 ml vial
+1621141000033118	isophane insulin (human pyr) penfill cartridges (1.5 ml) 100 units/ml
+1621241000033113	isophane insulin (human pyr) penfill cartridges (3 ml) 100 units/ml
+1621341000033115	isophane insulin (human pyr) preloaded pen 100 units/ml
+1659941000033116	novonorm 500microgram tablets
+1660041000033118	novonorm 1mg tablets
+1660141000033119	novonorm 2mg tablets
+1672741000033112	repaglinide 1mg tablets
+1672841000033119	repaglinide 2mg tablets
+1672941000033110	repaglinide 500microgram tablets
+1703341000033115	hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 8mm needle 0.3mm/30gauge
+1703441000033114	hypodermic u100 insulin syringe sterile single use / single patient use 1ml with not less than 12mm needle 0.33mm/29gauge
+1703541000033110	hypodermic u100 insulin syringe sterile single use / single patient use 1ml with not less than 12mm needle 0.36mm/28gauge
+1703641000033111	hypodermic u100 insulin syringe sterile single use / single patient use 1ml with not less than 12mm needle 0.4mm/27gauge
+1703741000033119	u100 insulin sterile, single use syringes with 12mm needle 1 ml, 0.45 mm/26g
+1703841000033112	hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 8mm needle 0.3mm/30gauge
+1714041000033116	human insulatard penfill 100units/ml suspension for injection 1.5ml cartridges
+1717041000033114	bd micro-fine + hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 8mm needle 0.3mm/30gauge
+1717141000033113	bd micro-fine + hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 8mm needle 0.3mm/30gauge
+1717341000033111	bd micro-fine + hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 12.7mm needle 0.33mm/29gauge
+1717441000033117	bd micro-fine + hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 12.7mm needle 0.33mm/29gauge
+1735041000033111	hollister guardian closed mini pouch with filter opaque 25mm, 4522
+1735141000033110	hollister guardian closed pouch clear 25mm, 4502
+1735241000033115	hollister guardian closed pouch clear 38mm, 4503
+1735341000033113	hollister guardian closed pouch clear 51mm, 4504
+1735441000033119	hollister guardian closed pouch clear 64mm, 4505
+1735541000033118	hollister guardian closed pouch opaque 25mm, 4512
+1735641000033117	hollister guardian closed pouch opaque 51mm, 4514
+1735741000033114	hollister guardian closed pouch opaque 64mm, 4515
+1736841000033114	humalog 100units/ml solution for injection 3ml cartridges
+1736941000033118	humalog mix25 100units/ml suspension for injection 3ml cartridges
+1737041000033117	humalog mix25 pen 100units/ml suspension for injection 3ml pre-filled pen
+1739941000033110	insulin lispro 100units/ml solution for injection 3ml cartridges
+1749441000033116	pork actrapid 100units/ml solution for injection 10ml vials
+1818141000033110	human mixtard 10 penfill 100units/ml suspension for injection 1.5ml cartridges
+1818241000033115	human mixtard 20 penfill 100units/ml suspension for injection 1.5ml cartridges
+1818341000033113	human mixtard 30 penfill 100units/ml suspension for injection 1.5ml cartridges
+1818441000033119	human mixtard 40 penfill 100units/ml suspension for injection 1.5ml cartridges
+1818541000033118	human mixtard 50 penfill 100units/ml suspension for injection 1.5ml cartridges
+1821441000033116	insulin isophane porcine 100units/ml suspension for injection 10ml vials
+1821541000033115	insulin isophane porcine 100units/ml suspension for injection 3ml cartridges
+1821641000033119	insulin isophane bovine 100units/ml suspension for injection 10ml vials
+1821741000033111	insulin isophane bovine 100units/ml suspension for injection 3ml cartridges
+1821841000033118	bd micro-fine + hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+1822441000033112	hollister guardian closed pouch opaque 38mm, 4513
+1844541000033119	bd micro-fine + hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+1861941000033119	insulin aspart 100units/ml solution for injection 10ml vials
+1862041000033113	insulin aspart 100units/ml solution for injection 3ml cartridges
+1862141000033112	insulin aspart prefilled syringes 100 units/ml
+1862241000033117	novorapid 100units/ml solution for injection 10ml vials
+1862341000033110	novorapid penfill 100units/ml solution for injection 3ml cartridges
+1862441000033116	novorapid novolet 100units/ml solution for injection
+1906641000033110	disposable insulin syringe with needle 0.3 ml
+1923241000033113	novofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+1923341000033115	novofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/28gauge
+1923441000033114	novofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/30gauge
+1923541000033110	novofine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/30gauge
+2011641000033110	unifine pentips hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+2011741000033118	unifine pentips hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+2016741000033113	autopen hypodermic insulin injection pen reusable for 1.5ml cartridge 1 unit dial up / range 1-16 units
+2016841000033115	autopen hypodermic insulin injection pen reusable for 1.5ml cartridge 2 unit dial up / range 2-32 units
+2016941000033111	autopen classic hypodermic insulin injection pen reusable for 3ml cartridge 2 unit dial up / range 2-42 units
+2017041000033112	novopen 3 classic hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 2-70 units
+2017141000033111	novopen 3 fun hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 2-70 units
+2017241000033116	novopen 3 fun hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 2-70 units
+2018841000033116	hypurin porcine 30/70 mix 100units/ml suspension for injection 10ml vials
+2018941000033112	hypurin porcine 30/70 mix 100units/ml suspension for injection 1.5ml cartridges
+2034441000033116	insuman rapid 100units/ml solution for injection 5ml vials
+2034641000033119	insuman rapid 100units/ml solution for injection 3ml cartridges
+2035241000033118	insuman basal 100units/ml suspension for injection 5ml vials
+2035441000033117	insuman basal 100units/ml suspension for injection 3ml cartridges
+2035541000033116	insuman comb 25 100units/ml suspension for injection 5ml vials
+2035641000033115	insuman comb 25 100units/ml suspension for injection 3ml cartridges
+2052341000033117	optipen pro 1 hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+2088441000033116	novopen 3 demi hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-35 units
+209341000033112	calabren tablets 2.5 mg
+2140541000033116	hypoguard supreme spectrum testing strips
+2147541000033115	rosiglitazone 4mg tablets
+2147641000033119	rosiglitazone 8mg tablets
+2147741000033111	avandia 4mg tablets
+2147841000033118	avandia 8mg tablets
+2158441000033118	insuman comb 15 100units/ml suspension for injection 5ml vials
+2158541000033117	insuman comb 15 100units/ml suspension for injection 3ml cartridges
+2158641000033116	insuman comb 50 100units/ml suspension for injection 5ml vials
+2158741000033113	insuman comb 50 100units/ml suspension for injection 3ml cartridges
+2182141000033117	humalog mix50 pen 100units/ml suspension for injection 3ml pre-filled pen
+2182241000033112	insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices
+2182341000033119	humalog pen 100units/ml solution for injection 3ml pre-filled pen
+2182441000033113	humulin i pen 100units/ml suspension for injection 3ml pre-filled pen
+218441000033114	calabren tablets 5 mg
+2190741000033115	pioglitazone 15mg tablets
+2190841000033113	pioglitazone 30mg tablets
+2190941000033117	actos 15mg tablets
+2191041000033110	actos 30mg tablets
+2194041000033112	autopen classic hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-21 units
+2266841000033110	insuman basal 100units/ml suspension for injection 3ml pre-filled optiset pen
+2266941000033119	insuman rapid 100units/ml solution for injection 3ml pre-filled optiset pen
+2267041000033118	insuman comb 15 100units/ml suspension for injection 3ml pre-filled optiset pen
+2267141000033119	insuman comb 25 100units/ml suspension for injection 3ml pre-filled optiset pen
+2267241000033114	insuman comb 50 100units/ml suspension for injection 3ml pre-filled optiset pen
+2284041000033113	innovo hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-70 units
+2284141000033112	innovo hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-70 units
+2288241000033112	nateglinide 60mg tablets
+2288341000033119	nateglinide 120mg tablets
+2288441000033113	nateglinide 180mg tablets
+2288541000033114	starlix 60mg tablets
+2288641000033110	starlix 120mg tablets
+2288741000033118	starlix 180mg tablets
+2289441000033115	gliclazide 30mg modified-release tablets
+2289941000033113	diamicron 30mg mr tablets
+2297941000033115	hypoguard supreme plus meter
+2298041000033117	hypoguard supreme extra meter
+2423641000033110	*insulin tablets
+2423741000033118	*insulin granules
+2423841000033111	*insulin liquid
+2423941000033115	*insulin powder
+2424041000033118	*insulin pills (sucrose)
+249441000033114	chlorpropamide 100mg tablets
+249541000033110	chlorpropamide 250mg tablets
+2527841000033114	penfine needles for insulin pens 31g, 6 mm
+2527941000033118	penfine needles for insulin pens 31g, 8 mm
+2528041000033115	penfine needles for insulin pens 29g, 10 mm
+2528141000033116	penfine needles for insulin pens 29g, 12 mm
+2620241000033119	metformin 500mg/5ml oral suspension
+2625441000033112	novopen junior hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-35 units
+2625541000033113	novopen junior hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-35 units
+2644641000033113	insulatard innolet 100units/ml suspension for injection 3ml pre-filled pen
+2644741000033116	mixtard 30 innolet 100units/ml suspension for injection 3ml pre-filled pen
+2655041000033116	autopen junior hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-21 units
+2655141000033117	autopen junior hypodermic insulin injection pen reusable for 3ml cartridge 2 unit dial up / range 2-42 units
+266641000033113	clinipak disposable insulin syringe with needle 0.5 ml, 30g
+266741000033116	clinipak disposable insulin syringe with needle 1 ml, 30g
+2719341000033116	unifine pentips hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+2724741000033111	novomix 30 penfill 100units/ml suspension for injection 3ml cartridges
+2724841000033118	novomix 30 flexpen 100units/ml suspension for injection 3ml pre-filled pen
+2727441000033112	hypoguard supreme lancets 0.36mm/28gauge
+2742941000033119	autopen special edition hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-21 units
+2743041000033112	autopen special edition hypodermic insulin injection pen reusable for 3ml cartridge 2 unit dial up / range 2-42 units
+2757141000033115	respond plus ostoguard barrier cream 60 g, rmc1
+2780741000033111	lantus 100units/ml solution for injection 10ml vials
+2780841000033118	lantus 100units/ml solution for injection 3ml cartridges
+2780941000033114	lantus 100units/ml solution for injection 3ml pre-filled optiset pen
+2796641000033115	novorapid flexpen 100units/ml solution for injection 3ml pre-filled pen
+2796741000033112	insulatard flexpen 100units/ml suspension for injection
+2798841000033115	insulin glargine 100units/ml solution for injection 10ml vials
+2798941000033111	insulin glargine 100units/ml solution for injection 3ml cartridges
+2799041000033119	insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices
+2852041000033115	guard barrier cream
+2852141000033116	guard barrier cream 2g sachets
+2874541000033119	humapen ergo hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+2874641000033118	humapen ergo hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+2884141000033118	autopen 24 hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-21 units
+2884241000033113	autopen 24 hypodermic insulin injection pen reusable for 3ml cartridge 2 unit dial up / range 2-42 units
+2916941000033119	hypurin bovine neutral 100units/ml solution for injection 3ml cartridges
+2917041000033118	hypurin bovine isophane 100units/ml suspension for injection 3ml cartridges
+2917141000033119	hypurin porcine neutral 100units/ml solution for injection 3ml cartridges
+2917241000033114	hypurin porcine isophane 100units/ml suspension for injection 3ml cartridges
+2917341000033116	hypurin porcine 30/70 mix 100units/ml suspension for injection 3ml cartridges
+2952841000033116	actrapid 100units/ml solution for injection 10ml vials
+2952941000033112	actrapid novolet 100units/ml solution for injection
+2953041000033119	actrapid penfill 100units/ml solution for injection 3ml cartridges
+2953141000033115	insulatard novolet 100units/ml suspension for injection
+2953241000033110	insulatard 100units/ml suspension for injection 10ml vials
+2953341000033117	insulatard penfill 100units/ml suspension for injection 3ml cartridges
+2953441000033111	mixtard 10 novolet 100units/ml suspension for injection
+2953541000033112	mixtard 10 penfill 100units/ml suspension for injection 3ml cartridges
+2953641000033113	mixtard 20 novolet 100units/ml suspension for injection
+2953741000033116	mixtard 20 penfill 100units/ml suspension for injection 3ml cartridges
+2953841000033114	mixtard 30 novolet 100units/ml suspension for injection
+2953941000033118	mixtard 30 100units/ml suspension for injection 10ml vials
+2954041000033116	mixtard 30 penfill 100units/ml suspension for injection 3ml cartridges
+2954141000033117	mixtard 40 novolet 100units/ml suspension for injection
+2954241000033112	mixtard 40 penfill 100units/ml suspension for injection 3ml cartridges
+2954341000033119	mixtard 50 novolet 100units/ml suspension for injection
+2954541000033114	mixtard 50 penfill 100units/ml suspension for injection 3ml cartridges
+2954641000033110	velosulin 100units/ml solution for injection 10ml vials
+2954741000033118	monotard 100units/ml suspension for injection 10ml vials
+2954841000033111	ultratard 100units/ml suspension for injection 10ml vials
+2995141000033110	avandamet 1mg/500mg tablets
+2995241000033115	avandamet 2mg/500mg tablets
+2995941000033112	pioglitazone 45mg tablets
+2996041000033119	actos 45mg tablets
+3111041000033116	hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 8mm needle 0.3mm/30gauge
+3111141000033117	u100 insulin sterile, single use syringes with 8mm needles 1 ml, 0.33 mm/29g
+3111241000033112	u100 insulin sterile, single use syringes with 8mm needles 0.3 ml, 0.33 mm/29g
+3111341000033119	u100 insulin sterile, single use syringes with 8mm needles 0.5 ml, 0.33 mm/29g
+3135241000033118	levothyroxine sodium capsules lactose free, sugar free 50 micrograms
+3136941000033116	insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices
+3137041000033115	insulin detemir 100units/ml solution for injection 3ml cartridges
+3137141000033116	levemir penfill 100units/ml solution for injection 3ml cartridges
+3137241000033111	levemir flexpen 100units/ml solution for injection 3ml pre-filled pen
+3141641000033116	bd micro-fine + hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 8mm needle 0.3mm/30gauge
+3151741000033110	levothyroxine sodium capsules lactose free, sugar free 100 micrograms
+3191341000033115	rosiglitazone 1mg / metformin 500mg tablets
+3191441000033114	rosiglitazone 2mg / metformin 500mg tablets
+3200541000033116	rosiglitazone 2mg / metformin 1g tablets
+3200641000033115	rosiglitazone 4mg / metformin 1g tablets
+3200741000033112	avandamet 2mg/1000mg tablets
+3200841000033119	avandamet 4mg/1000mg tablets
+3228141000033117	metformin 500mg modified-release tablets
+3228241000033112	glucophage sr 500mg tablets
+3277741000033118	insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices
+3333841000033113	humulin m3 pen 100units/ml suspension for injection 3ml pre-filled pen
+3345641000033114	insulin glulisine 100units/ml solution for injection 10ml vials
+3345741000033117	insulin glulisine 100units/ml solution for injection 3ml cartridges
+3345841000033110	apidra 100units/ml solution for injection 10ml vials
+3345941000033119	apidra 100units/ml solution for injection 3ml cartridges
+3852741000033110	comfort point needles for insulin pens 6 mm/31 gauge
+3852841000033117	comfort point needles for insulin pens 8 mm/31 gauge
+3852941000033113	comfort point needles for insulin pens 12 mm/29 gauge
+3866041000033117	levothyroxine sodium capsules lactose free, sugar free 25 micrograms
+3869341000033114	lantus 100units/ml solution for injection 3ml opticlik cartridges
+3890941000033116	metformin hydrochloride sugar free suspension 500 mg/5 ml
+3914241000033112	insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices
+3914341000033119	apidra 100units/ml solution for injection 3ml pre-filled optiset pen
+3922641000033111	humalog mix50 100units/ml suspension for injection 3ml cartridges
+3938341000033116	exubera insulin release units box of 6
+3945141000033114	exubera 1mg inhalation powder blisters
+3945241000033119	exubera 3mg inhalation powder blisters
+3953041000033113	gliclazide 80mg/5ml oral suspension
+3963941000033117	apidra 100units/ml solution for injection 3ml opticlik cartridges
+3974041000033113	guard non sting barrier film sachets
+3974141000033112	ostomart ostoguard no sting protective skin barrier film 30 ml dab on bottle, rmc4
+3982341000033110	metformin 500mg/5ml oral solution sugar free
+3982441000033116	metsol 500mg/5ml oral solution
+3983941000033115	pioglitazone 15mg / metformin 850mg tablets
+3984241000033114	competact 15mg/850mg tablets
+3993941000033119	prandin 0.5mg tablets
+3994041000033117	prandin 1mg tablets
+3994141000033118	prandin 2mg tablets
+4043341000033119	aspirin powder sachets lactose free 75 mg
+406741000033116	daonil tablets 2.5 mg
+406841000033114	daonil 5mg tablets
+4126541000033110	levemir innolet 100units/ml solution for injection 3ml pre-filled pen
+4128441000033113	novofine autocover hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/30gauge
+4133241000033117	sitagliptin 100mg tablets
+4133341000033110	januvia 100mg tablets
+4138941000033118	opticlik hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+4139041000033110	opticlik hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+4149341000033111	exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices
+4149441000033117	exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices
+4149541000033116	byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pen
+4149641000033115	byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pen
+4258541000033111	lantus 100units/ml solution for injection 3ml pre-filled solostar pen
+4258641000033112	apidra 100units/ml solution for injection 3ml pre-filled solostar pen
+4269741000033117	vildagliptin 50mg tablets
+4269841000033110	vildagliptin tablets 100 mg
+4269941000033119	galvus 50mg tablets
+4270041000033118	galvus tablets 100 mg
+4299641000033111	panavia f oxyguard ii syringe 6 ml
+4373341000033116	sharpsguard disposal unit
+4373441000033110	sharpsguard disposal unit
+4373541000033111	sharpsguard disposal unit
+4405741000033115	humapen luxura hd hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-30 units
+4423041000033114	humulin r 500units/ml solution for injection 20ml vials
+444941000033119	disposable insulin syringe with needle 0.5 ml
+445041000033119	disposable insulin syringe with needle 1 ml
+4452341000033119	vildagliptin 50mg / metformin 850mg tablets
+4452441000033113	vildagliptin 50mg / metformin 1g tablets
+4452541000033114	eucreas 50mg/1000mg tablets
+4452641000033110	eucreas 50mg/850mg tablets
+4522041000033113	niddaryl 1mg tablets
+4522141000033112	niddaryl 2mg tablets
+4522241000033117	niddaryl 3mg tablets
+4522341000033110	niddaryl 4mg tablets
+4529741000033116	ostomart ostoguard no sting barrier film rmc5
+4549141000033118	metformin 750mg modified-release tablets
+4549241000033113	glucophage sr 750mg tablets
+4597041000033115	novopen 4 hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+4597141000033116	novopen 4 hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+4608541000033115	humalog kwikpen 100units/ml solution for injection 3ml pre-filled pen
+4608641000033119	humalog mix25 kwikpen 100units/ml suspension for injection 3ml pre-filled pen
+4608741000033111	humalog mix50 kwikpen 100units/ml suspension for injection 3ml pre-filled pen
+462041000033119	diabetamide 2.5mg tablets
+462141000033115	diabetamide 5mg tablets
+463541000033118	diamicron 80mg tablets
+463941000033112	dimelor tablets 500 mg
+4655241000033118	lamberts osteoguard tablets
+465841000033115	diabinese tablets 100 mg
+465941000033111	diabinese tablets 250 mg
+4825441000033110	ts-a safety hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 12mm safety needle 0.33mm/29gauge
+4941241000033119	nazdol mr 30mg tablets
+4945241000033117	metformin 1g modified-release tablets
+4945341000033110	glucophage sr 1000mg tablets
+4957741000033118	bolamyn sr 500mg tablets
+5007641000033119	metformin 500mg oral powder sachets sugar free
+5007741000033111	metformin 1g oral powder sachets sugar free
+5007841000033118	glucophage 500mg oral powder sachets
+5007941000033114	glucophage 1000mg oral powder sachets
+5079841000033118	humapen memoir hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+5128241000033116	glucophage tablets 1000 mg
+5131241000033110	liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices
+5131341000033117	victoza 6mg/ml solution for injection 3ml pre-filled pen
+5132141000033111	janumet tablets 50 mg + 500 mg
+5132241000033116	janumet 50mg/1000mg tablets
+5316641000033118	saxagliptin 5mg tablets
+5316741000033110	onglyza 5mg tablets
+5378141000033117	dacadis mr 30mg tablets
+5403541000033118	humalog mix25 100units/ml suspension for injection 10ml vials
+5440141000033112	humapen luxura hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+5440641000033119	humapen luxura hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+5491941000033110	amaryl m tablets 1 mg + 250 mg
+5492041000033116	amaryl m tablets 2 mg + 500 mg
+557241000033113	euglucon 2.5mg tablets
+557341000033115	euglucon 5mg tablets
+5576041000033115	metformin 1g / sitagliptin 50mg tablets
+5697241000033112	bd-microfine + needles for insulin pens 4 mm/32 gauge
+5700341000033114	hydroxypropyl guar eye drops 0.2 %
+5700841000033117	hydroxypropyl guar eye drops (preservative-free) 0.2 %, 0.8 ml unit dose
+5709141000033115	hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-30 units
+5709241000033110	hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 1-35 units
+5709341000033117	hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-21 units
+5709441000033111	hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+5709541000033112	hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+5709641000033113	hypodermic insulin injection pen reusable for 3ml cartridge 2 unit dial up / range 2-42 units
+5709741000033116	gliclazide 40mg tablets
+5709841000033114	zicron 40mg tablets
+5709941000033118	hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with not less than 12mm needle 0.3mm/30gauge
+5710041000033114	hypodermic u100 insulin syringe sterile single use / single patient use 1ml with not less than 12mm needle 0.3mm/30gauge
+5732041000033119	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12.7mm/29gauge
+5732141000033115	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/28gauge
+5732441000033111	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+5733041000033111	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+5733341000033113	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+5733441000033119	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+5733541000033118	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/30gauge
+5733741000033114	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+5734041000033114	hypodermic insulin needles for pre-filled / reusable pen injectors snap on 10mm/29gauge
+5734141000033113	hypodermic insulin needles for pre-filled / reusable pen injectors snap on 12mm/29gauge
+5734241000033118	hypodermic insulin needles for pre-filled / reusable pen injectors snap on 6mm/31gauge
+5734341000033111	hypodermic insulin needles for pre-filled / reusable pen injectors snap on 8mm/31gauge
+5815341000033115	edicil mr 30mg tablets
+5819941000033118	clikstar hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+5820041000033115	clikstar hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units
+5869241000033114	gliclazide 40mg/5ml oral suspension
+58841000033113	amaryl 2mg tablets
+5905141000033111	ime-fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+5905241000033116	ime-fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+5905341000033114	ime-fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/29gauge
+5905441000033115	ime-fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+5909641000033116	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/29gauge
+5910741000033117	humulin m3 kwikpen 100units/ml suspension for injection 3ml pre-filled pen
+5911541000033119	humulin i kwikpen 100units/ml suspension for injection 3ml pre-filled pen
+59541000033116	amaryl 1mg tablets
+59641000033115	amaryl 3mg tablets
+5968741000033115	glibenclamide 5mg/5ml oral solution
+5968841000033113	glibenclamide 5mg/5ml oral suspension
+59741000033112	amaryl 4mg tablets
+5997041000033115	metformin 500mg/5ml oral solution
+6006341000033111	novotwist hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/32gauge
+6011841000033112	insuman comb 25 100units/ml suspension for injection 3ml pre-filled solostar pen
+6029841000033115	metabet sr 500mg tablets
+6058541000033111	guard non sting barrier film
+6123241000033112	saxagliptin 2.5mg tablets
+6123341000033119	onglyza 2.5mg tablets
+6135341000033117	vitile xl 30mg tablets
+6279741000033117	metabet sr 1000mg tablets
+6364241000033114	bd autoshield hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/29gauge
+6388241000033117	exenatide 2mg powder and solvent for prolonged-release suspension for injection vials
+6388341000033110	bydureon 2mg powder and solvent for prolonged-release suspension for injection vials
+6389641000033111	insuman basal 100units/ml suspension for injection 3ml pre-filled solostar pen
+6391041000033117	glucient sr 500mg tablets
+6391141000033118	enyglid 0.5mg tablets
+6391241000033113	enyglid 1mg tablets
+6391341000033115	enyglid 2mg tablets
+6434041000033116	cilguard overlap dressing 10cm x 10cm
+6434141000033117	cilguard overlap dressing 15cm x 15cm
+6434241000033112	cilguard overlap dressing 10cm x 20cm
+6434341000033119	cilguard overlap dressing 20cm x 20cm
+6434441000033113	cilguard standard dressing 10cm x 10cm
+6434541000033114	cilguard standard dressing 15cm x 15cm
+6434641000033110	cilguard standard dressing 10cm x 20cm
+6434741000033118	cilguard standard dressing 20cm x 20cm
+6434841000033111	cilguard standard dressing 20cm x 50cm
+6434941000033115	cilguard standard dressing 10cm x 60cm
+6435041000033115	cilguard border dressing 10cm x 10cm
+6435141000033116	cilguard border dressing 15cm x 15cm
+6435241000033111	cilguard border dressing 10cm x 20cm
+6435341000033118	cilguard border dressing 20cm x 20cm
+6435441000033112	cilguard border dressing 20cm x 50cm
+6444041000033117	linagliptin 5mg tablets
+6444141000033118	trajenta 5mg tablets
+644541000033111	glibenclamide 2.5mg tablets
+644641000033112	glibenclamide 5mg tablets
+644741000033115	glibenese 5mg tablets
+6448141000033113	mylife clickfine autoprotect hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/29gauge
+644841000033113	glipizide 5mg tablets
+644941000033117	glucophage 500mg tablets
+645041000033117	glucophage 850mg tablets
+645241000033113	glucobay 100mg tablets
+645341000033115	glucobay 50mg tablets
+645541000033110	glucamet tablets 500 mg
+645641000033111	glucamet tablets 850 mg
+6456441000033119	novorapid flextouch 100units/ml solution for injection 3ml pre-filled pen
+645841000033112	glimepiride 2mg tablets
+645941000033116	glimepiride 1mg tablets
+646041000033114	glimepiride 3mg tablets
+646141000033113	glimepiride 4mg tablets
+646241000033118	glyconon tablets 500 mg
+6463141000033112	mylife clickfine hypodermic insulin needles for pre-filled / reusable pen injectors snap on 4.5mm/31gauge
+646341000033111	glymese tablets 250 mg
+646441000033117	gliclazide 80mg tablets
+646541000033116	glipizide 2.5mg tablets
+646741000033112	glymidine tablets 500 mg
+646841000033119	glurenorm 30mg tablets
+646941000033110	gliquidone 30mg tablets
+6488441000033113	levothyroxine sodium tablets, lactose free 100 micrograms
+6488541000033114	levothyroxine sodium tablets, lactose free 50 micrograms
+6488641000033110	levothyroxine sodium tablets, lactose free 25 micrograms
+6490641000033114	comfort point needles for insulin pens 4 mm/31 gauge
+6490741000033117	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+6490841000033110	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+6490941000033119	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/30gauge
+6491041000033112	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+6518241000033118	bd autoshield duo hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/30gauge
+6519641000033112	novopen echo hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 0.5-30 units
+6519741000033115	novopen echo hypodermic insulin injection pen reusable for 3ml cartridge 0.5 unit dial up / range 0.5-30 units
+6525941000033110	glizofar 15mg tablets
+6526041000033117	glizofar 30mg tablets
+6526141000033118	glizofar 45mg tablets
+6535141000033111	unifine pentips hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+6535241000033116	unifine pentips plus hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+6535341000033114	unifine pentips plus hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+6535541000033119	unifine pentips plus hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+6535641000033118	unifine pentips plus hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+654941000033115	guarem 5g granules sachets
+655041000033115	guarina granules 5 g/sachet
+655141000033116	guar gum 5g granules sachets sugar free
+655341000033118	guar gum sachets 5 g/sachet
+671141000033117	hollister guardian 'f' floating flange pouches 102mm, 4406
+671241000033112	hollister guardian 'f' floating flange pouches 25mm, 4402
+671341000033119	hollister guardian 'f' floating flange pouches 51mm, 4404
+671441000033113	hollister guardian 'f' floating flange pouches 64mm, 4405
+671541000033114	hollister guardian 'f' floating flange pouches 38mm, 4403
+671641000033110	hollister guardian 's' stationary flange pouch 25mm, 4422
+671741000033118	hollister guardian 's' stationary flange pouch 38mm, 4423
+671841000033111	hollister guardian 's' stationary flange pouch 51mm, 4424
+671941000033115	hollister guardian 's' stationary flange pouch 64mm, 4425
+676241000033119	hollister guardian closed mini pouch with filter, opaque 64mm, 4525
+676341000033112	hollister guardian closed mini pouch with filter, opaque 38mm, 4523
+676441000033118	hollister guardian closed mini pouch with filter, opaque 51mm, 4524
+687941000033115	hollister guardian drainable pouch opaque 25mm, 4612
+688041000033117	hollister guardian drainable pouch opaque 38mm, 4613
+688141000033118	hollister guardian drainable pouch opaque 51mm, 4614
+688241000033113	hollister guardian drainable pouch opaque 64mm, 4615
+688341000033115	hollister guardian drainable mini-pouch opaque 25mm, 4642
+688441000033114	hollister guardian drainable mini-pouch opaque 51mm, 4644
+688541000033110	hollister guardian drainable mini-pouch opaque 64mm, 4645
+688641000033111	hollister guardian drainable mini-pouch opaque 38mm, 4643
+688741000033119	hollister guardian drainable pouch clear 25mm, 4602
+688841000033112	hollister guardian drainable pouch clear 38mm, 4603
+688941000033116	hollister guardian drainable pouch clear 51mm, 4604
+689041000033113	hollister guardian drainable pouch clear 64mm, 4605
+689141000033112	hollister guardian drainable pouch clear 102mm, 4606
+702341000033111	hollister irrigator drain for guardian two-piece system 38mm, 4803
+702441000033117	hollister irrigator drain for guardian two-piece system 51mm, 4804
+702541000033116	hollister irrigator drain for guardian two-piece system 64mm, 4805
+702641000033115	hollister irrigator drain for guardian two-piece system 102mm, 4806
+708041000033111	hollister guardian stoma cap with filter, opaque 38mm, 4303
+708141000033110	hollister guardian stoma cap with filter, opaque 51mm, 4304
+708241000033115	hollister guardian stoma cap with filter, opaque 64mm, 4305
+712241000033115	hollister guardian urostomy pouch clear 25mm, 4702
+712341000033113	hollister guardian urostomy pouch clear 38mm, 4703
+712441000033119	hollister guardian urostomy pouch clear 51mm, 4704
+720541000033111	humalog 100units/ml solution for injection 1.5ml cartridges
+721041000033110	human actrapid penfill 100units/ml solution for injection 1.5ml cartridges
+722841000033112	humulin m5 100units/ml suspension for injection 10ml vials
+723241000033118	humalog 100units/ml solution for injection 10ml vials
+724041000033112	humulin i 100units/ml suspension for injection 10ml vials
+724341000033114	humulin s 100units/ml solution for injection 10ml vials
+724541000033119	humulin zn 100units/ml suspension for injection 10ml vials
+725141000033112	human initard 50/50 insulin injection 100 units/ml
+725341000033110	humulin m3 100units/ml suspension for injection 10ml vials
+725841000033118	humulin lente 100units/ml suspension for injection 10ml vials
+727041000033119	humaject s pen 100units/ml solution for injection
+727341000033117	humaject m3 pen 100units/ml suspension for injection
+734941000033111	hypurin porcine isophane 100units/ml suspension for injection 10ml vials
+735441000033119	hypurin porcine neutral 100units/ml solution for injection 10ml vials
+735841000033116	hypurin bovine isophane 100units/ml suspension for injection 10ml vials
+735941000033112	hypurin bovine lente 100units/ml suspension for injection 10ml vials
+736041000033119	hypurin bovine neutral 100units/ml solution for injection 10ml vials
+736141000033115	hypurin bovine protamine zinc 100units/ml suspension for injection 10ml vials
+740341000033118	hypoguard ga reagent strips
+740441000033112	hypoguard supreme testing strips
+741441000033115	hypodermic insulin syringe
+757641000033112	insulin lispro 100units/ml solution for injection 1.5ml cartridges
+758341000033117	insulin syringe click-count 1 ml
+758441000033111	insulin syringe disposable 0.5 ml
+758541000033112	insulin syringe disposable 1 ml
+759841000033115	insulin zinc suspension (human) injection 100 units/ml, 10 ml vial
+762441000033118	insulin lispro 100units/ml solution for injection 10ml vials
+763341000033116	pork insulatard 100units/ml suspension for injection 10ml vials
+763941000033117	insulin zinc suspension injection 100 units/ml
+764941000033119	insulin zinc suspension lente (evans) injection 100u/ml
+766241000033115	insulin syringe pre-set 1 ml
+766741000033114	insulin syringe re-usable 0.5 ml
+766841000033116	insulin syringe re-usable 1 ml
+7684841000033117	clickfine needles for insulin pens 6 mm/31 gauge
+7684941000033113	clickfine needles for insulin pens 8 mm/31 gauge
+7685041000033113	clickfine needles for insulin pens 10 mm/29 gauge
+7685141000033112	clickfine needles for insulin pens 12 mm/29 gauge
+7687241000033110	sitagliptin 50mg tablets
+7687341000033117	januvia 50mg tablets
+7687441000033111	sitagliptin 25mg tablets
+7687541000033112	januvia 25mg tablets
+776041000033117	isophane insulin (human, prb) cartridges 100 units/ml
+779141000033111	insulin isophane human 100units/ml suspension for injection 10ml vials
+779641000033118	isophane insulin injection (evans) injection 100 units/ml
+779841000033117	isophane insulin injection 100 units/ml
+7874941000033110	diagemet xl 500mg tablets
+8027541000033116	diamicron m/r tablets 60 mg
+8028441000033116	galvus met tablets 850 mg + 50 mg
+8028541000033115	galvus met tablets 1 gram + 50 mg
+8051941000033118	droplet needles for insulin pens 6 mm/31 gauge
+8052241000033116	droplet needles for insulin pens 8 mm/31 gauge
+8052741000033110	droplet hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/29gauge
+8052841000033117	droplet hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+8056341000033110	mylife clickfine hypodermic insulin needles for pre-filled / reusable pen injectors snap on 6mm/31gauge
+8056441000033116	mylife clickfine hypodermic insulin needles for pre-filled / reusable pen injectors snap on 8mm/31gauge
+8056541000033115	mylife clickfine hypodermic insulin needles for pre-filled / reusable pen injectors snap on 10mm/29gauge
+8056641000033119	mylife clickfine hypodermic insulin needles for pre-filled / reusable pen injectors snap on 12mm/29gauge
+8115741000033119	linagliptin 2.5mg / metformin 1g tablets
+8115841000033112	linagliptin 2.5mg / metformin 850mg tablets
+8115941000033116	jentadueto 2.5mg/1000mg tablets
+8116041000033114	jentadueto 2.5mg/850mg tablets
+8125241000033119	glimepiride 6mg/5ml oral suspension
+8199341000033118	dapagliflozin 5mg tablets
+8199441000033112	dapagliflozin 10mg tablets
+8199541000033113	forxiga 5mg tablets
+8199641000033114	forxiga 10mg tablets
+821341000033110	lejguar granules 90 %
+8241541000033119	microdot droplet hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+8241641000033118	microdot droplet hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+8242541000033112	saxagliptin 2.5mg / metformin 850mg tablets
+8242641000033113	saxagliptin 2.5mg / metformin 1g tablets
+8242741000033116	komboglyze 2.5mg/850mg tablets
+8242841000033114	komboglyze 2.5mg/1000mg tablets
+8243941000033112	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+8244041000033114	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+8244241000033118	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+8244341000033111	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32gauge
+8244441000033117	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+8244541000033116	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/32gauge
+8244641000033115	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+8263941000033117	insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices
+8264041000033115	insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices
+8264141000033116	tresiba flextouch 100units/ml solution for injection 3ml pre-filled pen
+8264241000033111	tresiba flextouch 200units/ml solution for injection 3ml pre-filled pen
+8264341000033118	insulin degludec 100units/ml solution for injection 3ml cartridges
+8264441000033112	tresiba penfill 100units/ml solution for injection 3ml cartridges
+8267341000033110	lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices
+8267441000033116	lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices
+8267541000033115	lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pen
+8267641000033119	lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pen
+8268441000033115	lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices
+8268641000033118	lyxumia 10micrograms/20micrograms treatment initiation pack
+8280641000033118	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 8mm safety needle 0.33mm/29gauge
+8280841000033117	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 8mm safety needle 0.3mm/30gauge
+8281141000033116	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 8mm safety needle 0.33mm/29gauge
+8281241000033111	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 8mm safety needle 0.3mm/30gauge
+8281341000033118	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 8mm safety needle 0.33mm/29gauge
+8281441000033112	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 8mm safety needle 0.3mm/30gauge
+8281541000033113	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 12mm safety needle 0.33mm/29gauge
+8281641000033114	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 12mm safety needle 0.3mm/30gauge
+8281741000033117	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 12mm safety needle 0.33mm/29gauge
+8281841000033110	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 12mm safety needle 0.3mm/30gauge
+8281941000033119	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 12mm safety needle 0.33mm/29gauge
+8282041000033113	kendall magellan hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 12mm safety needle 0.3mm/30gauge
+8298141000033113	gliclazide 60mg modified-release tablets
+8298241000033118	laaglyda mr 60mg tablets
+8318141000033117	humapen savvio hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+8318241000033112	humapen savvio hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+8318341000033119	humapen savvio hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+8318441000033113	humapen savvio hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+8318541000033114	humapen savvio hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+8318641000033110	humapen savvio hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-60 units
+8348941000033113	bolamyn sr 1000mg tablets
+837041000033115	libanil tablets 2.5 mg
+837141000033116	libanil tablets 5 mg
+8494141000033119	bd micro-fine ultra hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+8495341000033115	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/29gauge
+8495441000033114	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/31gauge
+8495541000033110	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32gauge
+8495641000033111	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/32gauge
+8495741000033119	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/32gauge
+8495841000033112	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/30gauge
+8535941000033119	hypodermic insulin needles for pre-filled / reusable pen injectors snap on 4.5mm/31gauge
+8538641000033119	omnican fine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/31gauge
+8586041000033117	unifine pentips hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+8586341000033115	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32.5gauge
+8586441000033114	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/32.5gauge
+8586541000033110	nanopass hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32.5gauge
+8586641000033111	nanopass hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/32.5gauge
+8622241000033111	glucorx finepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/31gauge
+8622341000033118	glucorx finepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+8622541000033113	glucorx finepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+8622841000033110	glucorx finepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+8623241000033116	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/29gauge
+8623341000033114	glucorx finepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 10mm/29gauge
+8623441000033115	glucorx finepoint hypodermic insulin needles for pre-filled / reusable pen injectors screw on 12mm/29gauge
+869841000033114	malix tablets 2.5 mg
+869941000033118	malix tablets 5 mg
+8839341000033116	glidipion 30mg tablets
+8839441000033110	glidipion 45mg tablets
+8880741000033117	mylife penfine classic hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+8880841000033110	mylife penfine classic hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/32gauge
+8881041000033112	mylife penfine classic hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+8881241000033116	bd safetyglide hypodermic u100 insulin syringe sterile single use / single patient use 0.3ml with 8mm safety needle 0.25mm/31gauge
+8881341000033114	bd safetyglide hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 8mm safety needle 0.3mm/30gauge
+8881441000033115	bd safetyglide hypodermic u100 insulin syringe sterile single use / single patient use 0.5ml with 12mm safety needle 0.33mm/29gauge
+8881541000033119	bd safetyglide hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 12mm safety needle 0.33mm/29gauge
+8884241000033118	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/30gauge
+8954241000033119	microdot droplet hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+8959241000033118	alogliptin 6.25mg tablets
+8959341000033111	alogliptin 12.5mg tablets
+8959441000033117	alogliptin 25mg tablets
+8959541000033116	vipidia 6.25mg tablets
+8959641000033115	vipidia 12.5mg tablets
+8959741000033112	vipidia 25mg tablets
+8959841000033119	alogliptin 12.5mg / metformin 1g tablets
+8959941000033110	vipdomet 12.5mg/1000mg tablets
+8960541000033115	enteroguard oral powder
+8963741000033119	mylife clickfine hypodermic insulin needles for pre-filled / reusable pen injectors snap on 4mm/32gauge
+8966741000033113	hypodermic insulin needles for pre-filled / reusable pen injectors snap on 4mm/32gauge
+896941000033112	metformin 500mg tablets
+897041000033113	metformin 850mg tablets
+9106041000033110	dapagliflozin 5mg / metformin 1g tablets
+9106141000033114	dapagliflozin 5mg / metformin 850mg tablets
+9106241000033119	xigduo 5mg/1000mg tablets
+9106341000033112	xigduo 5mg/850mg tablets
+9110341000033112	canagliflozin 100mg tablets
+9110441000033118	canagliflozin 300mg tablets
+9110541000033117	invokana 100mg tablets
+9110641000033116	invokana 300mg tablets
+915641000033117	pork mixtard 30 100units/ml suspension for injection 10ml vials
+9161441000033114	hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/33gauge
+9161541000033110	insupen hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/33gauge
+920141000033112	minodiab 2.5mg tablets
+920241000033117	minodiab 5mg tablets
+9230641000033113	sukkarto sr 500mg tablets
+9230841000033114	sukkarto sr 1000mg tablets
+924541000033112	monoject hypodermic u100 insulin syringe sterile single use / single patient use 1ml with 12mm needle 0.36mm/28gauge
+926541000033117	monotard mc insulin zinc susp bp nova injection 100 units/1 ml
+9336641000033119	empagliflozin 10mg tablets
+9336841000033118	empagliflozin 25mg tablets
+9337141000033114	jardiance 10mg tablets
+9337241000033119	jardiance 25mg tablets
+961041000033114	neutral insulin injection 100 units/ml
+961141000033113	neutral insulin (human) injection 100 units/ml
+962241000033112	neutral insulin (evans) injection 100 units/ml
+9677041000033116	insulin aspart 100units/ml solution for injection 1.6ml cartridges
+9677141000033117	novorapid pumpcart 100units/ml solution for injection 1.6ml cartridges
+9707541000033114	tricare hypodermic insulin needles for pre-filled / reusable pen injectors screw on 4mm/32gauge
+9707641000033110	tricare hypodermic insulin needles for pre-filled / reusable pen injectors screw on 5mm/31gauge
+9707741000033118	tricare hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge
+9707841000033111	tricare hypodermic insulin needles for pre-filled / reusable pen injectors screw on 8mm/31gauge
+9759541000033111	teduglutide 5mg powder and solvent for solution for injection vials
+9759641000033112	revestive 5mg powder and solvent for solution for injection vials
+9851541000033114	canagliflozin 50mg / metformin 1g tablets
+9851641000033110	canagliflozin 50mg / metformin 850mg tablets
+9851741000033118	vokanamet 50mg/850mg tablets
+9851841000033111	vokanamet 50mg/1000mg tablets

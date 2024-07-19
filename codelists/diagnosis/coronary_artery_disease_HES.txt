@@ -1,0 +1,48 @@
+icd	description
+I20	Angina pectoris
+I20.0	Unstable angina
+I20.1	Angina pectoris with documented spasm
+I20.8	Other forms of angina pectoris
+I20.9	Angina pectoris, unspecified
+I21	Acute myocardial infarction
+I21.0	Acute transmural myocardial infarction of anterior wall
+I21.1	Acute transmural myocardial infarction of inferior wall
+I21.2	Acute transmural myocardial infarction of other sites
+I21.3	Acute transmural myocardial infarction of unspecified site
+I21.4	Acute subendocardial myocardial infarction
+I21.9	Acute myocardial infarction, unspecified
+I22	Subsequent myocardial infarction
+I22.0	Subsequent myocardial infarction of anterior wall
+I22.1	Subsequent myocardial infarction of inferior wall
+I22.8	Subsequent myocardial infarction of other sites
+I22.9	Subsequent myocardial infarction of unspecified site
+I23	Certain current complications following acute myocardial infarction
+I23.0	Haemopericardium as current complication following acute myocardial infarction
+I23.1	Atrial septal defect as current complication following acute myocardial infarction
+I23.2	Ventricular septal defect as current complication following acute myocardial infarction
+I23.3	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+I23.4	Rupture of chordae tendineae as current complication following acute myocardial infarction
+I23.5	Rupture of papillary muscle as current complication following acute myocardial infarction
+I23.6	Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction
+I23.8	Other current complications following acute myocardial infarction
+I24	Other acute ischaemic heart diseases
+I24.0	Coronary thrombosis not resulting in myocardial infarction
+I24.1	Dressler syndrome
+I24.8	Other forms of acute ischaemic heart disease
+I24.9	Acute ischaemic heart disease, unspecified
+I25	Chronic ischaemic heart disease
+I25.0	Atherosclerotic cardiovascular disease, so described
+I25.1	Atherosclerotic heart disease
+I25.2	Old myocardial infarction
+I25.3	Aneurysm of heart
+I25.4	Coronary artery aneurysm
+I25.5	Ischaemic cardiomyopathy
+I25.6	Silent myocardial ischaemia
+I25.8	Other forms of chronic ischaemic heart disease
+I25.9	Chronic ischaemic heart disease, unspecified
+T82.2	Mechanical complication of coronary artery bypass and valve grafts
+T82.7	Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts
+T82.8	Other specified complications of cardiac and vascular prosthetic devices, implants and grafts
+T82.9	Unspecified complication of cardiac and vascular prosthetic device, implant and graft
+Z03.4	Observation for suspected myocardial infarction
+Z95.5	Presence of coronary angioplasty implant and graft
