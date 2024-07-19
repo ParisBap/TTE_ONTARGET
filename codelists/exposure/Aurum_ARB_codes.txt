@@ -1,0 +1,143 @@
+prodcodeid	productname
+2216241000033110	coaprovel 300mg/12.5mg tablets
+3161241000033111	irbesartan 300mg / hydrochlorothiazide 12.5mg tablets
+3161141000033116	irbesartan 150mg / hydrochlorothiazide 12.5mg tablets
+2216141000033115	coaprovel 150mg/12.5mg tablets
+2272741000033111	micardis 20mg tablets
+2272641000033119	telmisartan 20mg tablets
+9209341000033116	tolura 20mg tablets
+851841000033117	losartan 25mg tablets
+370441000033112	cozaar 25mg tablets
+370541000033113	cozaar 50mg tablets
+851941000033113	losartan 50mg tablets
+3161741000033117	losartan 50mg / hydrochlorothiazide 12.5mg tablets
+370841000033110	cozaar-comp 50mg/12.5mg tablets
+437741000033110	diovan 40mg capsules
+1498341000033118	valsartan 40mg capsules
+1498441000033112	valsartan 80mg capsules
+437841000033117	diovan 80mg capsules
+437641000033118	diovan 160mg capsules
+1498241000033111	valsartan 160mg capsules
+775641000033115	irbesartan 75mg tablets
+76141000033117	aprovel 75mg tablets
+8193941000033116	sabervel 75mg tablets
+8554141000033116	ifirmasta 75mg tablets
+75941000033114	aprovel 150mg tablets
+775441000033117	irbesartan 150mg tablets
+8554241000033111	ifirmasta 150mg tablets
+8194041000033119	sabervel 150mg tablets
+775541000033116	irbesartan 300mg tablets
+76041000033116	aprovel 300mg tablets
+8194141000033115	sabervel 300mg tablets
+8554341000033118	ifirmasta 300mg tablets
+59241000033118	amias 2mg tablets
+211641000033118	candesartan 2mg tablets
+211741000033110	candesartan 4mg tablets
+59341000033111	amias 4mg tablets
+59441000033117	amias 8mg tablets
+211841000033117	candesartan 8mg tablets
+211541000033119	candesartan 16mg tablets
+59141000033113	amias 16mg tablets
+1849741000033114	micardis 40mg tablets
+1849541000033118	telmisartan 40mg tablets
+9209441000033110	tolura 40mg tablets
+1849641000033117	telmisartan 80mg tablets
+1849841000033116	micardis 80mg tablets
+9209541000033111	tolura 80mg tablets
+2040841000033113	teveten 300mg tablets
+2036341000033115	eprosartan 300mg tablets
+2036441000033114	eprosartan 400mg tablets
+2040941000033117	teveten 400mg tablets
+2041041000033110	teveten 600mg tablets
+2036541000033110	eprosartan 600mg tablets
+6515441000033113	valsartan 80mg tablets
+6515541000033114	valsartan 160mg tablets
+4424941000033113	valsartan 320mg tablets
+4425041000033113	diovan 320mg tablets
+3227241000033111	candesartan 32mg tablets
+3227341000033118	amias 32mg tablets
+3190741000033112	valsartan 80mg / hydrochlorothiazide 12.5mg tablets
+3190841000033119	co-diovan 80mg/12.5mg tablets
+2944641000033112	olmesartan medoxomil 20mg tablets
+2944941000033117	olmetec 20mg tablets
+2945041000033117	olmetec 40mg tablets
+2944741000033115	olmesartan medoxomil 40mg tablets
+3346941000033113	cozaar-comp 100mg/25mg tablets
+3346841000033117	losartan 100mg / hydrochlorothiazide 25mg tablets
+3161441000033112	valsartan 160mg / hydrochlorothiazide 12.5mg tablets
+3152541000033112	co-diovan 160mg/12.5mg tablets
+2720141000033115	losartan 100mg tablets
+2720241000033110	cozaar 100mg tablets
+2864241000033110	micardisplus 40mg/12.5mg tablets
+3162641000033119	telmisartan 40mg / hydrochlorothiazide 12.5mg tablets
+9292641000033116	tolucombi 40mg/12.5mg tablets
+9159341000033112	actelsar hct 40mg/12.5mg tablets
+3162741000033111	telmisartan 80mg / hydrochlorothiazide 12.5mg tablets
+2864341000033117	micardisplus 80mg/12.5mg tablets
+9159441000033118	actelsar hct 80mg/12.5mg tablets
+9292741000033113	tolucombi 80mg/12.5mg tablets
+2944541000033111	olmesartan medoxomil 10mg tablets
+2944841000033113	olmetec 10mg tablets
+3909141000033116	olmetec plus 20mg/12.5mg tablets
+3908941000033112	olmesartan medoxomil 20mg / hydrochlorothiazide 12.5mg tablets
+5566341000033111	olmesartan medoxomil 40mg / hydrochlorothiazide 12.5mg tablets
+5566441000033117	olmetec plus 40mg/12.5mg tablets
+3161541000033113	valsartan 160mg / hydrochlorothiazide 25mg tablets
+3152641000033113	co-diovan 160mg/25mg tablets
+3201441000033114	diovan 40mg tablets
+3201341000033115	valsartan 40mg tablets
+5006141000033110	sevikar 20mg/5mg tablets
+5005841000033114	olmesartan medoxomil 20mg / amlodipine 5mg tablets
+5005941000033118	olmesartan medoxomil 40mg / amlodipine 5mg tablets
+5006241000033115	sevikar 40mg/5mg tablets
+5006341000033113	sevikar 40mg/10mg tablets
+5006041000033111	olmesartan medoxomil 40mg / amlodipine 10mg tablets
+7754941000033110	azilsartan medoxomil 40mg tablets
+7755241000033119	edarbi 40mg tablets
+7755041000033110	azilsartan medoxomil 80mg tablets
+7755341000033112	edarbi 80mg tablets
+5970641000033117	irbesartan 150mg/5ml oral suspension
+3909041000033115	olmesartan medoxomil 20mg / hydrochlorothiazide 25mg tablets
+3909241000033111	olmetec plus 20mg/25mg tablets
+3995241000033112	irbesartan 300mg / hydrochlorothiazide 25mg tablets
+3995341000033119	coaprovel 300mg/25mg tablets
+4021641000033111	amlodipine 10mg / valsartan 160mg tablets
+4021941000033116	exforge 10mg/160mg tablets
+4021841000033112	exforge 5mg/160mg tablets
+4021541000033110	amlodipine 5mg / valsartan 160mg tablets
+4021441000033114	amlodipine 5mg / valsartan 80mg tablets
+4021741000033119	exforge 5mg/80mg tablets
+4954341000033111	irbesartan 300mg/5ml oral suspension
+4424741000033110	losartan 100mg / hydrochlorothiazide 12.5mg tablets
+4424841000033117	cozaar-comp 100mg/12.5mg tablets
+4548841000033118	micardisplus 80mg/25mg tablets
+4548741000033111	telmisartan 80mg / hydrochlorothiazide 25mg tablets
+9159541000033117	actelsar hct 80mg/25mg tablets
+9292841000033115	tolucombi 80mg/25mg tablets
+5971941000033118	losartan 50mg/5ml oral solution
+5972041000033112	losartan 50mg/5ml oral suspension
+4273241000033118	olmesartan medoxomil 10mg/5ml oral suspension
+4957541000033114	losartan 12.5mg tablets
+4957641000033110	cozaar 12.5mg tablets
+5971741000033116	losartan 100mg/5ml oral solution
+5971841000033114	losartan 100mg/5ml oral suspension
+5150041000033110	cozaar 2.5mg/ml oral suspension
+5149941000033118	losartan 2.5mg/ml oral suspension sugar free
+6167841000033112	irbesartan 20mg oral powder sachets
+6180641000033112	sevikar hct 20mg/5mg/12.5mg tablets
+6180841000033113	sevikar hct 40mg/10mg/12.5mg tablets
+6181041000033110	sevikar hct 40mg/10mg/25mg tablets
+6180741000033115	sevikar hct 40mg/5mg/12.5mg tablets
+6180941000033117	sevikar hct 40mg/5mg/25mg tablets
+6423941000033116	irbesartan 30mg oral powder sachets
+6435741000033117	irbesartan 37.5mg oral powder sachets
+6528441000033113	valsartan 3mg/ml oral solution
+6528541000033114	diovan 3mg/1ml oral solution
+7754841000033119	azilsartan medoxomil 20mg tablets
+7755141000033114	edarbi 20mg tablets
+10943641000033117	sacubitril 24mg / valsartan 26mg tablets
+10943941000033112	entresto 24mg/26mg tablets
+10943741000033114	sacubitril 49mg / valsartan 51mg tablets
+10944041000033114	entresto 49mg/51mg tablets
+10943841000033116	sacubitril 97mg / valsartan 103mg tablets
+10944141000033113	entresto 97mg/103mg tablets
