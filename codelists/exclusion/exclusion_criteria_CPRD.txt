@@ -1,0 +1,2418 @@
+snomedctconceptid	medcodeid	term	term_main
+24165007	461112017	[V]Alcohol abuse counselling and surveillance	alcohol dependence
+35637008	460926018	[V]Alcohol rehabilitation	alcohol dependence
+371422002	460276013	[V]Personal history of alcoholism	alcohol dependence
+371422002	346501000006111	[V]Problems related to lifestyle alcohol use	alcohol dependence
+292416003	350971000006112	[X] Adverse reaction to alcohol deterrents	alcohol dependence
+25702006	362251000006117	[X]Acute alcoholic drunkenness	alcohol dependence
+66590003	362921000006118	[X]Alcohol addiction	alcohol dependence
+292416003	362931000006115	[X]Alcohol deterrents caus adverse effects in therapeut use	alcohol dependence
+308742005	315091000000117	[X]Alcohol withdrawal-induced seizure	alcohol dependence
+281004	362941000006113	[X]Alcoholic dementia NOS	alcohol dependence
+7052005	362951000006110	[X]Alcoholic hallucinosis	alcohol dependence
+42344001	362961000006112	[X]Alcoholic jealousy	alcohol dependence
+42344001	362971000006117	[X]Alcoholic paranoia	alcohol dependence
+42344001	362981000006119	[X]Alcoholic psychosis NOS	alcohol dependence
+191475009	370961000006119	[X]Chronic alcoholic brain syndrome	alcohol dependence
+66590003	370971000006114	[X]Chronic alcoholism	alcohol dependence
+8635005	376451000006113	[X]Delirium tremens, alcohol induced	alcohol dependence
+25702006	379971000006119	[X]Evid alch invl detrm by levl intox alch invl not oth spec	alcohol dependence
+25702006	379981000006116	[X]Evid alcoh invl determ by levl intox very sev alcoh intox	alcohol dependence
+25702006	379991000006118	[X]Evid alcoh invol determ by level of intox mod alcoh intox	alcohol dependence
+25702006	380001000006112	[X]Evid alcoh invol determ by level of intox sev alcoh intox	alcohol dependence
+25702006	380011000006110	[X]Evid alcoh invol determ by levl of intox mild alcoh intox	alcohol dependence
+25702006	380021000006119	[X]Evid alcoh invol detrm by pres alcoh in bld levl not spec	alcohol dependence
+25702006	380031000006116	[X]Evid of alcohol involv determind by level of intoxication	alcohol dependence
+69482004	394681000006119	[X]Korsakov's psychosis, alcohol induced	alcohol dependence
+42344001	397201000006116	[X]Men & behav dis due alcoh: resid & late-onset psychot dis	alcohol dependence
+8635005	397211000006118	[X]Men & behav dis due alcohl: withdrawl state with delirium	alcohol dependence
+29212009	397241000006119	[X]Men & behav dis due to use alcohol: oth men & behav dis	alcohol dependence
+91388009	397431000006111	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	alcohol dependence
+25702006	397611000006115	[X]Mental & behav dis due to use alcohol: acute intoxication	alcohol dependence
+42344001	397621000006111	[X]Mental & behav dis due to use alcohol: psychotic disorder	alcohol dependence
+73097000	397791000006118	[X]Mental and behav dis due to use alcohol: amnesic syndrome	alcohol dependence
+66590003	397801000006117	[X]Mental and behav dis due to use alcohol: dependence syndr	alcohol dependence
+191480000	397811000006119	[X]Mental and behav dis due to use alcohol: withdrawal state	alcohol dependence
+15167005	397881000006114	[X]Mental and behav dis due to use of alcohol: harmful use	alcohol dependence
+29212009	295765017	[X]Mental and behavioural disorders due to use of alcohol	alcohol dependence
+9953008	17390014	Acute alcoholic hepatitis	alcohol dependence
+191802004	295127018	Acute alcoholic intoxication in alcoholism	alcohol dependence
+191802004	295132017	Acute alcoholic intoxication in alcoholism NOS	alcohol dependence
+191806001	295131012	Acute alcoholic intoxication in remission, in alcoholism	alcohol dependence
+191802004	295128011	Acute alcoholic intoxication, unspecified, in alcoholism	alcohol dependence
+183486001	283559019	Admitted to alcohol detoxification centre	alcohol dependence
+292416003	464381000006118	Adverse reaction to alcohol deterrents	alcohol dependence
+375941000000101	739501000000112	Advised to contact primary care alcohol worker	alcohol dependence
+247721000000109	405461000000114	Alcohol abuse monitoring	alcohol dependence
+69482004	476361000006114	Alcohol amnestic syndrome	alcohol dependence
+73097000	294664016	Alcohol amnestic syndrome NOS	alcohol dependence
+413473000	2532939017	Alcohol consumption counselling	alcohol dependence
+527961000000108	2534258017	Alcohol counselling by other agencies	alcohol dependence
+66590003	500478011	Alcohol dependence syndrome	alcohol dependence
+66590003	295144019	Alcohol dependence syndrome NOS	alcohol dependence
+191802004	295126010	Alcohol dependence with acute alcoholic intoxication	alcohol dependence
+64297001	106878015	Alcohol detoxification	alcohol dependence
+413130000	2474678017	Alcohol disorder monitoring	alcohol dependence
+720175009	2475831000000114	Alcohol harm reduction programme	alcohol dependence
+417633001	2549849017	Alcohol induced hallucinations	alcohol dependence
+15167005	606991000000117	Alcohol misuse	alcohol dependence
+166471000000105	226571000000116	Alcohol misuse - enhanced service completed	alcohol dependence
+166251000000100	236441000000113	Alcohol misuse - enhanced services administration	alcohol dependence
+7200002	502017010	Alcohol problem drinking	alcohol dependence
+968891000000109	2467301000000111	Alcohol relapse prevention	alcohol dependence
+8635005	15243013	Alcohol withdrawal delirium	alcohol dependence
+191476005	294669014	Alcohol withdrawal hallucinosis	alcohol dependence
+191480000	294674018	Alcohol withdrawal syndrome	alcohol dependence
+235942001	353687012	Alcohol-induced acute pancreatitis	alcohol dependence
+235952002	353698013	Alcohol-induced chronic pancreatitis	alcohol dependence
+361268000	478024019	Alcohol-induced epilepsy	alcohol dependence
+237738005	356292013	Alcohol-induced pseudo-Cushing's syndrome	alcohol dependence
+83521008	138527014	Alcoholic cardiomyopathy	alcohol dependence
+420054005	476611000006116	Alcoholic cirrhosis of liver	alcohol dependence
+281004	346929012	Alcoholic dementia NOS	alcohol dependence
+192811002	297011014	Alcoholic encephalopathy	alcohol dependence
+50325005	83834016	Alcoholic fatty liver	alcohol dependence
+235880004	353594015	Alcoholic fibrosis and sclerosis of liver	alcohol dependence
+2043009	4525015	Alcoholic gastritis	alcohol dependence
+235881000	353595019	Alcoholic hepatic failure	alcohol dependence
+235875008	353587018	Alcoholic hepatitis	alcohol dependence
+41309000	303399018	Alcoholic liver damage unspecified	alcohol dependence
+19303008	476701000006114	Alcoholic myopathy	alcohol dependence
+191478006	294672019	Alcoholic paranoia	alcohol dependence
+7916009	14103017	Alcoholic polyneuropathy	alcohol dependence
+42344001	476741000006111	Alcoholic psychoses	alcohol dependence
+42344001	294676016	Alcoholic psychosis NOS	alcohol dependence
+1099951000000107	251195015	Alcoholics anonymous	alcohol dependence
+66590003	12878014	Alcoholism	alcohol dependence
+183388004	283451018	Aversion therapy - alcoholism	alcohol dependence
+228315001	342366014	Binge drinker	alcohol dependence
+366371000000105	1680121000006110	Brief intervention for excessive alcohol consumptn completed	alcohol dependence
+379411000000105	1704281000006117	Brief intervention for excessive alcohol consumptn declined	alcohol dependence
+361272001	478046010	Cerebellar ataxia due to alcoholism	alcohol dependence
+192811002	542611000006114	Cerebral degeneration due to alcoholism	alcohol dependence
+191475009	294668018	Chronic alcoholic brain syndrome	alcohol dependence
+307757001	451124014	Chronic alcoholic hepatitis	alcohol dependence
+66590003	110629012	Chronic alcoholism	alcohol dependence
+191813001	295142015	Chronic alcoholism in remission	alcohol dependence
+66590003	295143013	Chronic alcoholism NOS	alcohol dependence
+191804003	295129015	Continuous acute alcoholic intoxication in alcoholism	alcohol dependence
+191811004	295139014	Continuous chronic alcoholism	alcohol dependence
+801811000000100	1792751000000118	Cycle of change stage, alcohol	alcohol dependence
+380861000000109	750531000000113	Declined referral to specialist alcohol treatment service	alcohol dependence
+8635005	15244019	Delirium tremens	alcohol dependence
+231161000000109	371501000000110	Delivery of rehabilitation for alcohol addiction	alcohol dependence
+7200002	502016018	Dipsomania	alcohol dependence
+191477001	294670010	Drunkenness - pathological	alcohol dependence
+25702006	346931015	Drunkenness NOS	alcohol dependence
+8635005	507053019	DTs - delirium tremens	alcohol dependence
+963261000000108	1947501000006118	Emergency dept attendanc related to personl alcohl consumptn	alcohol dependence
+191805002	295130013	Episodic acute alcoholic intoxication in alcoholism	alcohol dependence
+191812006	295141010	Episodic chronic alcoholism	alcohol dependence
+754831000000102	1754191000006119	Extended interven for excessive alcohol consumption declined	alcohol dependence
+366421000000103	1680131000006113	Extended intervention for excessive alcohol consumptn complt	alcohol dependence
+198431000000105	299081000000114	Harmful alcohol use	alcohol dependence
+198421000000108	299061000000117	Hazardous alcohol use	alcohol dependence
+86933000	144179014	Heavy drinker	alcohol dependence
+921441000000103	2364891000000111	Hospital alcohol liaison team report received	alcohol dependence
+25702006	346930019	Inebriety NOS	alcohol dependence
+25702006	769451000006111	Intoxication - alcohol	alcohol dependence
+69482004	753331000006118	Korsakov's alcoholic psychosis	alcohol dependence
+191471000	294662017	Korsakov's alcoholic psychosis with peripheral neuritis	alcohol dependence
+268645007	882531000006110	Non-dependent abuse of alcohol	alcohol dependence
+268645007	401797010	Nondependent alcohol abuse	alcohol dependence
+191884001	295254011	Nondependent alcohol abuse in remission	alcohol dependence
+268645007	295255012	Nondependent alcohol abuse NOS	alcohol dependence
+191882002	295252010	Nondependent alcohol abuse, continuous	alcohol dependence
+191883007	295253017	Nondependent alcohol abuse, episodic	alcohol dependence
+268645007	295251015	Nondependent alcohol abuse, unspecified	alcohol dependence
+309783001	453265010	Oesophageal varices in alcoholic cirrhosis of the liver	alcohol dependence
+281004	401760017	Other alcoholic dementia	alcohol dependence
+42344001	294673012	Other alcoholic psychosis	alcohol dependence
+42344001	294675017	Other alcoholic psychosis NOS	alcohol dependence
+191477001	294671014	Pathological alcohol intoxication	alcohol dependence
+933641000000103	1926131000006117	Refer to MH services deferred until alcohol misuse resolved	alcohol dependence
+376401000000103	740641000000115	Referral to alcohol brief intervention service	alcohol dependence
+390857005	1484890014	Referral to community alcohol team	alcohol dependence
+781191000000101	1746481000000112	Referral to community alcohol team declined	alcohol dependence
+417096006	2549646014	Referral to community drug and alcohol team	alcohol dependence
+431260004	622961000000116	Referral to specialist alcohol treatment service	alcohol dependence
+946101000000100	2419601000000110	Specialist alcohol treatment service signposted	alcohol dependence
+135827004	216585018	Under care of community alcohol team	alcohol dependence
+66590003	295136019	Unspecified chronic alcoholism	alcohol dependence
+228279004	342322012	Very heavy drinker	alcohol dependence
+69482004	501294012	Wernicke-Korsakov syndrome	alcohol dependence
+6381009	291960011	[M] Alpha heavy chain disease	cancer
+255102004	304071000006110	[M] Angioendotheliomatosis	cancer
+6381009	291962015	[M] Gamma heavy chain disease	cancer
+128929007	291963013	[M] Large cell lymphoma	cancer
+12302002	291778013	[M] Small cell osteosarcoma	cancer
+51217003	304251000006114	[M]Acidophil carcinoma	cancer
+45410002	304271000006116	[M]Acinar cell carcinoma	cancer
+16974005	1221446018	[M]Acral lentiginous melanoma, malignant	cancer
+128812005	1220816015	[M]Acute progressive histiocytosis X	cancer
+56763007	304471000006117	[M]Adamantinoma of long bones	cancer
+88253001	304481000006119	[M]Adamantinoma, malignant	cancer
+15176003	304491000006116	[M]Adenoacanthoma	cancer
+86293007	1217037013	[M]Adenocarcinoid tumour	cancer
+57513006	304521000006119	[M]Adenocarcinoma in adenomatous polposis coli	cancer
+189598002	304531000006116	[M]Adenocarcinoma in adenomatous polyp	cancer
+47299001	1230440012	[M]Adenocarcinoma in multiple adenomatous polyps	cancer
+51642000	304551000006111	[M]Adenocarcinoma in situ	cancer
+60286009	1232066010	[M]Adenocarcinoma in situ in adenomatous polyp	cancer
+51617009	1231004013	[M]Adenocarcinoma in situ in tubulovillous adenoma	cancer
+4935000	1230709016	[M]Adenocarcinoma in situ in villous adenoma	cancer
+5658009	1231622010	[M]Adenocarcinoma in tubulovillous adenoma	cancer
+36087009	291436015	[M]Adenocarcinoma in villous adenoma	cancer
+35917007	291372011	[M]Adenocarcinoma NOS	cancer
+22694002	304621000006115	[M]Adenocarcinoma with apocrine metaplasia	cancer
+56484001	304631000006117	[M]Adenocarcinoma with cartilaginous and osseous metaplasia	cancer
+68358000	304641000006110	[M]Adenocarcinoma with spindle cell metaplasia	cancer
+15176003	304651000006112	[M]Adenocarcinoma with squamous metaplasia	cancer
+25190001	304661000006114	[M]Adenocarcinoma, intestinal type	cancer
+4590003	291374012	[M]Adenocarcinoma, metastatic, NOS	cancer
+35917007	304681000006116	[M]Adenocarcinomas	cancer
+11671000	304701000006118	[M]Adenoid cystic carcinoma	cancer
+85956000	304711000006115	[M]Adenoid squamous cell carcinoma	cancer
+31470003	304901000006115	[M]Adenosarcoma	cancer
+31470003	1227518012	[M]Adenosarcoma	cancer
+59367005	304921000006113	[M]Adenosquamous carcinoma	cancer
+2227007	305011000006117	[M]Adrenal cortical carcinoma	cancer
+76060004	305081000006112	[M]Aesthesioneuroblastoma	cancer
+66515009	305171000006110	[M]Alpha-cell tumour,malignant	cancer
+36310008	305181000006113	[M]Alveolar adenocarcinoma	cancer
+112677002	305201000006114	[M]Alveolar cell carcinoma	cancer
+63449009	305211000006112	[M]Alveolar rhabdomyosarcoma	cancer
+88195001	1235321016	[M]Alveolar soft part sarcoma	cancer
+70594002	305231000006118	[M]Amelanotic melanoma	cancer
+27092008	305261000006110	[M]Ameloblastic fibrosarcoma	cancer
+20380000	305271000006115	[M]Ameloblastic odontosarcoma	cancer
+88253001	305291000006119	[M]Ameloblastoma, malignant	cancer
+28953002	305531000006115	[M]Angiomyosarcoma	cancer
+39000009	305551000006110	[M]Angiosarcoma	cancer
+57141000	305571000006117	[M]Apocrine adenocarcinoma	cancer
+48952003	305671000006118	[M]Astroblastoma	cancer
+38713004	305681000006115	[M]Astrocytic glioma	cancer
+38713004	1229453012	[M]Astrocytoma NOS	cancer
+55353007	305701000006117	[M]Astrocytoma, anaplastic type	cancer
+39274007	305741000006115	[M]Balloon cell melanoma	cancer
+34603009	1228188010	[M]Basal cell adenocarcinoma	cancer
+5843004	305841000006110	[M]Basaloid carcinoma	cancer
+47107000	305861000006114	[M]Basophil carcinoma	cancer
+37304002	305901000006119	[M]Basosquamous carcinoma	cancer
+20955008	305921000006112	[M]Beta-cell tumour, malignant	cancer
+70179006	305941000006117	[M]Bile duct carcinoma	cancer
+50422007	305951000006115	[M]Bile duct cystadenocarcinoma	cancer
+126853008	305971000006113	[M]Biliary tract adenomas and adenocarcinomas	cancer
+67159000	1216845011	[M]Blue naevus, malignant	cancer
+67182003	407801000000116	[M]Borderline mucinous cystadenoma of the ovary	cancer
+84999002	291356015	[M]Bowen's disease	cancer
+42194009	306091000006115	[M]Brenner tumour, malignant	cancer
+115244002	306111000006112	[M]Brill - Symmers' disease	cancer
+112677002	306131000006118	[M]Bronchiolar carcinoma	cancer
+112677002	1219789016	[M]Bronchiolo-alveolar adenocarcinoma	cancer
+32913002	306211000006118	[M]C cell carcinoma	cancer
+253003009	306261000006115	[M]Carcinoid bronchial adenoma	cancer
+48554007	1216670013	[M]Carcinoid tumour, argentaffin, malignant	cancer
+189607006	291414018	[M]Carcinoid tumour, malignant	cancer
+189607006	291419011	[M]Carcinoid tumour, nonargentaffin, malignant	cancer
+189607006	291418015	[M]Carcinoid tumour, nonargentaffin, NOS	cancer
+189607006	291408013	[M]Carcinoid tumours	cancer
+189607006	291425010	[M]Carcinoid tumours NOS	cancer
+17264009	1221504012	[M]Carcinoma in pleomorphic adenoma	cancer
+109355002	306361000006113	[M]Carcinoma in situ NOS	cancer
+367651003	291326012	[M]Carcinoma NOS	cancer
+58248003	291330010	[M]Carcinoma, anaplastic type, NOS	cancer
+24505004	306401000006115	[M]Carcinoma, diffuse type	cancer
+79282002	291327015	[M]Carcinoma, metastatic, NOS	cancer
+38549000	291329017	[M]Carcinoma, undifferentiated type, NOS	cancer
+7010000	1233222010	[M]Carcinomatosis	cancer
+63264007	291676017	[M]Carcinosarcoma NOS	cancer
+112685006	306451000006116	[M]Carcinosarcoma, embryonal type	cancer
+17302008	291837016	[M]Cerebellar sarcoma NOS	cancer
+70179006	306641000006116	[M]Cholangiocarcinoma	cancer
+76312009	306661000006117	[M]Chondroblastic osteosarcoma	cancer
+74279005	306681000006110	[M]Chondroblastoma, malignant	cancer
+14990007	291782010	[M]Chondrosarcoma NOS	cancer
+50007008	306771000006119	[M]Chordoma	cancer
+44769000	1230128019	[M]Choriocarcinoma	cancer
+189857001	306821000006110	[M]Choriocarcinoma combined with teratoma	cancer
+1443001	306901000006111	[M]Chromophobe carcinoma	cancer
+30546008	291443014	[M]Clear cell adenocarcinoma NOS	cancer
+24007003	307051000006111	[M]Clear cell sarcoma of kidney	cancer
+12622007	291700017	[M]Clear cell sarcoma of tendons and aponeuroses	cancer
+84570003	307071000006118	[M]Cloacogenic carcinoma	cancer
+72495009	307091000006117	[M]Colloid adenocarcinoma	cancer
+52178006	1231089017	[M]Combined hepatocellular carcinoma and cholangiocarcinoma	cancer
+722237009	291536017	[M]Comedocarcinoma NOS	cancer
+78197004	307131000006115	[M]Comedocarcinoma, noninfiltrating	cancer
+52040006	307251000006119	[M]Congenital fibrosarcoma	cancer
+30156004	307271000006112	[M]Cribriform carcinoma	cancer
+11671000	307281000006110	[M]Cylindroid adenocarcinoma	cancer
+11671000	307291000006113	[M]Cylindroid bronchial adenoma	cancer
+21008007	291495018	[M]Cystadenocarcinoma NOS	cancer
+189826001	307441000006115	[M]Cystosarcoma phyllodes, malignant	cancer
+67280001	1232905013	[M]Dedifferentiated liposarcoma	cancer
+76594008	1234006011	[M]Dermatofibroma protuberans	cancer
+76594008	215889013	[M]Dermatofibrosarcoma NOS	cancer
+189849004	307531000006112	[M]Dermoid cyst with malignant transformation	cancer
+32456001	307571000006110	[M]Desmoplastic medulloblastoma	cancer
+51757004	1231028010	[M]Desmoplastic melanoma, malignant	cancer
+82711006	307631000006111	[M]Duct carcinoma NOS	cancer
+28047004	291718019	[M]Embryonal carcinoma NOS	cancer
+45024009	307801000006119	[M]Embryonal hepatoma	cancer
+27849002	307811000006116	[M]Embryonal liposarcoma	cancer
+14269005	307821000006112	[M]Embryonal rhabdomyosarcoma	cancer
+59583009	307831000006110	[M]Embryonal sarcoma	cancer
+19467007	307841000006117	[M]Embryonal teratoma	cancer
+74409009	307861000006118	[M]Endodermal sinus tumour	cancer
+70555003	307891000006114	[M]Endometrial stromal sarcoma	cancer
+18105004	307921000006115	[M]Endometrioid adenofibroma, malignant	cancer
+30289006	307971000006119	[M]Endometrioid carcinoma	cancer
+76909002	308001000006111	[M]Endothelial bone sarcoma	cancer
+51217003	308031000006115	[M]Eosinophil carcinoma	cancer
+21589007	308071000006117	[M]Ependymoblastoma	cancer
+443354006	291825018	[M]Ependymoma NOS	cancer
+21589007	308091000006116	[M]Ependymoma, anaplastic type	cancer
+59529006	308101000006110	[M]Epidermoid carcinoma in situ	cancer
+28899001	308111000006113	[M]Epidermoid carcinoma NOS	cancer
+18048008	308121000006117	[M]Epidermoid carcinoma, keratinising type	cancer
+9618003	1235961012	[M]Epithelial-myoepithelial carcinoma	cancer
+37138001	308181000006118	[M]Epithelioid cell melanoma	cancer
+59238007	308191000006115	[M]Epithelioid cell sarcoma	cancer
+54124005	1216731014	[M]Epithelioid haemangioendothelioma, malignant	cancer
+42392001	308241000006115	[M]Epithelioid leiomyosarcoma	cancer
+65278006	308261000006116	[M]Epithelioid mesothelioma, malignant	cancer
+71298006	308291000006112	[M]Epithelioma, malignant	cancer
+76909002	308351000006112	[M]Ewing's sarcoma	cancer
+71314006	308461000006115	[M]Fibrillary astrocytoma	cancer
+12690005	308491000006111	[M]Fibroblastic osteosarcoma	cancer
+14990007	308501000006115	[M]Fibrochondrosarcoma	cancer
+49430005	308551000006116	[M]Fibroliposarcoma	cancer
+115225009	291635014	[M]Fibromatous neoplasm NOS	cancer
+115225009	291626019	[M]Fibromatous neoplasms	cancer
+6250003	308641000006117	[M]Fibromyxosarcoma	cancer
+53654007	1231237017	[M]Fibrosarcoma NOS	cancer
+34360000	308671000006113	[M]Fibrous histiocytoma, malignant	cancer
+54443001	308701000006114	[M]Fibrous mesothelioma, malignant	cancer
+34360000	308731000006118	[M]Fibroxanthoma, malignant	cancer
+115225009	376870016	[M]Fibroxanthosarcoma	cancer
+5257006	291452017	[M]Follicular adenocarcinoma NOS	cancer
+72174007	308761000006110	[M]Follicular adenocarcinoma, trabecular type	cancer
+28173006	308771000006115	[M]Follicular adenocarcinoma, well differentiated type	cancer
+5257006	1222216017	[M]Follicular carcinoma	cancer
+115244002	308801000006118	[M]Follicular lymphosarcoma NOS	cancer
+19756007	308821000006111	[M]G cell tumour, malignant	cancer
+69515008	308861000006117	[M]Ganglioneuroblastoma	cancer
+19756007	308941000006114	[M]Gastrinoma, malignant	cancer
+72495009	308951000006111	[M]Gelatinous adenocarcinoma	cancer
+73982001	308961000006113	[M]Gemistocytic astrocytoma	cancer
+115244002	1222222014	[M]Germinoblastic sarcoma NOS	cancer
+40411000	309011000006119	[M]Germinoblastic sarcoma, follicular	cancer
+28307001	309041000006115	[M]Germinoma	cancer
+72969003	309061000006116	[M]Giant cell and spindle cell carcinoma	cancer
+10069009	309071000006111	[M]Giant cell bone sarcoma	cancer
+42596004	309081000006114	[M]Giant cell carcinoma	cancer
+44529004	309091000006112	[M]Giant cell glioblastoma	cancer
+87992000	1235290011	[M]Giant cell sarcoma (except of bone)	cancer
+10069009	309131000006114	[M]Giant cell tumour of bone, malignant	cancer
+115244002	309181000006110	[M]Giant follicular lymphoma	cancer
+63634009	309231000006115	[M]Glioblastoma multiforme	cancer
+63634009	403757015	[M]Glioblastoma NOS	cancer
+35262004	309251000006110	[M]Glioblastoma with sarcomatous component	cancer
+74532006	2552865010	[M]Glioma NOS	cancer
+74532006	309261000006112	[M]Glioma NOS	cancer
+74532006	309281000006119	[M]Glioma, malignant	cancer
+115240006	2550105015	[M]Gliomas	cancer
+26138003	309301000006115	[M]Gliomatosis cerebri	cancer
+35262004	309321000006113	[M]Gliosarcoma	cancer
+13875003	309351000006116	[M]Glomangiosarcoma	cancer
+13875003	309361000006119	[M]Glomoid sarcoma	cancer
+66515009	309401000006112	[M]Glucagonoma, malignant	cancer
+31396002	309431000006116	[M]Goblet cell tumour	cancer
+69028005	309471000006118	[M]Granular cell carcinoma	cancer
+18861007	309551000006112	[M]Granulosa cell tumour, malignant	cancer
+41607009	309571000006119	[M]Grawitz tumour	cancer
+33176006	309641000006111	[M]Haemangioendothelioma, malignant	cancer
+84664004	309731000006110	[M]Haemangiopericytoma, malignant	cancer
+39000009	309741000006117	[M]Haemangiosarcoma	cancer
+126853008	291383019	[M]Hepatobiliary adenoma or carcinoma NOS	cancer
+126853008	291380016	[M]Hepatobiliary tract adenomas and carcinomas	cancer
+45024009	309811000006113	[M]Hepatoblastoma	cancer
+25370001	1224870013	[M]Hepatocellular carcinoma NOS	cancer
+15619004	1221209015	[M]Hepatocellular carcinoma, fibrolamellar	cancer
+52178006	309851000006114	[M]Hepatocholangiocarcinoma	cancer
+25370001	309891000006115	[M]Hepatoma, malignant	cancer
+128920006	291958014	[M]Histiocytic medullary reticulosis	cancer
+14537002	1221109014	[M]Hodgkin's disease	cancer
+128930002	453326010	[M]Hodgkin's disease NOS	cancer
+128930002	309991000006111	[M]Hodgkin's disease NOS	cancer
+112687003	215913019	[M]Hodgkin's disease, lymphocytic depletion NOS	cancer
+128799007	291931019	[M]Hodgkin's disease, lymphocytic predominance	cancer
+41529000	1229767019	[M]Hodgkin's disease, mixed cellularity	cancer
+52248008	215914013	[M]Hodgkin's disease, nodular sclerosis NOS	cancer
+39086001	1229491012	[M]Hodgkin's disease, nodular sclerosis, cellular phase	cancer
+16893006	310071000006116	[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis	cancer
+74189002	1233711012	[M]Hodgkin's granuloma	cancer
+70600005	291934010	[M]Hodgkin's paragranuloma	cancer
+128799007	291932014	[M]Hodgkin,s disease, lymphocytic predominance, diffuse	cancer
+70600005	1233285010	[M]Hodgkin,s disease, lymphocytic predominance, nodular	cancer
+43985008	310131000006118	[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet	cancer
+45572000	310141000006111	[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom	cancer
+45572000	291933016	[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity	cancer
+57596004	310161000006110	[M]Hurthle cell adenocarcinoma	cancer
+61217001	1232189017	[M]Hutchinson's melanotic freckle	cancer
+41607009	310241000006119	[M]Hypernephroma	cancer
+19467007	310261000006115	[M]Immature teratoma	cancer
+74409009	310271000006110	[M]Infantile embryonal carcinoma	cancer
+52040006	310281000006113	[M]Infantile fibrosarcoma	cancer
+35232005	1228259019	[M]Infiltrating duct and lobular carcinoma	cancer
+82711006	310311000006110	[M]Infiltrating duct carcinoma	cancer
+58477004	310321000006119	[M]Infiltrating ductular carcinoma	cancer
+32968003	310341000006114	[M]Inflammatory carcinoma	cancer
+20955008	310361000006113	[M]Insulinoma, malignant	cancer
+77870005	310391000006117	[M]Interstitial cell tumour, malignant	cancer
+703545003	310411000006117	[M]Intracystic carcinoma NOS	cancer
+18680006	291539012	[M]Intraductal carcinoma and lobular carcinoma in situ	cancer
+86616005	310451000006116	[M]Intraductal carcinoma, noninfiltrating NOS	cancer
+64524002	1232564019	[M]Intraductal papillary adenocarcinoma with invasion	cancer
+59529006	310491000006110	[M]Intraepidermal carcinoma NOS	cancer
+20365006	310521000006112	[M]Intraepit neop,grade III,of cervix, vulva and vagina	cancer
+109355002	310531000006110	[M]Intraepithelial carcinoma NOS	cancer
+59529006	310541000006117	[M]Intraepithelial squamous cell carcinoma	cancer
+26888009	310571000006113	[M]Intraosseous carcinoma	cancer
+60346004	310661000006117	[M]Islet cell carcinoma	cancer
+128854008	310731000006117	[M]Juvenile astrocytoma	cancer
+41919003	310741000006110	[M]Juvenile breast carcinoma	cancer
+26211003	310791000006118	[M]Juxtacortical chondrosarcoma	cancer
+115237006	310801000006117	[M]Juxtacortical osteogenic sarcoma	cancer
+49937004	1230800010	[M]Kaposi's sarcoma	cancer
+6492006	1216826019	[M]Klatskin's tumour	cancer
+4305004	310861000006116	[M]Krukenberg tumour	cancer
+22687000	291328013	[M]Large cell carcinoma NOS	cancer
+400011005	291653015	[M]Leiomyosarcoma NOS	cancer
+302836005	310951000006110	[M]Lentigo maligna	cancer
+302836005	310961000006112	[M]Lentigo maligna melanoma	cancer
+78303004	310971000006117	[M]Leptomeningeal sarcoma	cancer
+128812005	1220817012	[M]Letterer - Siwe disease	cancer
+77870005	311091000006110	[M]Leydig cell tumour, malignant	cancer
+37995004	1229372013	[M]Linitis plastica	cancer
+49430005	291638011	[M]Liposarcoma NOS	cancer
+28655007	311191000006111	[M]Liposarcoma, well differentiated type	cancer
+25370001	311211000006112	[M]Liver cell carcinoma	cancer
+77284006	311221000006116	[M]Lobular carcinoma in situ	cancer
+89740008	291540014	[M]Lobular carcinoma NOS	cancer
+63373002	311301000006118	[M]Lymphangiosarcoma	cancer
+115244002	1222221019	[M]Lymphoblastic lymphoma NOS	cancer
+115244002	311351000006119	[M]Lymphoblastic lymphosarcoma NOS	cancer
+115244002	311361000006117	[M]Lymphoblastoma NOS	cancer
+115244002	1222219012	[M]Lymphocytic lymphoma NOS	cancer
+115244002	1222220018	[M]Lymphocytic lymphosarcoma NOS	cancer
+7300000	311391000006113	[M]Lymphoepithelial carcinoma	cancer
+128929007	403760010	[M]Lymphogranuloma, malignant	cancer
+21964009	311431000006119	[M]Lymphoma NOS	cancer
+414628006	311441000006112	[M]Lymphoma, diffuse or NOS	cancer
+414628006	291953017	[M]Lymphoma, nodular or follicular NOS	cancer
+115245001	311461000006111	[M]Lymphomas, nodular or follicular	cancer
+414628006	291887011	[M]Lymphomas, NOS or diffuse	cancer
+115244002	311521000006118	[M]Lymphosarcoma NOS	cancer
+115244002	311561000006112	[M]Malig lymp, follicular centre cell, cleaved, follicular	cancer
+115244002	311571000006117	[M]Malig lymp, lymphocytic, intermediate different, nodular	cancer
+115244002	311581000006119	[M]Malig lymp, lymphocytic, poorly differentiated, nodular	cancer
+115244002	311591000006116	[M]Malig lymp,follicular centre cell,noncleaved,follicular	cancer
+115244002	311601000006112	[M]Malig lymphoma, follicular centre cell, non-cleaved NOS	cancer
+115244002	311611000006110	[M]Malig lymphoma, lymphocytic, intermediate different NOS	cancer
+115244002	311621000006119	[M]Malig lymphoma, lymphocytic, well differentiated,nodular	cancer
+74654000	311641000006114	[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse	cancer
+48460009	311651000006111	[M]Malignant giant cell tumour of soft parts	cancer
+128920006	215915014	[M]Malignant histiocytosis	cancer
+21964009	311671000006118	[M]Malignant lymphoma NOS	cancer
+115244002	291910017	[M]Malignant lymphoma, centroblastic type NOS	cancer
+40411000	1229648010	[M]Malignant lymphoma, centroblastic type, follicular	cancer
+115244002	291900014	[M]Malignant lymphoma, centroblastic-centrocytic, diffuse	cancer
+115244002	291943018	[M]Malignant lymphoma, centroblastic-centrocytic, follicular	cancer
+115244002	291905016	[M]Malignant lymphoma, centrocytic	cancer
+115244002	291894014	[M]Malignant lymphoma, convoluted cell type NOS	cancer
+115244002	291891018	[M]Malignant lymphoma, diffuse NOS	cancer
+115244002	291902018	[M]Malignant lymphoma, follicular centre cell NOS	cancer
+115244002	291907012	[M]Malignant lymphoma, follicular centre cell, cleaved NOS	cancer
+450958009	1234197011	[M]Malignant lymphoma, immunoblastic type	cancer
+115244002	291914014	[M]Malignant lymphoma, large cell, cleaved, diffuse	cancer
+46732000	1230392016	[M]Malignant lymphoma, large cell, diffuse NOS	cancer
+115244002	311801000006113	[M]Malignant lymphoma, large cell, noncleaved, diffuse	cancer
+115244002	311811000006111	[M]Malignant lymphoma, lymphocytic, poorly different NOS	cancer
+115244002	291903011	[M]Malignant lymphoma, lymphocytic, well differentiated NOS	cancer
+19340000	1222289015	[M]Malignant lymphoma, lymphoplasmacytoid type	cancer
+115244002	403759017	[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS	cancer
+50102004	1230828016	[M]Malignant lymphoma, mixed small and large cell, diffuse	cancer
+115244002	403761014	[M]Malignant lymphoma, nodular NOS	cancer
+1929004	311871000006119	[M]Malignant lymphoma, non Hodgkin's type	cancer
+115244002	311881000006116	[M]Malignant lymphoma, small cell, noncleaved, diffuse	cancer
+115244002	215912012	[M]Malignant lymphoma, small cleaved cell, diffuse	cancer
+64575004	1232576019	[M]Malignant lymphoma, small lymphocytic NOS	cancer
+189962004	311911000006116	[M]Malignant lymphoma, stem cell type	cancer
+115244002	291892013	[M]Malignant lymphoma, undifferentiated cell type NOS	cancer
+74654000	291913015	[M]Malignant lymphomatous polyposis	cancer
+50150000	1230838014	[M]Malignant mastocytosis	cancer
+75931002	311951000006115	[M]Malignant melanoma in giant pigmented naevus	cancer
+44474009	1230100013	[M]Malignant melanoma in Hutchinson's melanotic freckle	cancer
+915007	311971000006113	[M]Malignant melanoma in junctional naevus	cancer
+2092003	403754010	[M]Malignant melanoma NOS	cancer
+39896009	1229572014	[M]Malignant melanoma, regressing	cancer
+128920006	215916010	[M]Malignant reticulosis	cancer
+21912003	312021000006118	[M]Malignant teratoma, intermediate type	cancer
+65646006	312031000006115	[M]Malignant teratoma, trophoblastic	cancer
+83292005	312041000006113	[M]Malignant teratoma, undifferentiated type	cancer
+88897007	312051000006110	[M]Malignant tumour, fusiform cell type	cancer
+83950009	312061000006112	[M]Malignant tumour, giant cell type	cancer
+82267002	312071000006117	[M]Malignant tumour, small cell type	cancer
+13583002	312101000006110	[M]Mast cell sarcoma	cancer
+32913002	291538016	[M]Medullary carcinoma NOS	cancer
+128916007	312161000006111	[M]Medullary carcinoma with amyloid stroma	cancer
+85654004	312171000006116	[M]Medullary carcinoma with lymphoid stroma	cancer
+83217000	291836013	[M]Medulloblastoma NOS	cancer
+39005004	291852011	[M]Medulloepithelioma NOS	cancer
+24604009	312201000006117	[M]Medullomyoblastoma	cancer
+2092003	312251000006118	[M]Melanocarcinoma	cancer
+77986002	1234193010	[M]Melanoma in situ	cancer
+2092003	312291000006112	[M]Melanosarcoma NOS	cancer
+14494009	312331000006117	[M]Meningeal sarcomatosis	cancer
+78303004	312361000006114	[M]Meningioma, malignant	cancer
+78303004	312391000006118	[M]Meningothelial sarcoma	cancer
+5052009	1230882017	[M]Merkel cell carcinoma	cancer
+56565002	312421000006114	[M]Mesenchymal chondrosarcoma	cancer
+25081006	291674019	[M]Mesenchymal nephroblastoma	cancer
+89623007	312461000006115	[M]Mesenchymoma, malignant	cancer
+84427001	312491000006111	[M]Mesodermal mixed tumour	cancer
+115232000	291712018	[M]Mesothelial neoplasm NOS	cancer
+115232000	291702013	[M]Mesothelial neoplasms	cancer
+30383009	312591000006110	[M]Mesothelioma, biphasic type, malignant	cancer
+62064005	312601000006119	[M]Mesothelioma, malignant	cancer
+115232000	291711013	[M]Mesothelioma, unspecified	cancer
+4305004	312621000006112	[M]Metastatic signet ring cell carcinoma	cancer
+6641007	312631000006110	[M]Metatypical carcinoma	cancer
+21964009	291957016	[M]Microglioma	cancer
+108369006	291815011	[M]Miscellaneous tumour NOS	cancer
+108369006	312761000006110	[M]Miscellaneous tumours	cancer
+62383007	312841000006116	[M]Mixed cell rhabdomyosarcoma	cancer
+50813003	312851000006119	[M]Mixed epithelioid and spindle melanoma	cancer
+32844007	1216406014	[M]Mixed germ cell tumour	cancer
+253071005	312871000006112	[M]Mixed glioma	cancer
+253071005	312911000006110	[M]Mixed glioma	cancer
+999000	312881000006110	[M]Mixed islet cell and exocrine adenocarcinoma	cancer
+8145008	291669010	[M]Mixed tumour, malignant, NOS	cancer
+11073003	312951000006111	[M]Mixed type liposarcoma	cancer
+10639003	313001000006116	[M]Monostotic myeloma	cancer
+108369006	313021000006114	[M]Morphology of neoplasms	cancer
+900006	313031000006112	[M]Mucin-producing adenocarcinoma	cancer
+72495009	313041000006119	[M]Mucinous adenocarcinoma	cancer
+79143006	291515019	[M]Mucinous cystadenocarcinoma NOS	cancer
+128852007	313111000006119	[M]Mucinous cystadenoma, borderline malignancy	cancer
+31396002	1216356017	[M]Mucocarcinoid tumour, malignant	cancer
+4079000	313131000006113	[M]Mucoepidermoid carcinoma	cancer
+72495009	313171000006111	[M]Mucoid adenocarcionoma	cancer
+47107000	313191000006112	[M]Mucoid cell carcinoma	cancer
+72495009	313201000006110	[M]Mucous adenocarcinoma	cancer
+84427001	313211000006113	[M]Mullerian mixed tumour	cancer
+49937004	313251000006114	[M]Multiple haemorrhagic sarcoma	cancer
+109989006	313271000006116	[M]Multiple myeloma	cancer
+55921005	313381000006111	[M]Myeloma NOS	cancer
+55921005	313391000006114	[M]Myelomatosis	cancer
+20667008	313501000006112	[M]Myosarcoma	cancer
+75622000	313521000006119	[M]Myxoid chondrosarcoma	cancer
+16090008	1221282014	[M]Myxoid leiomyosarcoma	cancer
+27849002	313541000006114	[M]Myxoid liposarcoma	cancer
+27849002	313561000006113	[M]Myxoliposarcoma	cancer
+28351005	1225879015	[M]Myxosarcoma	cancer
+2092003	313651000006112	[M]Naevocarcinoma	cancer
+108369006	292095014	[M]Neoplasm morphology NOS	cancer
+6219000	313691000006118	[M]Neoplasm, malig, uncertain whether primary or metastatic	cancer
+363346000	313701000006118	[M]Neoplasm, malignant	cancer
+14799000	313711000006115	[M]Neoplasm, metastatic	cancer
+108369006	291307016	[M]Neoplasms NOS	cancer
+31470003	1227517019	[M]Nephroblastoma NOS	cancer
+77418004	313801000006114	[M]Neurilemmoma, malignant	cancer
+87364003	403758013	[M]Neuroblastoma NOS	cancer
+55937004	1231544010	[M]Neuroendocrine carcinoma	cancer
+128928004	1887221000006112	[M]Neuroendocrine neoplasm	cancer
+128928004	207611012	[M]Neuroendocrine neoplasm	cancer
+55045006	291853018	[M]Neuroepithelioma NOS	cancer
+115241005	291861011	[M]Neuroepitheliomatous neoplasm NOS	cancer
+115241005	291843019	[M]Neuroepitheliomatous neoplasms	cancer
+404037002	313931000006111	[M]Neurofibrosarcoma	cancer
+363346000	314001000006118	[M]No microscopic confirmation of tumour, clinically malig	cancer
+128462008	314021000006111	[M]No microscopic confirmation tumour, clinically metastatic	cancer
+115244002	314041000006116	[M]Nodular lymphosarcoma NOS	cancer
+2142002	314051000006119	[M]Nodular melanoma	cancer
+1929004	314061000006117	[M]Non Hodgkins lymphoma	cancer
+128632008	1870381000006113	[M]Non-small cell carcinoma	cancer
+62681000	314071000006112	[M]Nonencapsulated sclerosing carcinoma	cancer
+703545003	314081000006110	[M]Noninfiltrating intracystic carcinoma	cancer
+30566004	314091000006113	[M]Noninfiltrating intraductal papillary adenocarcinoma	cancer
+76817009	314111000006116	[M]Oat cell carcinoma	cancer
+27092008	314141000006117	[M]Odontogenic fibrosarcoma	cancer
+26888009	314201000006112	[M]Odontogenic tumour, malignant	cancer
+76060004	314231000006116	[M]Olfactory neuroblastoma	cancer
+68614005	314241000006114	[M]Olfactory neuroepithelioma	cancer
+53968002	314251000006111	[M]Olfactory neurogenic tumour	cancer
+80061003	314261000006113	[M]Oligodendroblastoma	cancer
+443565000	291835012	[M]Oligodendroglioma NOS	cancer
+3102004	314281000006115	[M]Oligodendroglioma, anaplastic type	cancer
+57596004	314311000006118	[M]Oncytic adenocarcinoma	cancer
+74409009	314321000006114	[M]Orchioblastoma	cancer
+21708004	314351000006117	[M]Osteoblastic sarcoma	cancer
+21708004	314401000006113	[M]Osteochondrosarcoma	cancer
+10069009	314421000006115	[M]Osteoclastoma, malignant	cancer
+12690005	314441000006110	[M]Osteofibrosarcoma	cancer
+21708004	314451000006112	[M]Osteogenic sarcoma NOS	cancer
+115237006	291779017	[M]Osteoma or osteosarcoma NOS	cancer
+115237006	403755011	[M]Osteomas and osteosarcomas	cancer
+33681003	314501000006114	[M]Osteosarcoma in Paget's disease of bone	cancer
+21708004	1222660012	[M]Osteosarcoma NOS	cancer
+57596004	314621000006117	[M]Oxyphilic adenocarcinoma	cancer
+82591005	314671000006116	[M]Paget's disease and infiltrating breast duct carcinoma	cancer
+54666007	1231363012	[M]Paget's disease and intraductal carcinoma of breast	cancer
+2985005	314691000006115	[M]Paget's disease, breast	cancer
+71447003	314701000006115	[M]Paget's disease, extramammary, exc Paget's disease bone	cancer
+2985005	314711000006117	[M]Paget's disease, mammary	cancer
+4797003	291431013	[M]Papillary adenocarcinoma NOS	cancer
+189643000	314791000006110	[M]Papillary and follicular adenocarcinoma	cancer
+10376009	314811000006114	[M]Papillary carcinoma in situ	cancer
+25910003	291343010	[M]Papillary carcinoma NOS	cancer
+2735009	291510012	[M]Papillary cystadenocarcinoma, NOS	cancer
+128850004	314851000006110	[M]Papillary cystadenoma, borderline malignancy	cancer
+128850004	1220825014	[M]Papillary cystadenoma, borderline malignancy	cancer
+39056008	314891000006116	[M]Papillary epidermoid carcinoma	cancer
+68880006	314921000006110	[M]Papillary mucinous cystadenocarcinoma	cancer
+90282004	314971000006111	[M]Papillary serous cystadenocarcinoma	cancer
+128851000	314991000006112	[M]Papillary serous cystadenoma, borderline malignancy	cancer
+128851000	1220826010	[M]Papillary serous cystadenoma, borderline malignancy	cancer
+39056008	315011000006119	[M]Papillary squamous cell carcinoma	cancer
+12400006	315031000006113	[M]Papillary transitional cell carcinoma	cancer
+32913002	315071000006111	[M]Parafollicular cell carcinoma	cancer
+9903002	315101000006118	[M]Paraganglioma, malignant	cancer
+115237006	315161000006117	[M]Parosteal osteosarcoma	cancer
+115237006	315221000006118	[M]Periosteal osteogenic sarcoma	cancer
+73676002	1870391000006111	[M]Peripheral neuroectodermal tumour	cancer
+29370006	315231000006115	[M]Phaeochromoblastoma	cancer
+29370006	315251000006110	[M]Phaeochromocytoma, malignant	cancer
+62621002	1232355013	[M]Pigmented dermatofibrosarcoma protuberans	cancer
+128854008	315291000006116	[M]Pilocytic astrocytoma	cancer
+128854008	315301000006115	[M]Piloid astrocytoma	cancer
+31671006	315331000006111	[M]Pineoblastoma	cancer
+128922003	292017019	[M]Plasma cell leukaemia NOS	cancer
+128922003	292014014	[M]Plasma cell leukaemias	cancer
+55921005	1231541019	[M]Plasma cell myeloma	cancer
+399456004	315441000006114	[M]Plasma cell tumour, malignant	cancer
+55921005	315461000006113	[M]Plasmacytic myeloma	cancer
+10639003	315471000006118	[M]Plasmacytoma NOS	cancer
+16741004	315501000006113	[M]Pleomorphic carcinoma	cancer
+87992000	315511000006111	[M]Pleomorphic cell sarcoma	cancer
+112683004	315531000006117	[M]Pleomorphic liposarcoma	cancer
+77455004	315541000006110	[M]Pleomorphic rhabdomyosarcoma	cancer
+78838008	1234296013	[M]Pleomorphic xanthoastrocytoma	cancer
+112685006	315581000006116	[M]Pneumoblastoma	cancer
+28325008	315611000006112	[M]Polyembryoma	cancer
+28325008	315621000006116	[M]Polyembryonal embryonal carcinoma	cancer
+70401000	315631000006118	[M]Polygonal cell carcinoma	cancer
+74409009	315651000006113	[M]Polyvesicular vitelline tumour	cancer
+38969003	291604015	[M]Precancerous melanosis NOS	cancer
+39781001	1216595017	[M]Primitive neuroectodermal tumour	cancer
+115244002	291909010	[M]Prolymphocytic lymphosarcoma	cancer
+79143006	315741000006117	[M]Pseudomucinous adenocarcinoma	cancer
+112679004	1219790013	[M]Pseudomyxoma peritonei	cancer
+23109009	315771000006113	[M]Pseudosarcomatous carcinoma	cancer
+43149009	1229971014	[M]Pulmonary blastoma	cancer
+18348002	1222102015	[M]Queyrat's erythroplasia	cancer
+41607009	315861000006111	[M]Renal cell carcinoma	cancer
+74364000	315881000006118	[M]Reserve cell carcinoma	cancer
+115244002	315911000006118	[M]Reticulolymphosarcoma NOS	cancer
+115244002	315921000006114	[M]Reticulolymphosarcoma, diffuse	cancer
+189982000	315951000006117	[M]Reticulosarcoma NOS	cancer
+189982000	291923012	[M]Reticulosarcoma NOS	cancer
+189985003	315971000006110	[M]Reticulosarcoma, nodular	cancer
+189982000	315991000006111	[M]Reticulosarcomas	cancer
+189982000	316001000006112	[M]Reticulum cell sarcoma NOS	cancer
+19906005	291855013	[M]Retinoblastoma NOS	cancer
+12354007	316041000006114	[M]Retinoblastoma, undifferentiated type	cancer
+19906005	291854012	[M]Retinoblastomas	cancer
+83118000	1234787012	[M]Rhabdoid sarcoma	cancer
+30924005	215896010	[M]Rhabdomyosarcoma NOS	cancer
+74364000	316111000006114	[M]Round cell carcinoma	cancer
+43296007	316121000006118	[M]Round cell liposarcoma	cancer
+73506006	316131000006115	[M]Round cell sarcoma	cancer
+14269005	316141000006113	[M]Sarcoma botryoides	cancer
+372151005	291622017	[M]Sarcoma NOS	cancer
+54443001	1785811000006114	[M]Sarcomatoid mesothelioma	cancer
+9395006	291623010	[M]Sarcomatosis NOS	cancer
+5600009	316181000006119	[M]Schneiderian carcinoma	cancer
+77418004	316211000006115	[M]Schwannoma, malignant	cancer
+4584002	316221000006111	[M]Scirrhous adenocarcinoma	cancer
+54734006	1231370012	[M]Sebaceous adenocarcinoma	cancer
+79282002	316291000006113	[M]Secondary carcinoma	cancer
+14799000	316301000006114	[M]Secondary neoplasm	cancer
+41919003	316311000006112	[M]Secretory breast carcinoma	cancer
+443677002	291715016	[M]Seminoma NOS	cancer
+72907003	316331000006118	[M]Seminoma, anaplastic type	cancer
+443677002	291714017	[M]Seminomas	cancer
+90725004	291508010	[M]Serous cystadenocarcinoma, NOS	cancer
+128849004	1220823019	[M]Serous cystadenoma, borderline malignancy	cancer
+128849004	316381000006117	[M]Serous cystadenoma, borderline malignancy	cancer
+15674004	316401000006117	[M]Serous surface papillary carcinoma	cancer
+80091008	316441000006115	[M]Sertoli cell carcinoma	cancer
+87737001	316511000006118	[M]Signet ring carcinoma	cancer
+87737001	291528014	[M]Signet ring carcinoma NOS	cancer
+87737001	316531000006112	[M]Signet ring cell carcinoma	cancer
+126488004	291472010	[M]Skin appendage adenoma and carcinoma	cancer
+126488004	291475012	[M]Skin appendage adenoma or carcinoma NOS	cancer
+64000002	291474011	[M]Skin appendage carcinoma	cancer
+74364000	291332019	[M]Small cell carcinoma NOS	cancer
+74042001	316591000006111	[M]Small cell carcinoma, fusiform cell type	cancer
+5958006	1231976013	[M]Small cell carcinoma, intermediate cell	cancer
+73506006	316611000006117	[M]Small cell sarcoma	cancer
+21326004	1222626017	[M]Small cell-large cell carcinoma	cancer
+81920005	291403016	[M]Solid carcinoma NOS	cancer
+128916007	316691000006110	[M]Solid carcinoma with amyloid stroma	cancer
+10639003	316711000006113	[M]Solitary myeloma	cancer
+9294008	316741000006112	[M]Spermatocytic seminoma	cancer
+108369006	291331014	[M]Spheroidal cell carcinoma	cancer
+65692009	316761000006111	[M]Spindle cell carcinoma	cancer
+68827007	291607010	[M]Spindle cell melanoma NOS	cancer
+40244008	316801000006119	[M]Spindle cell melanoma, type B	cancer
+9801004	316821000006112	[M]Spindle cell sarcoma	cancer
+400155002	316831000006110	[M]Spinous cell carcinoma	cancer
+63634009	291828016	[M]Spongioblastoma NOS	cancer
+5688000	316891000006114	[M]Squamous cell ca-in-situ, questionable stromal invasion	cancer
+59529006	1231967018	[M]Squamous cell carcinoma in situ NOS	cancer
+400155002	291347011	[M]Squamous cell carcinoma NOS	cancer
+400155002	556511000000119	[M]Squamous cell carcinoma of skin NOS	cancer
+18048008	1216064018	[M]Squamous cell carcinoma, keratinising type NOS	cancer
+45490001	316931000006117	[M]Squamous cell carcinoma, large cell, non-keratinising	cancer
+64204000	291348018	[M]Squamous cell carcinoma, metastatic NOS	cancer
+12478003	316951000006112	[M]Squamous cell carcinoma, microinvasive	cancer
+35718007	316961000006114	[M]Squamous cell carcinoma, small cell, non-keratinising	cancer
+10288008	316971000006119	[M]Squamous cell carcinoma, spindle cell type	cancer
+18854008	317041000006111	[M]Struma ovarii, malignant	cancer
+81446001	317191000006118	[M]Superficial spreading adenocarcinoma	cancer
+55320002	317201000006115	[M]Superficial spreading melanoma	cancer
+32272007	291480015	[M]Sweat gland adenocarcinoma	cancer
+63211008	1232439019	[M]Synovial sarcoma NOS	cancer
+18588008	317341000006113	[M]Synovial sarcoma, biphasic type	cancer
+37206003	317361000006112	[M]Synovial sarcoma, spindle cell type	cancer
+78453009	317411000006116	[M]Telangiectatic osteosarcoma	cancer
+19467007	317421000006112	[M]Teratoblastoma, malignant	cancer
+67830002	317431000006110	[M]Teratocarcinoma	cancer
+88591002	317441000006117	[M]Teratoid medulloepithelioma	cancer
+19467007	1222303015	[M]Teratoma, malignant, NOS	cancer
+15949004	317611000006119	[M]Thymoma, malignant	cancer
+56763007	457307018	[M]Tibial adamantinoma	cancer
+29792007	317651000006118	[M]Trabecular adenocarcinoma	cancer
+53530009	317671000006111	[M]Transitional cell carcinoma in situ	cancer
+27090000	291363015	[M]Transitional cell carcinoma NOS	cancer
+112676006	317691000006112	[M]Transitional cell carcinoma, spindle cell type	cancer
+354002	1216442018	[M]Triton tumour, malignant	cancer
+128813000	1220820016	[M]True histiocytic lymphoma	cancer
+4631006	317821000006114	[M]Tubular adenocarcinoma	cancer
+88400008	317901000006110	[M]Tumour cells, malignant	cancer
+108369006	317941000006112	[M]Tumour morphology	cancer
+108369006	291320018	[M]Unspecified tumour cell NOS	cancer
+27090000	318001000006113	[M]Urothelial carcinoma	cancer
+89906000	291344016	[M]Verrucous carcinoma NOS	cancer
+89906000	318051000006112	[M]Verrucous epidermoid carcinoma	cancer
+89906000	318081000006116	[M]Verrucous squamous cell carcinoma	cancer
+28558000	318101000006112	[M]Villous adenocarcinoma	cancer
+31131002	1227435013	[M]Vipoma	cancer
+35562000	318171000006118	[M]Waldenstrom's macroglobulinaemia	cancer
+302849000	318211000006116	[M]Wilms' tumour	cancer
+74409009	318261000006118	[M]Yolk sac tumour	cancer
+183649005	340421000006119	[V]Follow-up exam aft combined treatment for malig neoplasm	cancer
+720006006	340471000006118	[V]Follow-up exam after radiotherapy for malignant neoplasm	cancer
+439740005	340511000006111	[V]Follow-up examination aft surgery for malignant neoplasm	cancer
+720006006	340541000006110	[V]Folow-up exam aft other treatment for malignant neoplasm	cancer
+720006006	340561000006114	[V]Folow-up exam aft unspec treatment for malignant neoplasm	cancer
+94663008	359271000006110	[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs	cancer
+94442001	359281000006113	[X]2ndry malignant neoplasm/oth+unspec parts/nervous system	cancer
+94396003	359291000006111	[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions	cancer
+109850001	292200019	[X]Carcinoma in situ of digestive organ, unspecified	cancer
+92653004	370111000006119	[X]Carcinoma in situ of oth+unspecified male genital organs	cancer
+92564006	292208014	[X]Carcinoma in situ of other parts of cervix	cancer
+189251006	292201015	[X]Carcinoma in situ of other parts of respiratory system	cancer
+109850001	292199017	[X]Carcinoma in situ of other specified digestive organs	cancer
+109355002	292212015	[X]Carcinoma in situ of other specified sites	cancer
+92594000	370161000006116	[X]Carcinoma in situ of other+unspcfd female genital organs	cancer
+255150000	370171000006111	[X]Carcinoma in situ of other+unspecified urinary organs	cancer
+189251006	292202010	[X]Carcinoma in situ of respiratory system, unspecified	cancer
+92749008	292206013	[X]Carcinoma in situ of skin of other sites	cancer
+92749008	370201000006110	[X]Carcinoma in situ of skin of other+unspecified parts/face	cancer
+92749008	292207016	[X]Carcinoma in situ of skin, unspecified	cancer
+109962001	292191019	[X]Diffuse non-Hodgkin's lymphoma, unspecified	cancer
+720006006	387151000006114	[X]Follow-up examinat after other treatment for malig neopl	cancer
+720006006	387171000006116	[X]Follow-up examinat after unspec treatment for malig neop	cancer
+713572001	288185010	[X]HIV disease resulting in other malignant neoplasms	cancer
+442537007	1815001000006119	[X]HIV disease resulting in other non-Hodgkin lymphoma	cancer
+442537007	288182013	[X]HIV disease resulting in other non-Hodgkin's lymphoma	cancer
+86406008	288186011	[X]HIV disease resulting in unspecified malignant neoplasm	cancer
+127569003	292197015	[X]In situ neoplasms	cancer
+109392002	292127010	[X]Kaposi's sarcoma of multiple organs	cancer
+109385007	292136014	[X]Kaposi's sarcoma of other sites	cancer
+109385007	292128017	[X]Kaposi's sarcoma, unspecified	cancer
+269469005	396091000006118	[X]Mal neoplasm/connective+soft tissue of trunk,unspecified	cancer
+269475001	396101000006112	[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf	cancer
+109919002	396111000006110	[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm	cancer
+188321006	396131000006116	[X]Mal neoplasm/periph nerves+autonomic nervous system,unspc	cancer
+109911004	396161000006113	[X]Malig neopl, overlap lesion brain & other part of CNS	cancer
+93225001	396171000006118	[X]Malignant melanoma of other+unspecified parts of face	cancer
+93655004	292118014	[X]Malignant melanoma of skin, unspecified	cancer
+93841009	396191000006117	[X]Malignant neopl/overlapping les/resp+intrathoracic organs	cancer
+443679004	292111015	[X]Malignant neoplasm of bone and articular cartilage	cancer
+254837009	292137017	[X]Malignant neoplasm of breast	cancer
+1090881000000100	292105018	[X]Malignant neoplasm of bronchus or lung, unspecified	cancer
+255077007	292099015	[X]Malignant neoplasm of digestive organs	cancer
+371982006	292156010	[X]Malignant neoplasm of endocrine gland, unspecified	cancer
+372062007	396251000006115	[X]Malignant neoplasm of eye, brain and other parts of cent	cancer
+363514001	292142013	[X]Malignant neoplasm of female genital organ, unspecified	cancer
+363514001	292138010	[X]Malignant neoplasm of female genital organs	cancer
+363346000	396281000006111	[X]Malignant neoplasm of ill-defined, secondary and unspeci	cancer
+363508008	292102015	[X]Malignant neoplasm of intestinal tract, part unspecified	cancer
+271323007	396301000006110	[X]Malignant neoplasm of lip, oral cavity and pharynx	cancer
+363515000	292146011	[X]Malignant neoplasm of male genital organ, unspecified	cancer
+363515000	292143015	[X]Malignant neoplasm of male genital organs	cancer
+363494000	292110019	[X]Malignant neoplasm of mediastinum, part unspecified	cancer
+363497007	292152012	[X]Malignant neoplasm of meninges, unspecified	cancer
+387837005	292121011	[X]Malignant neoplasm of mesothelial and soft tissue	cancer
+363346000	292158011	[X]Malignant neoplasm of other specified sites	cancer
+363492001	292132011	[X]Malignant neoplasm of peritoneum, unspecified	cancer
+448708002	396381000006118	[X]Malignant neoplasm of respiratory and intrathoracic orga	cancer
+372130007	292120012	[X]Malignant neoplasm of skin, unspecified	cancer
+371982006	292154013	[X]Malignant neoplasm of thyroid and other endocrine glands	cancer
+448233000	292148012	[X]Malignant neoplasm of urinary organ, unspecified	cancer
+419052002	292147019	[X]Malignant neoplasm of urinary tract	cancer
+428322007	292139019	[X]Malignant neoplasm of uterine adnexa, unspecified	cancer
+94047004	292135013	[X]Malignant neoplasm overlapping lesion of skin	cancer
+302817000	292166019	[X]Malignant neoplasm without specification of site	cancer
+1090931000000108	396461000006117	[X]Malignant neoplasm-pluriglandular involvement,unspecified	cancer
+443679004	396471000006112	[X]Malignant neoplasm/bone+articular cartilage, unspecified	cancer
+1090871000000102	396481000006110	[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd	cancer
+372062007	396491000006113	[X]Malignant neoplasm/central nervous system, unspecified	cancer
+269469005	396501000006117	[X]Malignant neoplasm/connective + soft tissue,unspecified	cancer
+449096009	396511000006119	[X]Malignant neoplasm/ill-defined sites within resp system	cancer
+188307009	396521000006110	[X]Malignant neoplasm/other and unspecified cranial nerves	cancer
+363514001	396531000006113	[X]Malignant neoplasm/other specified female genital organs	cancer
+363515000	396541000006115	[X]Malignant neoplasm/other specified male genital organs	cancer
+109347009	396551000006118	[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage	cancer
+109384006	396561000006116	[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura	cancer
+109358000	396571000006111	[X]Malignant neoplasm/overlap lesion/other+ill-defined sites	cancer
+109878000	396581000006114	[X]Malignant neoplasm/overlapping lesion/feml genital organs	cancer
+109874003	396591000006112	[X]Malignant neoplasm/overlapping lesion/male genital organs	cancer
+1090901000000102	396601000006116	[X]Malignant neoplasm/peripheral nerves of trunk,unspecified	cancer
+187833006	396611000006118	[X]Malignant neoplasm/upper resp tract, part unspecified	cancer
+269475001	396621000006114	[X]Malignant neoplasms of lymphoid, haematopoietic and rela	cancer
+188478004	396631000006112	[X]Malignant neoplasms/independent (primary) multiple sites	cancer
+188478004	396641000006119	[X]Malignant neoplasms/independent(primary)multiple sites	cancer
+428905002	396651000006117	[X]Malignant neoplsm/ill-defin sites within digestive system	cancer
+372130007	292116013	[X]Melanoma and other malignant neoplasms of skin	cancer
+109270003	292203017	[X]Melanoma in situ of other and unspecified parts of face	cancer
+127330008	292204011	[X]Melanoma in situ of other sites	cancer
+127330008	292213013	[X]Melanoma in situ, unspecified	cancer
+126724001	398291000006110	[X]Mesothelioma of lung	cancer
+126724001	403762019	[X]Mesothelioma of other sites	cancer
+109378008	292126018	[X]Mesothelioma, unspecified	cancer
+108369006	399721000006110	[X]Neoplasm/uncertain+unknown behavior/other specified sites	cancer
+108369006	292247011	[X]Neoplasms of uncertain and unknown behaviour	cancer
+118601006	400011000006119	[X]Non-Hodgkin's lymphoma NOS	cancer
+118601006	406154013	[X]Non-Hodgkin's lymphoma, unspecified type	cancer
+94047004	404801000006116	[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face	cancer
+269475001	405081000006118	[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue	cancer
+189336000	292214019	[X]Other carcinoma in situ of breast	cancer
+118599009	292169014	[X]Other Hodgkin's disease	cancer
+109980005	292175017	[X]Other malignant immunoproliferative diseases	cancer
+109841003	292101010	[X]Other specified carcinomas of liver	cancer
+118601006	292174018	[X]Other specified types of non-Hodgkin's lymphoma	cancer
+109962001	292173012	[X]Other types of diffuse non-Hodgkin's lymphoma	cancer
+308121000	292170010	[X]Other types of follicular non-Hodgkin's lymphoma	cancer
+128462008	292165015	[X]Secondary malignant neoplasm of other specified sites	cancer
+94515004	425771000006113	[X]Secondary malignant neoplasm/oth+unspc respiratory organs	cancer
+94313005	425781000006111	[X]Secondary malignant neoplasm/oth+unspcfd digestive organs	cancer
+712837004	2460981000000118	Active surveillance of prostate cancer	cancer
+363688001	1488604019	Administration of cancer treatment	cancer
+109982002	2659763011	Alpha heavy chain disease	cancer
+307726001	451077018	Anaemia in ovarian carcinoma	cancer
+363352004	380137014	Anal carcinoma	cancer
+401313006	1780500014	Anal intraepithelial neoplasia grade I	cancer
+401312001	1780499017	Anal intraepithelial neoplasia grade II	cancer
+92537005	1788227011	Anal intraepithelial neoplasia grade III	cancer
+187821001	288761012	Angiosarcoma of spleen	cancer
+168021008	260992011	Ascitic fluid: malignant cells	cancer
+445105005	1815401000006114	Blastic NK-cell lymphoma	cancer
+167934009	260879014	Bone marrow: myeloma cells	cancer
+294301000000103	517421000000115	Bowel cancer detected by national screening programme	cancer
+884601000000103	2280371000000117	Bowel scope (flexible sigmoidoscopy) screen: cancer detected	cancer
+254656002	140927016	Bowen's disease	cancer
+118617000	2663190016	Burkitt's lymphoma	cancer
+118617000	289612010	Burkitt's lymphoma NOS	cancer
+188512009	289605018	Burkitt's lymphoma of intra-abdominal lymph nodes	cancer
+188511002	289604019	Burkitt's lymphoma of intrathoracic lymph nodes	cancer
+188510001	289603013	Burkitt's lymphoma of lymph nodes of head, face and neck	cancer
+188514005	527801000006112	Burkitt's lymphoma of lymph nodes of inguinal region and leg	cancer
+118617000	289602015	Burkitt's lymphoma of unspecified site	cancer
+118617000	1215905010	Burkitt's tumour	cancer
+363346000	880511000006115	Ca - unspecified site NOS	cancer
+363412000	1228541018	Ca ascending colon	cancer
+187742008	1222170010	Ca Body - stomach	cancer
+188156001	880321000006118	Ca breast - axillary tail	cancer
+188147009	880271000006114	Ca breast - nipple/central	cancer
+372064008	990571000006118	Ca breast - NOS	cancer
+188153009	880291000006110	Ca breast-lower,inner quadrant	cancer
+188155002	880311000006114	Ca breast-lower,outer quadrant	cancer
+188152004	880281000006112	Ca breast-upper,inner quadrant	cancer
+188154003	880301000006111	Ca breast-upper,outer quadrant	cancer
+187732006	1222167011	Ca cardia - stomach	cancer
+188280007	880521000006111	Ca cerebrum	cancer
+363409003	1228539019	Ca descending colon	cancer
+363452003	880441000006117	Ca epididymis/spermatic cord	cancer
+363416002	1490770018	Ca extrahepatic bile ducts	cancer
+372064008	531851000006119	Ca female breast	cancer
+187741001	1222169014	Ca fundus - stomach	cancer
+363382005	879711000006110	Ca gum, + rest of mouth	cancer
+363407001	1228537017	Ca hepatic flexure - colon	cancer
+92546004	881201000006113	Ca in situ bladder - papilloma	cancer
+188250002	880481000006111	Ca kidney	cancer
+187841006	1494921019	Ca larynx - glottis	cancer
+363430007	1228557018	Ca larynx - subglottis	cancer
+187842004	1222176016	Ca larynx - supraglottis	cancer
+95214007	1235891015	Ca liver - primary	cancer
+187767006	879931000006119	Ca liver/biliary system	cancer
+187868006	880071000006115	Ca lower lobe bronchus/lung	cancer
+187727005	1216078017	Ca lower third oesophagus	cancer
+94392001	880571000006112	Ca lymph nodes - secondary	cancer
+363378008	879701000006112	Ca major salivary gland	cancer
+187864008	880061000006110	Ca middle lobe bronchus/lung	cancer
+187726001	1216077010	Ca middle third oesophagus	cancer
+363392002	879721000006119	Ca oro/naso/hypopharynx	cancer
+187952001	1494922014	Ca pelvic bones/sacrum/coccyx	cancer
+187736009	1222168018	Ca pylorus - stomach	cancer
+363414004	1228543015	Ca rectosigmoid junction	cancer
+187760008	879891000006111	Ca rectum + Ca anus	cancer
+187920001	1222177013	Ca ribs/sternum/clavicle	cancer
+363410008	1228540017	Ca sigmoid colon	cancer
+188127001	880241000006118	Ca skin - lower limb	cancer
+188119005	880231000006111	Ca skin - upper limb	cancer
+187900002	880091000006119	Ca skull/face/jaw bone	cancer
+363413005	1228542013	Ca splenic flexure - colon	cancer
+363478007	880531000006114	Ca thyroid	cancer
+430621000	880041000006111	Ca trachea/bronchus/lung	cancer
+430621000	880031000006118	Ca trachea/bronchus/lung NOS	cancer
+363408006	1228538010	Ca transverse colon	cancer
+187929000	880111000006111	Ca upper limb bones/scapula	cancer
+269464000	880051000006113	Ca upper lobe bronchus/lung	cancer
+187725002	1216076018	Ca upper third oesophagus	cancer
+371972005	990581000006115	Ca uterus NOS	cancer
+275419009	880421000006112	Ca vulva	cancer
+92600008	531861000006117	Ca-in-situ of G.I. tract	cancer
+720006006	1780324019	Cancer care review	cancer
+395099008	1488798019	Cancer confirmed	cancer
+395081000	1488780018	Cancer diagnosis discussed	cancer
+395672005	1489329011	Cancer diagnosis discussed with patient	cancer
+395671003	1489328015	Cancer diagnosis discussed with significant other	cancer
+413737006	2533540016	Cancer hospital treatment completed	cancer
+363508008	841331000006115	Cancer of bowel	cancer
+363443007	1228570010	Cancer of ovary	cancer
+413742003	2534102018	Cancer pain and symptom management	cancer
+413743008	2534080010	Cancer rehabilitation and readaption	cancer
+395073001	1488772013	Cancer treatment started	cancer
+363346000	533321000006119	Cancers	cancer
+399326009	880461000006118	Carcinoma bladder	cancer
+371972005	880381000006119	Carcinoma body of uterus	cancer
+372064008	880261000006119	Carcinoma breast	cancer
+255086002	380139012	Carcinoma common bile duct	cancer
+372140005	535221000006113	Carcinoma gallbladder	cancer
+271468000	880351000006110	Carcinoma genital organs	cancer
+109355002	2659784018	Carcinoma in situ	cancer
+189336000	881181000006112	Carcinoma in situ breast	cancer
+109355002	290901019	Carcinoma in situ NOS	cancer
+92527000	153085017	Carcinoma in situ of adrenal gland	cancer
+92530007	153088015	Carcinoma in situ of ampulla of Vater	cancer
+92531006	153089011	Carcinoma in situ of anal canal	cancer
+92537005	290753018	Carcinoma in situ of anus NOS	cancer
+92539008	153099018	Carcinoma in situ of appendix	cancer
+189258000	290783010	Carcinoma in situ of aryepiglottic fold	cancer
+189255002	290780013	Carcinoma in situ of arytenoid cartilage	cancer
+92542002	153102018	Carcinoma in situ of ascending colon	cancer
+92545000	535331000006115	Carcinoma in situ of biliary system	cancer
+92546004	153107012	Carcinoma in situ of bladder	cancer
+92549006	153111018	Carcinoma in situ of body of stomach	cancer
+92550006	153112013	Carcinoma in situ of body of uterus	cancer
+189336000	290868010	Carcinoma in situ of breast	cancer
+109355002	290867017	Carcinoma in situ of breast and genitourinary system	cancer
+189262006	290788018	Carcinoma in situ of bronchus and lung	cancer
+189262006	290794014	Carcinoma in situ of bronchus or lung NOS	cancer
+92559007	201638010	Carcinoma in situ of caecum	cancer
+92560002	153124018	Carcinoma in situ of cardia of stomach	cancer
+189263001	290789014	Carcinoma in situ of carina of bronchus	cancer
+92564006	153129011	Carcinoma in situ of cervix uteri	cancer
+92558004	510029018	Carcinoma in situ of cheek	cancer
+92568009	153133016	Carcinoma in situ of colon	cancer
+92568009	290750015	Carcinoma in situ of colon NOS	cancer
+92570000	153136012	Carcinoma in situ of common bile duct	cancer
+189253009	290778019	Carcinoma in situ of cricoid cartilage	cancer
+92574009	153140015	Carcinoma in situ of cystic duct	cancer
+92575005	153141016	Carcinoma in situ of descending colon	cancer
+109850001	535541000006116	Carcinoma in situ of digestive organs	cancer
+109850001	290775016	Carcinoma in situ of digestive organs NOS	cancer
+92577002	153143018	Carcinoma in situ of duodenum	cancer
+255144005	380242014	Carcinoma in situ of ear	cancer
+92580001	153146014	Carcinoma in situ of endocervix	cancer
+92582009	153149019	Carcinoma in situ of endometrium	cancer
+92584005	153151015	Carcinoma in situ of epiglottis	cancer
+92586007	153155012	Carcinoma in situ of ethmoidal sinus	cancer
+92587003	153156013	Carcinoma in situ of eustachian tube	cancer
+92588008	153157016	Carcinoma in situ of exocervix	cancer
+92590009	153160011	Carcinoma in situ of eye	cancer
+92591008	153162015	Carcinoma in situ of fallopian tube	cancer
+92594000	290889018	Carcinoma in situ of female genital organs NOS	cancer
+92595004	153169012	Carcinoma in situ of floor of mouth	cancer
+92598002	153174016	Carcinoma in situ of fundus of stomach	cancer
+92599005	535711000006110	Carcinoma in situ of gall bladder	cancer
+92603005	153180012	Carcinoma in situ of glottis	cancer
+92605003	535731000006116	Carcinoma in situ of gums	cancer
+189243008	290768017	Carcinoma in situ of hepatic duct	cancer
+92608001	153187010	Carcinoma in situ of hepatic flexure of colon	cancer
+92612007	153191017	Carcinoma in situ of hypopharynx	cancer
+92613002	153193019	Carcinoma in situ of ileum	cancer
+92618006	153200017	Carcinoma in situ of intrahepatic bile ducts	cancer
+92621008	153203015	Carcinoma in situ of jejunum	cancer
+92634009	153218019	Carcinoma in situ of larynx	cancer
+92634009	290787011	Carcinoma in situ of larynx NOS	cancer
+92643000	153229015	Carcinoma in situ of lip	cancer
+271325000	406054011	Carcinoma in situ of lip, oral cavity and pharynx	cancer
+92660005	290718013	Carcinoma in situ of lip, oral cavity and pharynx NOS	cancer
+92644006	153231012	Carcinoma in situ of liver	cancer
+271525004	406332017	Carcinoma in situ of liver and biliary system	cancer
+271525004	290772018	Carcinoma in situ of liver or biliary system NOS	cancer
+92648009	1217274016	Carcinoma in situ of lower 1/3 oesophagus	cancer
+189267000	290793015	Carcinoma in situ of lower lobe bronchus and lung	cancer
+92650001	153239014	Carcinoma in situ of main bronchus	cancer
+92653004	290893012	Carcinoma in situ of male genital organs NOS	cancer
+92654005	153246017	Carcinoma in situ of mastoid air cells	cancer
+92655006	153247014	Carcinoma in situ of maxillary sinus	cancer
+92656007	153248016	Carcinoma in situ of Meckel's diverticulum	cancer
+92658008	1217275015	Carcinoma in situ of middle 1/3 oesophagus	cancer
+189266009	290792013	Carcinoma in situ of middle lobe bronchus and lung	cancer
+92663007	153256018	Carcinoma in situ of nasal cavity	cancer
+189251006	535981000006118	Carcinoma in situ of nasal sinuses	cancer
+92664001	153258017	Carcinoma in situ of nasopharynx	cancer
+92585006	201640017	Carcinoma in situ of oesophagus	cancer
+92585006	290732010	Carcinoma in situ of oesophagus NOS	cancer
+92660005	510061019	Carcinoma in situ of oral cavity	cancer
+92668003	153265013	Carcinoma in situ of oropharynx	cancer
+109850001	290773011	Carcinoma in situ of other and unspecified digestive organs	cancer
+92594000	403735010	Carcinoma in situ of other and unspecified parts of uterus	cancer
+109355002	290895017	Carcinoma in situ of other and unspecified sites	cancer
+109850001	290758010	Carcinoma in situ of other and unspecified small intestine	cancer
+189251006	536081000006111	Carcinoma in situ of other specified part respiratory system	cancer
+109355002	290896016	Carcinoma in situ of other specified site	cancer
+109355002	290900018	Carcinoma in situ of other specified site NOS	cancer
+92749008	290865013	Carcinoma in situ of other specified sites of skin	cancer
+92669006	153267017	Carcinoma in situ of ovary	cancer
+92670007	153268010	Carcinoma in situ of palate	cancer
+92672004	153272014	Carcinoma in situ of pancreas	cancer
+92675002	153276012	Carcinoma in situ of parathyroid gland	cancer
+92679008	153280019	Carcinoma in situ of penis	cancer
+92680006	153282010	Carcinoma in situ of perianal skin	cancer
+92681005	153283017	Carcinoma in situ of pharynx	cancer
+92683008	153286013	Carcinoma in situ of pituitary gland	cancer
+92685001	153288014	Carcinoma in situ of pleura	cancer
+92691004	153295017	Carcinoma in situ of prostate	cancer
+92692006	153296016	Carcinoma in situ of pyloric antrum	cancer
+92693001	510074013	Carcinoma in situ of pyloric canal	cancer
+92695008	153299011	Carcinoma in situ of rectosigmoid junction	cancer
+92696009	153300015	Carcinoma in situ of rectum	cancer
+189231007	290751016	Carcinoma in situ of rectum and rectosigmoid junction	cancer
+126837005	290752011	Carcinoma in situ of rectum or rectosigmoid junction NOS	cancer
+189251006	290804014	Carcinoma in situ of respiratory organ NOS	cancer
+189251006	290776015	Carcinoma in situ of respiratory system	cancer
+189212001	536301000006117	Carcinoma in situ of salivary glands	cancer
+189292002	290822012	Carcinoma in situ of scalp	cancer
+189291009	290821017	Carcinoma in situ of scalp and skin of neck	cancer
+189291009	290824013	Carcinoma in situ of scalp or skin of neck NOS	cancer
+92706007	153311011	Carcinoma in situ of scrotum	cancer
+92708008	153313014	Carcinoma in situ of sigmoid colon	cancer
+92749008	153358015	Carcinoma in situ of skin	cancer
+92749008	290866014	Carcinoma in situ of skin NOS	cancer
+189300003	290830013	Carcinoma in situ of skin of abdominal wall	cancer
+189279000	290808012	Carcinoma in situ of skin of auricle	cancer
+92712002	153317010	Carcinoma in situ of skin of axilla	cancer
+92713007	153318017	Carcinoma in situ of skin of back	cancer
+92714001	153319013	Carcinoma in situ of skin of breast	cancer
+92715000	153320019	Carcinoma in situ of skin of buttock	cancer
+92716004	153321015	Carcinoma in situ of skin of cheek	cancer
+189295000	290827018	Carcinoma in situ of skin of chest wall NOS	cancer
+92722008	153327016	Carcinoma in situ of skin of eyebrow	cancer
+189277003	290806011	Carcinoma in situ of skin of eyelid including canthus	cancer
+92726006	153332015	Carcinoma in situ of skin of foot	cancer
+92728007	1235762013	Carcinoma in situ of skin of forehead skin	cancer
+92729004	153335018	Carcinoma in situ of skin of groin	cancer
+92730009	153336017	Carcinoma in situ of skin of hand	cancer
+92731008	153337014	Carcinoma in situ of skin of hip	cancer
+189289001	290819010	Carcinoma in situ of skin of jaw	cancer
+92732001	153338016	Carcinoma in situ of skin of knee	cancer
+92735004	536561000006111	Carcinoma in situ of skin of leg	cancer
+92734000	153340014	Carcinoma in situ of skin of lip	cancer
+189309002	290839014	Carcinoma in situ of skin of lower arm	cancer
+189317005	290849012	Carcinoma in situ of skin of lower leg	cancer
+92735004	290843013	Carcinoma in situ of skin of lower limb and hip	cancer
+92735004	290851011	Carcinoma in situ of skin of lower limb or hip NOS	cancer
+92736003	153343011	Carcinoma in situ of skin of neck	cancer
+92737007	153344017	Carcinoma in situ of skin of nose	cancer
+92749008	536641000006113	Carcinoma in situ of skin of other parts of face	cancer
+92749008	536651000006110	Carcinoma in situ of skin of other parts of face NOS	cancer
+92738002	153345016	Carcinoma in situ of skin of perineum	cancer
+92741006	153348019	Carcinoma in situ of skin of shoulder	cancer
+189288009	290818019	Carcinoma in situ of skin of temple	cancer
+92743009	153350010	Carcinoma in situ of skin of thigh	cancer
+189295000	290835015	Carcinoma in situ of skin of trunk NOS	cancer
+189295000	290825014	Carcinoma in situ of skin of trunk, excluding scrotum	cancer
+189308005	290838018	Carcinoma in situ of skin of upper arm	cancer
+189306009	290836019	Carcinoma in situ of skin of upper limb and shoulder	cancer
+189306009	290841010	Carcinoma in situ of skin of upper limb or shoulder NOS	cancer
+189251006	536751000006117	Carcinoma in situ of specified parts respiratory system NOS	cancer
+92753005	153364010	Carcinoma in situ of sphenoidal sinus	cancer
+92754004	153365011	Carcinoma in situ of spleen	cancer
+189229003	290749015	Carcinoma in situ of splenic flexure of colon	cancer
+92756002	153367015	Carcinoma in situ of stomach	cancer
+92756002	290741017	Carcinoma in situ of stomach NOS	cancer
+92764008	153376010	Carcinoma in situ of testis	cancer
+189252004	290777012	Carcinoma in situ of thyroid cartilage	cancer
+92767001	153380017	Carcinoma in situ of thyroid gland	cancer
+92769003	153382013	Carcinoma in situ of tongue	cancer
+92772005	153386011	Carcinoma in situ of trachea	cancer
+92773000	153388012	Carcinoma in situ of transverse colon	cancer
+92780003	1217276019	Carcinoma in situ of upper 1/3 oesophagus	cancer
+189265008	290791018	Carcinoma in situ of upper lobe bronchus and lung	cancer
+255150000	290894018	Carcinoma in situ of urinary organs NOS	cancer
+92791005	153410011	Carcinoma in situ of vagina	cancer
+189259008	290784016	Carcinoma in situ of vestibular fold	cancer
+92603005	510045016	Carcinoma in situ of vocal fold - glottis	cancer
+92802003	153422014	Carcinoma in situ of vulva	cancer
+92594000	536981000006110	Carcinoma in situ other and unspecified female genital organ	cancer
+92653004	536991000006113	Carcinoma in situ other and unspecified male genital organs	cancer
+109850001	537001000006117	Carcinoma in situ other and unspecified small intestine NOS	cancer
+255144005	537011000006119	Carcinoma in situ skin of ear and external auricular canal	cancer
+92724009	537021000006110	Carcinoma in situ skin of ear/external auricular canal NOS	cancer
+255068000	380094018	Carcinoma of bone, connective tissue, skin and breast	cancer
+255081007	380129018	Carcinoma of caecum	cancer
+269456006	537051000006118	Carcinoma of digestive organs and peritoneum	cancer
+255066001	380092019	Carcinoma of genitourinary organ	cancer
+269515006	403771011	Carcinoma of lip	cancer
+255069008	380095017	Carcinoma of lip, oral cavity and pharynx	cancer
+363346000	380211016	Carcinoma of other and unspecified sites	cancer
+254582000	379088010	Carcinoma of rectum	cancer
+126667002	380110012	Carcinoma of respiratory tract and intrathoracic organs	cancer
+307593001	450901012	Carcinomatosis	cancer
+94248000	543041000006111	Cerebral metastasis	cancer
+428061005	543111000006111	Cerebral tumour - malignant	cancer
+363354003	543481000006111	Cervical carcinoma (uterus)	cancer
+188188009	552661000006114	Choriocarcinoma	cancer
+188188009	289184018	Choriocarcinoma	cancer
+92564006	557401000006113	CIN III - carcinoma in situ of cervix	cancer
+83284001	138122012	Clark melanoma level 1	cancer
+50542000	84190018	Clark melanoma level 2	cancer
+21165006	35572018	Clark melanoma level 3	cancer
+1556006	3704012	Clark melanoma level 4	cancer
+16034002	27148012	Clark melanoma level 5	cancer
+363406005	573611000006118	Colonic cancer	cancer
+887521000000104	1884191000006113	Crv smr - hi grade dyskaryosis? invasive squamous carcinoma	cancer
+1091861000000100	1815221000006115	Cutaneous follicle centre lymphoma	cancer
+166851000000104	226911000000117	Date cancer diagnosis received in primary care	cancer
+276799004	413089014	Dermatofibrosarcoma protuberans	cancer
+449220000	2901912012	Diffuse follicle centre lymphoma	cancer
+188676008	621041000006116	Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma	cancer
+302842009	444799014	Diffuse non-Hodgkin's centroblastic lymphoma	cancer
+109966003	1219545019	Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma	cancer
+109969005	1668101000000112	Diffuse non-Hodgkin's large cell lymphoma	cancer
+109965004	621071000006112	Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma	cancer
+188679001	289812013	Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)	cancer
+109962001	621091000006113	Diffuse non-Hodgkin's lymphoma, unspecified	cancer
+188674006	289799010	Diffuse non-Hodgkin's small cell (diffuse) lymphoma	cancer
+188675007	289801013	Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma	cancer
+405843009	403704016	Disseminated malignancy NOS	cancer
+254656002	118574012	Erythroplasia	cancer
+301889008	651081000006111	Excision malignant skin tumour	cancer
+445269007	1815131000006111	Extranod marg zone B-cell lymphom mucosa-assoc lymphoid tiss	cancer
+187822008	288762017	Fibrosarcoma of spleen	cancer
+254383006	378691015	FIGO staging of gynaecological malignancy	cancer
+308121000	1815151000006116	Follicular lymphoma	cancer
+847481000000109	1815161000006119	Follicular lymphoma grade 1	cancer
+847631000000107	1815171000006114	Follicular lymphoma grade 2	cancer
+847651000000100	1815181000006112	Follicular lymphoma grade 3	cancer
+847691000000108	2124491000000113	Follicular lymphoma grade 3a	cancer
+847701000000108	2124511000000117	Follicular lymphoma grade 3b	cancer
+308121000	763421000006116	Follicular lymphoma NOS	cancer
+188672005	763431000006118	Follicular non-Hodg mixed sml cleavd & lge cell lymphoma	cancer
+277641001	414278016	Follicular non-Hodgkin's large cell lymphoma	cancer
+308121000	451429010	Follicular non-Hodgkin's lymphoma	cancer
+277625002	414257019	Follicular non-Hodgkin's small cleaved cell lymphoma	cancer
+109984001	2659693012	Gamma heavy chain disease	cancer
+385377005	844951000006111	Gleason grading of prostate cancer	cancer
+369775001	1490806016	Gleason prostate grade 2-4 (low)	cancer
+394932008	1488634012	Gleason prostate grade 5-7 (medium)	cancer
+369777009	1490807013	Gleason prostate grade 8-10 (high)	cancer
+754351000000100	1755801000006118	Grade 1 (Stage pTa) papillary urothelial/transitional cell carcinoma	cancer
+754361000000102	1755811000006115	Grade 2 (Stage pTa) papillary urothelial/transitional cell carcinoma	cancer
+754371000000109	1755821000006111	Grade 3 (Stage pTa) papillary urothelial/transitional cell carcinoma	cancer
+68979007	114573012	Heavy chain disease	cancer
+109843000	342834014	Hepatoblastoma of liver	cancer
+109841003	342807011	Hepatocellular carcinoma	cancer
+315058005	459527013	Hereditary nonpolyposis colon cancer	cancer
+446711009	299581000000117	High grade prostatic intraepithelial neoplasia	cancer
+109988003	2659772015	Histiocytic sarcoma	cancer
+118614007	824231000006111	Histiocytosis X (acute, progressive)	cancer
+86406008	825711000006111	HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu	cancer
+442537007	825721000006115	HIV dis resulting oth types of non-Hodgkin's lymphoma	cancer
+713897006	2168331000000117	HIV disease resulting in Burkitt lymphoma	cancer
+713897006	287029018	HIV disease resulting in Burkitt's lymphoma	cancer
+420524008	1814931000006110	HIV disease resulting in Kaposi sarcoma	cancer
+420524008	825771000006119	HIV disease resulting in Kaposi's sarcoma	cancer
+713572001	287031010	HIV disease resulting in multiple malignant neoplasms	cancer
+442537007	1814951000006115	HIV disease resulting in other types of non-Hodgkin lymphoma	cancer
+86406008	825841000006115	HIV disease resulting in unspecified malignant neoplasm	cancer
+118599009	1815031000006110	Hodgkin lymphoma	cancer
+118599009	1815101000006115	Hodgkin lymphoma NOS	cancer
+118607005	2663377018	Hodgkin lymphoma, lymphocyte-rich	cancer
+118599009	2663473018	Hodgkin's disease	cancer
+118599009	289702012	Hodgkin's disease NOS	cancer
+118599009	826121000006114	Hodgkin's disease NOS	cancer
+93520007	289706010	Hodgkin's disease NOS of intra-abdominal lymph nodes	cancer
+93522004	289705014	Hodgkin's disease NOS of intrathoracic lymph nodes	cancer
+93525002	826171000006110	Hodgkin's disease NOS of lymph nodes inguinal region and leg	cancer
+93523009	826181000006113	Hodgkin's disease NOS of lymph nodes of axilla and arm	cancer
+93524003	289704013	Hodgkin's disease NOS of lymph nodes of head, face and neck	cancer
+93526001	289711012	Hodgkin's disease NOS of lymph nodes of multiple sites	cancer
+93527005	289710013	Hodgkin's disease NOS of spleen	cancer
+118599009	289703019	Hodgkin's disease NOS, unspecified site	cancer
+118610003	2663187010	Hodgkin's disease, lymphocytic depletion	cancer
+118610003	289701017	Hodgkin's disease, lymphocytic depletion NOS	cancer
+188592008	289699017	Hodgkin's disease, lymphocytic depletion of spleen	cancer
+118607005	826261000006110	Hodgkin's disease, lymphocytic-histiocytic predominance	cancer
+118609008	2663461018	Hodgkin's disease, mixed cellularity	cancer
+118609008	289679011	Hodgkin's disease, mixed cellularity NOS	cancer
+118609008	289670010	Hodgkin's disease, mixed cellularity of unspecified site	cancer
+118608000	1220414014	Hodgkin's disease, nodular sclerosis	cancer
+118608000	289669014	Hodgkin's disease, nodular sclerosis NOS	cancer
+93518009	154811011	Hodgkin's disease, nodular sclerosis of spleen	cancer
+118608000	289660013	Hodgkin's disease, nodular sclerosis of unspecified site	cancer
+118602004	2663476014	Hodgkin's granuloma	cancer
+118602004	289638010	Hodgkin's granuloma NOS	cancer
+188534006	289629013	Hodgkin's granuloma of lymph nodes of head, face and neck	cancer
+118602004	289628017	Hodgkin's granuloma of unspecified site	cancer
+188589009	826471000006116	Hodgkin's lymphocytic depletion lymph nodes axilla and arm	cancer
+188590000	826481000006118	Hodgkin's lymphocytic depletion lymph nodes inguinal and leg	cancer
+188593003	826491000006115	Hodgkin's lymphocytic depletion lymph nodes multiple sites	cancer
+118610003	289680014	Hodgkin's lymphocytic depletion of unspecified site	cancer
+188576003	826561000006112	Hodgkin's mixed cellularity of intrathoracic lymph nodes	cancer
+188575004	826571000006117	Hodgkin's mixed cellularity of lymph nodes head, face, neck	cancer
+188579005	826581000006119	Hodgkin's mixed cellularity of lymph nodes inguinal and leg	cancer
+188565002	826611000006110	Hodgkin's nodular sclerosis of head, face and neck	cancer
+188567005	826631000006116	Hodgkin's nodular sclerosis of intra-abdominal lymph nodes	cancer
+188566001	826651000006111	Hodgkin's nodular sclerosis of intrathoracic lymph nodes	cancer
+188568000	826661000006113	Hodgkin's nodular sclerosis of lymph nodes of axilla and arm	cancer
+188572001	826671000006118	Hodgkin's nodular sclerosis of lymph nodes of multiple sites	cancer
+118605002	826681000006115	Hodgkin's paragranuloma	cancer
+118605002	289627010	Hodgkin's paragranuloma NOS	cancer
+93493001	289621011	Hodgkin's paragranuloma of intra-abdominal lymph nodes	cancer
+118605002	289616013	Hodgkin's paragranuloma of unspecified site	cancer
+118606001	2663376010	Hodgkin's sarcoma	cancer
+118606001	289648012	Hodgkin's sarcoma NOS	cancer
+188547001	289643015	Hodgkin's sarcoma of lymph nodes of axilla and upper limb	cancer
+118606001	289639019	Hodgkin's sarcoma of unspecified site	cancer
+188559002	826911000006116	Hodgkin's, lymphocytic-histiocytic pred inguinal and leg	cancer
+93493001	826921000006112	Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node	cancer
+93494007	826931000006110	Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes	cancer
+93495008	826941000006117	Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes	cancer
+188554007	826951000006115	Hodgkin's, lymphocytic-histiocytic pred of head, face, neck	cancer
+188562004	826961000006118	Hodgkin's, lymphocytic-histiocytic pred of multiple sites	cancer
+118607005	289659015	Hodgkin's, lymphocytic-histiocytic predominance NOS	cancer
+93500006	289657018	Hodgkin's, lymphocytic-histiocytic predominance of spleen	cancer
+118607005	826991000006114	Hodgkin's, lymphocytic-histiocytic predominance unspec site	cancer
+713572001	287014015	Human immunodeficiency virus with secondary cancers	cancer
+702391001	289288012	Hypernephroma	cancer
+44194005	767711000006113	Intravesical install chemotherapeutic agent for malignancy	cancer
+109989006	344818012	Kahler's disease	cancer
+109391009	173950019	Kaposi's sarcoma of lymph nodes	cancer
+109392002	755631000006110	Kaposi's sarcoma of multiple organs	cancer
+109388009	173946014	Kaposi's sarcoma of palate	cancer
+109386008	173944012	Kaposi's sarcoma of skin	cancer
+188029000	289008015	Kaposi's sarcoma of soft tissue	cancer
+109385007	755671000006113	Kaposi's sarcoma, unspecified	cancer
+313427003	457317011	Lambda light chain myeloma	cancer
+118614007	745971000006116	Letterer-Siwe disease	cancer
+118614007	289780018	Letterer-Siwe disease NOS	cancer
+93135004	154082012	Letterer-Siwe disease of intrathoracic lymph nodes	cancer
+93139005	154089015	Letterer-Siwe disease of lymph nodes of multiple sites	cancer
+118614007	289776011	Letterer-Siwe disease of unspecified sites	cancer
+269515006	879681000006114	Lip carcinoma	cancer
+94381002	739801000006115	Liver metastases	cancer
+109888004	174576019	Lobular carcinoma in situ of breast	cancer
+314955001	459378019	Local recurrence of malignant tumour of breast	cancer
+314955001	1803781000006110	Local recurrence of malignant tumour of breast	cancer
+314968009	459399016	Local recurrence of malignant tumour of urinary bladder	cancer
+314968009	1803771000006112	Local recurrence of malignant tumour of urinary bladder	cancer
+93880001	733371000006119	Lung cancer	cancer
+94392001	732441000006113	Lymph node metastases	cancer
+269475001	880781000006115	Lymphatic tissue carcinoma	cancer
+109965004	2168691000000110	Lymphoblastic (diffuse) lymphoma	cancer
+118610003	1815071000006113	Lymphocyte depleted classical Hodgkin lymphoma	cancer
+118607005	2870724014	Lymphocyte-rich classical Hodgkin lymphoma	cancer
+269475001	403710016	Lymphoid and histiocytic malignancy NOS	cancer
+30440004	50949017	Lymphoma stage I	cancer
+76422004	126918018	Lymphoma stage II	cancer
+56944001	94699019	Lymphoma stage III	cancer
+66445009	110346017	Lymphoma stage IV	cancer
+188498009	289591011	Lymphosarcoma	cancer
+188487008	289580016	Lymphosarcoma and reticulosarcoma	cancer
+188498009	289601010	Lymphosarcoma NOS	cancer
+188502002	289595019	Lymphosarcoma of intra-abdominal lymph nodes	cancer
+188501009	289594015	Lymphosarcoma of intrathoracic lymph nodes	cancer
+188500005	289593014	Lymphosarcoma of lymph nodes of head, face and neck	cancer
+188504001	731691000006110	Lymphosarcoma of lymph nodes of inguinal region and leg	cancer
+188507008	289600011	Lymphosarcoma of lymph nodes of multiple sites	cancer
+188506004	289599013	Lymphosarcoma of spleen	cancer
+188498009	289592016	Lymphosarcoma of unspecified site	cancer
+188321006	730491000006117	Mal neoplasm/periph nerves+autonomic nervous system,unspc	cancer
+109384006	730001000006117	Malig neo, overlapping lesion of heart, mediastinum & pleura	cancer
+187833006	730011000006119	Malig neop auditory tube, middle ear and mastoid air cells	cancer
+187833006	730021000006110	Malig neop auditory tube, middle ear, mastoid air cells NOS	cancer
+302816009	730031000006113	Malig neop connective and soft tissue head, face, neck NOS	cancer
+187999008	730241000006113	Malig neop connective and soft tissue hip and leg NOS	cancer
+188002005	730251000006110	Malig neop connective and soft tissue of popliteal space	cancer
+269469005	729281000006113	Malig neop connective and soft tissue other specified site	cancer
+187991006	729291000006111	Malig neop connective and soft tissue upper limb/shoulder	cancer
+187991006	729301000006112	Malig neop connective soft tissue upper limb/shoulder NOS	cancer
+188261005	729311000006110	Malig neop eyeball excl conjunctiva, cornea, retina, choroid	cancer
+187828007	729321000006119	Malig neop nasal cavities, middle ear and accessory sinuses	cancer
+271467005	729331000006116	Malig neop of bone, connective tissue, skin and breast	cancer
+271467005	729341000006114	Malig neop of bone, connective tissue, skin and breast NOS	cancer
+271467005	729351000006111	Malig neop of bone, connective tissue, skin and breast OS	cancer
+302816009	729361000006113	Malig neop of connective and soft tissue head, face and neck	cancer
+188015001	729371000006118	Malig neop of connective and soft tissue of abdomen NOS	cancer
+188016000	729381000006115	Malig neop of connective and soft tissue of abdominal wall	cancer
+187999008	729401000006115	Malig neop of connective and soft tissue of hip and leg	cancer
+188021002	729411000006117	Malig neop of connective and soft tissue of inguinal region	cancer
+188003000	729421000006113	Malig neop of connective and soft tissue of lower leg	cancer
+363366009	729431000006111	Malig neop of connective and soft tissue of pelvis NOS	cancer
+363365008	729441000006118	Malig neop of connective and soft tissue of thorax NOS	cancer
+188001003	729451000006116	Malig neop of connective and soft tissue thigh and upper leg	cancer
+1090891000000103	729461000006119	Malig neop of connective and soft tissue trunk unspecified	cancer
+387927001	729471000006114	Malig neop of endocrine gland or related structure NOS	cancer
+419052002	729481000006112	Malig neop of kidney and other unspecified urinary organs	cancer
+363514001	729491000006110	Malig neop of other and unspecified female genital organs	cancer
+372063002	729501000006119	Malig neop of other and unspecified parts of nervous system	cancer
+371982006	729511000006116	Malig neop of other endocrine glands and related structures	cancer
+187881004	729521000006112	Malig neop of other site of heart, thymus and mediastinum	cancer
+428100006	729531000006110	Malig neop of respiratory tract and intrathoracic organs	cancer
+187929000	729541000006117	Malig neop of scapula and long bones of upper arm NOS	cancer
+187833006	729551000006115	Malig neop of upper respiratory tract, part unspecified	cancer
+255077007	729561000006118	Malig neop oth/ill-defined sites digestive tract/peritoneum	cancer
+187828007	729571000006113	Malig neop other site nasal cavity, middle ear and sinuses	cancer
+187760008	729581000006111	Malig neop other site rectum, rectosigmoid junction and anus	cancer
+271323007	729591000006114	Malig neop other/ill-defined sites lip, oral cavity, pharynx	cancer
+428100006	729601000006118	Malig neop other/ill-defined sites resp/intrathoracic organs	cancer
+188339002	730041000006115	Malig neop pituitary gland or craniopharyngeal duct NOS	cancer
+126488004	729611000006115	Malig neop skin of ear and external auricular canal NOS	cancer
+188023004	728451000006110	Malig neopl of connective and soft tissue - sacrum or coccyx	cancer
+188321006	728461000006112	Malig neopl peripheral nerves and autonomic nervous system	cancer
+109911004	728471000006117	Malig neopl, overlap lesion brain & other part of CNS	cancer
+188017009	728481000006119	Malig neoplasm of connective and soft tissues of lumb spine	cancer
+188013008	728491000006116	Malig neoplasm of connective and soft tissues of thor spine	cancer
+236005001	353772013	Malignant ascites	cancer
+118612006	445586018	Malignant histiocytosis	cancer
+118612006	289754019	Malignant histiocytosis NOS	cancer
+93182006	154183017	Malignant histiocytosis of intra-abdominal lymph nodes	cancer
+188640007	728571000006118	Malignant histiocytosis of lymph nodes head, face and neck	cancer
+93188005	154192019	Malignant histiocytosis of lymph nodes of multiple sites	cancer
+118612006	289750011	Malignant histiocytosis of unspecified site	cancer
+188691005	289826016	Malignant immunoproliferative small intestinal disease	cancer
+118600007	289829011	Malignant lymphoma NOS	cancer
+118600007	728721000006111	Malignant lymphoma NOS	cancer
+93191005	289842011	Malignant lymphoma NOS of intra-abdominal lymph nodes	cancer
+93192003	289845013	Malignant lymphoma NOS of intrapelvic lymph nodes	cancer
+93193008	289832014	Malignant lymphoma NOS of intrathoracic lymph nodes	cancer
+93196000	728771000006112	Malignant lymphoma NOS of lymph node inguinal region and leg	cancer
+93194002	728781000006110	Malignant lymphoma NOS of lymph nodes of axilla and arm	cancer
+93195001	289831019	Malignant lymphoma NOS of lymph nodes of head, face and neck	cancer
+93197009	289847017	Malignant lymphoma NOS of lymph nodes of multiple sites	cancer
+93198004	289846014	Malignant lymphoma NOS of spleen	cancer
+118600007	289830018	Malignant lymphoma NOS of unspecified site	cancer
+118600007	289820010	Malignant lymphoma otherwise specified	cancer
+118615008	289793011	Malignant mast cell tumour NOS	cancer
+188660004	289781019	Malignant mast cell tumours	cancer
+188073001	289052011	Malignant melanoma of ankle	cancer
+188033007	289012014	Malignant melanoma of auricle (ear)	cancer
+188049009	289028016	Malignant melanoma of axilla	cancer
+310498001	454085011	Malignant melanoma of back	cancer
+188050009	289029012	Malignant melanoma of breast	cancer
+188051008	289030019	Malignant melanoma of buttock	cancer
+313248004	457109011	Malignant melanoma of chest wall	cancer
+188038003	289017015	Malignant melanoma of chin	cancer
+188032002	289011019	Malignant melanoma of ear and external auricular canal	cancer
+188032002	289014010	Malignant melanoma of ear and external auricular canal NOS	cancer
+188034001	289013016	Malignant melanoma of external auditory meatus	cancer
+93217003	1235785014	Malignant melanoma of external surface of cheek	cancer
+93643005	1235798017	Malignant melanoma of external surface of nose	cancer
+274087000	409844012	Malignant melanoma of eye	cancer
+93223008	1235786010	Malignant melanoma of eyebrow	cancer
+231834005	728201000006110	Malignant melanoma of eyelid including canthus	cancer
+93225001	289022015	Malignant melanoma of face NOS	cancer
+188064009	289043019	Malignant melanoma of finger	cancer
+188075008	289054012	Malignant melanoma of foot	cancer
+188062008	289041017	Malignant melanoma of fore-arm	cancer
+188040008	289019017	Malignant melanoma of forehead	cancer
+188077000	289056014	Malignant melanoma of great toe	cancer
+188052001	289031015	Malignant melanoma of groin	cancer
+188063003	289042012	Malignant melanoma of hand	cancer
+188074007	289053018	Malignant melanoma of heel	cancer
+188068007	289047018	Malignant melanoma of hip	cancer
+188070003	289049015	Malignant melanoma of knee	cancer
+188030005	289009011	Malignant melanoma of lip	cancer
+188072006	289051016	Malignant melanoma of lower leg	cancer
+188067002	289046010	Malignant melanoma of lower limb and hip	cancer
+188067002	289057017	Malignant melanoma of lower limb or hip NOS	cancer
+188046002	289025018	Malignant melanoma of neck	cancer
+93225001	289015011	Malignant melanoma of other and unspecified parts of face	cancer
+93655004	289060012	Malignant melanoma of other specified skin site	cancer
+93209006	154231019	Malignant melanoma of perianal skin	cancer
+188054000	289033017	Malignant melanoma of perineum	cancer
+188071004	289050015	Malignant melanoma of popliteal fossa area	cancer
+188045003	289024019	Malignant melanoma of scalp	cancer
+188044004	289023013	Malignant melanoma of scalp and neck	cancer
+188044004	289026017	Malignant melanoma of scalp and neck NOS	cancer
+188060000	289039018	Malignant melanoma of shoulder	cancer
+93655004	155060012	Malignant melanoma of skin	cancer
+93655004	289063014	Malignant melanoma of skin NOS	cancer
+188042000	289021010	Malignant melanoma of temple	cancer
+188069004	289048011	Malignant melanoma of thigh	cancer
+188065005	289044013	Malignant melanoma of thumb	cancer
+188076009	289055013	Malignant melanoma of toe	cancer
+93651008	289027014	Malignant melanoma of trunk (excluding scrotum)	cancer
+269579005	289037016	Malignant melanoma of trunk, excluding scrotum, NOS	cancer
+188055004	289034011	Malignant melanoma of umbilicus	cancer
+188061001	289040016	Malignant melanoma of upper arm	cancer
+269580008	727731000006113	Malignant melanoma of upper limb and shoulder	cancer
+269580008	289045014	Malignant melanoma of upper limb or shoulder NOS	cancer
+956331000000107	2438511000000112	Malignant melanoma stage IA	cancer
+956351000000100	2438551000000111	Malignant melanoma stage IB	cancer
+956371000000109	2438591000000115	Malignant melanoma stage IIA	cancer
+956391000000108	2438631000000115	Malignant melanoma stage IIB	cancer
+956411000000108	2438671000000118	Malignant melanoma stage IIC	cancer
+956431000000100	2438711000000117	Malignant melanoma stage IIIA	cancer
+956471000000103	2438791000000114	Malignant melanoma stage IIIC	cancer
+956511000000107	2438871000000117	Malignant melanoma stage IV M1a	cancer
+956531000000104	2438911000000115	Malignant melanoma stage IV M1b	cancer
+956551000000106	2438951000000116	Malignant melanoma stage IV M1c	cancer
+187708004	727761000006116	Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect	cancer
+188280007	727771000006111	Malignant neoplasm cerebrum (excluding lobes and ventricles)	cancer
+363415003	727781000006114	Malignant neoplasm gallbladder and extrahepatic bile ducts	cancer
+363415003	727791000006112	Malignant neoplasm gallbladder/extrahepatic bile ducts NOS	cancer
+269475001	289987014	Malignant neoplasm lymphatic or haematopoietic tissue NOS	cancer
+269475001	727811000006111	Malignant neoplasm lymphatic or haematopoietic tissue OS	cancer
+188366002	289441010	Malignant neoplasm of abdomen	cancer
+187724003	288597017	Malignant neoplasm of abdominal oesophagus	cancer
+363506007	288792014	Malignant neoplasm of accessory sinus NOS	cancer
+254980001	727841000006110	Malignant neoplasm of acoustic nerve	cancer
+93661001	155068017	Malignant neoplasm of acromion	cancer
+187694000	288533015	Malignant neoplasm of adenoid	cancer
+371964008	1210553016	Malignant neoplasm of adrenal cortex	cancer
+363355002	155072018	Malignant neoplasm of adrenal gland	cancer
+127021009	289406011	Malignant neoplasm of adrenal gland NOS	cancer
+371965009	1210554010	Malignant neoplasm of adrenal medulla	cancer
+363417006	727911000006116	Malignant neoplasm of ampulla of Vater	cancer
+363352004	155076015	Malignant neoplasm of anal canal	cancer
+363360003	288430019	Malignant neoplasm of anterior 2/3 of tongue unspecified	cancer
+187640005	288423013	Malignant neoplasm of anterior 2/3 of tongue ventral surface	cancer
+187681002	288506019	Malignant neoplasm of anterior epiglottis	cancer
+187681002	288509014	Malignant neoplasm of anterior epiglottis NOS	cancer
+449224009	155078019	Malignant neoplasm of anterior mediastinum	cancer
+187652003	288443019	Malignant neoplasm of anterior portion of floor of mouth	cancer
+187700006	288552014	Malignant neoplasm of anterior wall of nasopharynx	cancer
+187700006	288561014	Malignant neoplasm of anterior wall of nasopharynx NOS	cancer
+1090981000000107	288653013	Malignant neoplasm of anterior wall of stomach NEC	cancer
+188242006	289271017	Malignant neoplasm of anterior wall of urinary bladder	cancer
+363490009	288685011	Malignant neoplasm of anus unspecified	cancer
+93677000	155085015	Malignant neoplasm of aortic body	cancer
+93941005	289413011	Malignant neoplasm of aortic body and other paraganglia	cancer
+93941005	289419010	Malignant neoplasm of aortic body or paraganglia NOS	cancer
+363411007	727281000006117	Malignant neoplasm of appendix	cancer
+93680004	155089014	Malignant neoplasm of areola of female breast	cancer
+93681000	155090017	Malignant neoplasm of areola of male breast	cancer
+187843009	288799017	Malignant neoplasm of arytenoid cartilage	cancer
+363412000	727321000006111	Malignant neoplasm of ascending colon	cancer
+187834000	288779011	Malignant neoplasm of auditory (Eustachian) tube	cancer
+363502009	289435015	Malignant neoplasm of axilla NOS	cancer
+188156001	289146012	Malignant neoplasm of axillary tail of female breast	cancer
+1090321000000107	289449012	Malignant neoplasm of back NOS	cancer
+188281006	289337012	Malignant neoplasm of basal ganglia	cancer
+363376007	727381000006110	Malignant neoplasm of base of tongue	cancer
+187631006	288411019	Malignant neoplasm of base of tongue dorsal surface	cancer
+188244007	289275014	Malignant neoplasm of bladder neck	cancer
+187791002	288717016	Malignant neoplasm of body of pancreas	cancer
+188230001	289246015	Malignant neoplasm of body of penis	cancer
+187742008	288647013	Malignant neoplasm of body of stomach	cancer
+371972005	1210561014	Malignant neoplasm of body of uterus	cancer
+371972005	289198014	Malignant neoplasm of body of uterus NOS	cancer
+443679004	403691010	Malignant neoplasm of bone and articular cartilage	cancer
+1090821000000101	288959010	Malignant neoplasm of bone and articular cartilage NOS	cancer
+187900002	288869015	Malignant neoplasm of bones of skull and face	cancer
+187900002	288883018	Malignant neoplasm of bones of skull and face NOS	cancer
+428061005	2692069010	Malignant neoplasm of brain	cancer
+428061005	289365014	Malignant neoplasm of brain NOS	cancer
+363473003	727511000006114	Malignant neoplasm of brain stem	cancer
+363473003	727521000006118	Malignant neoplasm of brain stem NOS	cancer
+93728003	155155010	Malignant neoplasm of broad ligament	cancer
+363358000	403689019	Malignant neoplasm of bronchus or lung NOS	cancer
+363386008	727561000006112	Malignant neoplasm of buccal mucosa	cancer
+363350007	1216464010	Malignant neoplasm of caecum	cancer
+187967002	288941012	Malignant neoplasm of calcaneum	cancer
+310599006	454201010	Malignant neoplasm of canthus	cancer
+187732006	288625013	Malignant neoplasm of cardia of stomach	cancer
+187732006	288633014	Malignant neoplasm of cardia of stomach NOS	cancer
+187733001	288628010	Malignant neoplasm of cardiac orifice of stomach	cancer
+187734007	288632016	Malignant neoplasm of cardio-oesophageal junction of stomach	cancer
+187857006	288813012	Malignant neoplasm of carina of bronchus	cancer
+447883002	155168019	Malignant neoplasm of carotid body	cancer
+187938003	288910011	Malignant neoplasm of carpal bone - lunate	cancer
+187937008	288909018	Malignant neoplasm of carpal bone - scaphoid	cancer
+255090000	380145016	Malignant neoplasm of carpal bones	cancer
+187987001	288962013	Malignant neoplasm of cartilage of ear	cancer
+187829004	288771014	Malignant neoplasm of cartilage of nose	cancer
+363477002	482741013	Malignant neoplasm of cauda equina	cancer
+188151006	289141019	Malignant neoplasm of central part of female breast	cancer
+449420002	155175018	Malignant neoplasm of cerebellum	cancer
+188282004	289338019	Malignant neoplasm of cerebral cortex	cancer
+188312005	289375012	Malignant neoplasm of cerebral dura mater	cancer
+363474009	482737014	Malignant neoplasm of cerebral meninges	cancer
+363474009	289379018	Malignant neoplasm of cerebral meninges NOS	cancer
+188295009	289355015	Malignant neoplasm of cerebral peduncle	cancer
+188315007	289378014	Malignant neoplasm of cerebral pia mater	cancer
+363471001	289354016	Malignant neoplasm of cerebral ventricle NOS	cancer
+363471001	482734019	Malignant neoplasm of cerebral ventricles	cancer
+188280007	289346018	Malignant neoplasm of cerebrum NOS	cancer
+187722004	288589012	Malignant neoplasm of cervical oesophagus	cancer
+188183000	289179012	Malignant neoplasm of cervical stump	cancer
+187916000	288885013	Malignant neoplasm of cervical vertebra	cancer
+363354003	1228493018	Malignant neoplasm of cervix uteri	cancer
+363354003	289182019	Malignant neoplasm of cervix uteri NOS	cancer
+363386008	727151000006117	Malignant neoplasm of cheek mucosa	cancer
+447949005	289426010	Malignant neoplasm of cheek NOS	cancer
+712750007	289436019	Malignant neoplasm of chest wall NOS	cancer
+363466008	727181000006113	Malignant neoplasm of choroid	cancer
+188292007	289352017	Malignant neoplasm of choroid plexus	cancer
+188263008	289308013	Malignant neoplasm of ciliary body	cancer
+93757004	155191015	Malignant neoplasm of clavicle	cancer
+371979001	1210566016	Malignant neoplasm of clitoris	cancer
+363491008	174518012	Malignant neoplasm of cloacogenic zone	cancer
+93759001	155193017	Malignant neoplasm of coccygeal body	cancer
+187957007	288929017	Malignant neoplasm of coccygeal vertebra	cancer
+363406005	726331000006111	Malignant neoplasm of colon	cancer
+363406005	403682011	Malignant neoplasm of colon NOS	cancer
+363374005	726351000006116	Malignant neoplasm of commissure of lip	cancer
+93763008	726361000006119	Malignant neoplasm of common bile duct	cancer
+363463000	726371000006114	Malignant neoplasm of conjunctiva	cancer
+269469005	288960017	Malignant neoplasm of connective and other soft tissue	cancer
+188015001	288991011	Malignant neoplasm of connective and soft tissue of abdomen	cancer
+188010006	288986010	Malignant neoplasm of connective and soft tissue of axilla	cancer
+188020001	288999013	Malignant neoplasm of connective and soft tissue of buttock	cancer
+187996001	288971016	Malignant neoplasm of connective and soft tissue of finger	cancer
+188004006	288979019	Malignant neoplasm of connective and soft tissue of foot	cancer
+187994003	288969016	Malignant neoplasm of connective and soft tissue of fore-arm	cancer
+187995002	288970015	Malignant neoplasm of connective and soft tissue of hand	cancer
+188000002	288975013	Malignant neoplasm of connective and soft tissue of hip	cancer
+188019007	288995019	Malignant neoplasm of connective and soft tissue of pelvis	cancer
+188022009	289001014	Malignant neoplasm of connective and soft tissue of perineum	cancer
+187992004	288967019	Malignant neoplasm of connective and soft tissue of shoulder	cancer
+188009001	288985014	Malignant neoplasm of connective and soft tissue of thorax	cancer
+187997005	288972011	Malignant neoplasm of connective and soft tissue of thumb	cancer
+188005007	288980016	Malignant neoplasm of connective and soft tissue of toe	cancer
+269469005	289007013	Malignant neoplasm of connective and soft tissue, site NOS	cancer
+187993009	288968012	Malignant neoplasm of connective and soft tissue, upper arm	cancer
+188268004	289317013	Malignant neoplasm of connective tissue of orbit	cancer
+363464006	726561000006114	Malignant neoplasm of cornea	cancer
+188190005	289188015	Malignant neoplasm of cornu of corpus uteri	cancer
+188301005	289361017	Malignant neoplasm of corpus callosum	cancer
+188189001	289192010	Malignant neoplasm of corpus uteri NOS	cancer
+188189001	289187013	Malignant neoplasm of corpus uteri, excluding isthmus	cancer
+187925006	288894019	Malignant neoplasm of costal cartilage	cancer
+187926007	726631000006118	Malignant neoplasm of costo-vertebral joint	cancer
+188307009	726641000006111	Malignant neoplasm of cranial nerves	cancer
+188307009	289374011	Malignant neoplasm of cranial nerves NOS	cancer
+188340000	289409016	Malignant neoplasm of craniopharyngeal duct	cancer
+187844003	288800018	Malignant neoplasm of cricoid cartilage	cancer
+188265001	289314018	Malignant neoplasm of crystalline lens	cancer
+187845002	288801019	Malignant neoplasm of cuneiform cartilage	cancer
+93770008	155207017	Malignant neoplasm of cystic duct	cancer
+109876001	174562015	Malignant neoplasm of descended testis	cancer
+1090261000000108	473991000000119	Malignant neoplasm of descended testis NOS	cancer
+363409003	725951000006112	Malignant neoplasm of descending colon	cancer
+93772000	155209019	Malignant neoplasm of diaphragm	cancer
+269456006	403673017	Malignant neoplasm of digestive organs and peritoneum	cancer
+255077007	288766019	Malignant neoplasm of digestive tract and peritoneum NOS	cancer
+188240003	289267015	Malignant neoplasm of dome of urinary bladder	cancer
+187633009	155211011	Malignant neoplasm of dorsal surface of tongue	cancer
+187633009	288418013	Malignant neoplasm of dorsum of tongue NOS	cancer
+363403002	726021000006110	Malignant neoplasm of duodenum	cancer
+187798008	288734012	Malignant neoplasm of ectopic pancreatic tissue	cancer
+188159008	289149017	Malignant neoplasm of ectopic site of female breast	cancer
+188168005	289158012	Malignant neoplasm of ectopic site of male breast	cancer
+363436001	726071000006111	Malignant neoplasm of endocardium	cancer
+188176007	289171010	Malignant neoplasm of endocervical canal	cancer
+188177003	289172015	Malignant neoplasm of endocervical gland	cancer
+372097009	155218017	Malignant neoplasm of endocervix	cancer
+372097009	289173013	Malignant neoplasm of endocervix NOS	cancer
+188192002	980021000006113	Malignant neoplasm of endometrium	cancer
+188192002	289190019	Malignant neoplasm of endometrium of corpus uteri	cancer
+363452003	726141000006116	Malignant neoplasm of epididymis	cancer
+187842004	451428019	Malignant neoplasm of epiglottis NOS	cancer
+187682009	288507011	Malignant neoplasm of epiglottis, free border	cancer
+93786001	155228014	Malignant neoplasm of ethmoid bone	cancer
+363426009	1228553019	Malignant neoplasm of ethmoid sinus	cancer
+372099007	155231010	Malignant neoplasm of exocervix	cancer
+363416002	726201000006111	Malignant neoplasm of extrahepatic bile ducts	cancer
+363416002	288712010	Malignant neoplasm of extrahepatic bile ducts NOS	cancer
+363461003	1208876015	Malignant neoplasm of eye	cancer
+363461003	289330014	Malignant neoplasm of eye NOS	cancer
+188261005	289316016	Malignant neoplasm of eyeball NOS	cancer
+231829006	726261000006112	Malignant neoplasm of eyelid including canthus	cancer
+363444001	726271000006117	Malignant neoplasm of fallopian tube	cancer
+187675005	288485015	Malignant neoplasm of faucial pillar	cancer
+363393007	1228530015	Malignant neoplasm of faucial tonsil	cancer
+372064008	1210642019	Malignant neoplasm of female breast	cancer
+372064008	289151018	Malignant neoplasm of female breast NOS	cancer
+363514001	289219013	Malignant neoplasm of female genital organ NOS	cancer
+93798006	155246015	Malignant neoplasm of femur	cancer
+93799003	155247012	Malignant neoplasm of fibula	cancer
+187949009	288921019	Malignant neoplasm of fifth metacarpal bone	cancer
+187945003	288917014	Malignant neoplasm of first metacarpal bone	cancer
+187973001	288947011	Malignant neoplasm of first metatarsal bone	cancer
+363376007	288412014	Malignant neoplasm of fixed part of tongue NOS	cancer
+1090301000000103	289451011	Malignant neoplasm of flank NOS	cancer
+363385007	725611000006117	Malignant neoplasm of floor of mouth	cancer
+363385007	288449015	Malignant neoplasm of floor of mouth NOS	cancer
+187976009	288950014	Malignant neoplasm of fourth metatarsal bone	cancer
+187641009	288427014	Malignant neoplasm of frenulum linguae	cancer
+93806005	155259011	Malignant neoplasm of frontal bone	cancer
+363467004	482730011	Malignant neoplasm of frontal lobe	cancer
+363427000	719021000006111	Malignant neoplasm of frontal sinus	cancer
+188191009	289189011	Malignant neoplasm of fundus of corpus uteri	cancer
+187741001	288644018	Malignant neoplasm of fundus of stomach	cancer
+363353009	725711000006113	Malignant neoplasm of gallbladder	cancer
+187734007	288631011	Malignant neoplasm of gastro-oesophageal junction	cancer
+271468000	406263015	Malignant neoplasm of genitourinary organ	cancer
+271468000	289301019	Malignant neoplasm of genitourinary organ NOS	cancer
+271468000	725761000006111	Malignant neoplasm of genitourinary organ OS	cancer
+363451005	725771000006116	Malignant neoplasm of glans penis	cancer
+188285002	289341011	Malignant neoplasm of globus pallidus	cancer
+93814004	155269017	Malignant neoplasm of glomus jugulare	cancer
+187683004	288508018	Malignant neoplasm of glossoepiglottic fold	cancer
+254459004	725811000006116	Malignant neoplasm of glossopalatine fold	cancer
+187841006	288794010	Malignant neoplasm of glottis	cancer
+93817006	155272012	Malignant neoplasm of great vessels	cancer
+269460009	288650011	Malignant neoplasm of greater curve of stomach unspecified	cancer
+188211001	289209019	Malignant neoplasm of greater vestibular (Bartholin's) gland	cancer
+363382005	725861000006118	Malignant neoplasm of gum	cancer
+363382005	288440016	Malignant neoplasm of gum NOS	cancer
+269467007	403697014	Malignant neoplasm of hand bones	cancer
+269467007	288923016	Malignant neoplasm of hand bones NOS	cancer
+363387004	725101000006111	Malignant neoplasm of hard palate	cancer
+255056009	289425014	Malignant neoplasm of head NOS	cancer
+363419009	725121000006118	Malignant neoplasm of head of pancreas	cancer
+188353002	289424013	Malignant neoplasm of head, neck and face	cancer
+188353002	289431012	Malignant neoplasm of head, neck and face NOS	cancer
+363435002	725151000006110	Malignant neoplasm of heart	cancer
+363435002	288847010	Malignant neoplasm of heart NOS	cancer
+187881004	288852017	Malignant neoplasm of heart, thymus and mediastinum NOS	cancer
+187784000	288707014	Malignant neoplasm of hepatic duct	cancer
+363407001	725191000006116	Malignant neoplasm of hepatic flexure of colon	cancer
+93827000	155287019	Malignant neoplasm of hilus of lung	cancer
+188289008	289347010	Malignant neoplasm of hippocampus	cancer
+269475001	725221000006111	Malignant neoplasm of histiocytic tissue	cancer
+187932002	288901015	Malignant neoplasm of humerus	cancer
+363399006	725241000006116	Malignant neoplasm of hypopharynx	cancer
+363399006	288571011	Malignant neoplasm of hypopharynx NOS	cancer
+188286001	289343014	Malignant neoplasm of hypothalamus	cancer
+363405009	725271000006112	Malignant neoplasm of ileum	cancer
+93833009	155294016	Malignant neoplasm of ilium	cancer
+1090941000000104	289442015	Malignant neoplasm of inguinal region NOS	cancer
+187773007	288694017	Malignant neoplasm of interlobular bile ducts	cancer
+187776004	2475562018	Malignant neoplasm of interlobular biliary canals	cancer
+363508008	288759015	Malignant neoplasm of intestinal tract, part unspecified	cancer
+187777008	155305011	Malignant neoplasm of intrahepatic bile ducts	cancer
+187777008	288699010	Malignant neoplasm of intrahepatic bile ducts NOS	cancer
+187777008	2619456011	Malignant neoplasm of intrahepatic biliary passages	cancer
+187776004	288697012	Malignant neoplasm of intrahepatic canaliculi	cancer
+187777008	288698019	Malignant neoplasm of intrahepatic gall duct	cancer
+428100006	289437011	Malignant neoplasm of intrathoracic site NOS	cancer
+188264002	289311014	Malignant neoplasm of iris	cancer
+93842002	155308013	Malignant neoplasm of ischium	cancer
+187794005	288727010	Malignant neoplasm of Islets of Langerhans	cancer
+188195000	289193017	Malignant neoplasm of isthmus of uterine body	cancer
+188195000	289195012	Malignant neoplasm of isthmus of uterine body NOS	cancer
+1090921000000106	289428011	Malignant neoplasm of jaw NOS	cancer
+363404008	725451000006118	Malignant neoplasm of jejunum	cancer
+187666008	288470014	Malignant neoplasm of junction of hard and soft palate	cancer
+187685006	288510016	Malignant neoplasm of junctional region of epiglottis	cancer
+419052002	289299014	Malignant neoplasm of kidney or urinary organs NOS	cancer
+188250002	289285010	Malignant neoplasm of kidney parenchyma	cancer
+363446004	482690017	Malignant neoplasm of labia majora	cancer
+363446004	289210012	Malignant neoplasm of labia majora NOS	cancer
+363447008	482691018	Malignant neoplasm of labia minora	cancer
+188272000	724721000006116	Malignant neoplasm of lacrimal duct	cancer
+188272000	289322013	Malignant neoplasm of lacrimal gland	cancer
+188273005	289325010	Malignant neoplasm of lacrimal sac	cancer
+363431006	724761000006110	Malignant neoplasm of laryngeal cartilage	cancer
+363431006	288803016	Malignant neoplasm of laryngeal cartilage NOS	cancer
+363399006	724781000006117	Malignant neoplasm of laryngopharynx	cancer
+363429002	724791000006119	Malignant neoplasm of larynx	cancer
+363429002	288807015	Malignant neoplasm of larynx NOS	cancer
+363429002	288806012	Malignant neoplasm of larynx, other specified site	cancer
+187653008	288444013	Malignant neoplasm of lateral portion of floor of mouth	cancer
+363398003	724841000006116	Malignant neoplasm of lateral wall of nasopharynx	cancer
+363398003	288550018	Malignant neoplasm of lateral wall of nasopharynx NOS	cancer
+448868009	155332018	Malignant neoplasm of lateral wall of oropharynx	cancer
+188241004	289270016	Malignant neoplasm of lateral wall of urinary bladder	cancer
+269459004	288649011	Malignant neoplasm of lesser curve of stomach unspecified	cancer
+363377003	724881000006110	Malignant neoplasm of lingual tonsil	cancer
+363348004	724891000006113	Malignant neoplasm of lip	cancer
+187622006	724901000006112	Malignant neoplasm of lip unspecified, buccal aspect	cancer
+187622006	288388017	Malignant neoplasm of lip unspecified, inner aspect	cancer
+187622006	288391017	Malignant neoplasm of lip unspecified, mucosa	cancer
+187622006	288403012	Malignant neoplasm of lip, inner aspect NOS	cancer
+187622006	288393019	Malignant neoplasm of lip, oral aspect	cancer
+271323007	406052010	Malignant neoplasm of lip, oral cavity and pharynx	cancer
+271323007	288582015	Malignant neoplasm of lip, oral cavity and pharynx NOS	cancer
+363348004	453301018	Malignant neoplasm of lip, unspecified	cancer
+363348004	288408015	Malignant neoplasm of lip, unspecified, external	cancer
+275399006	288409011	Malignant neoplasm of lip, unspecified, lipstick area	cancer
+421249001	288410018	Malignant neoplasm of lip, vermilion border NOS	cancer
+187767006	288688013	Malignant neoplasm of liver and intrahepatic bile ducts	cancer
+187767006	288702015	Malignant neoplasm of liver and intrahepatic bile ducts NOS	cancer
+93870000	288700011	Malignant neoplasm of liver unspecified	cancer
+449627008	288931014	Malignant neoplasm of long bones of leg	cancer
+449627008	288935017	Malignant neoplasm of long bones of leg NOS	cancer
+187660002	288459019	Malignant neoplasm of lower buccal sulcus	cancer
+313250007	457111019	Malignant neoplasm of lower eyelid	cancer
+363384006	724311000006111	Malignant neoplasm of lower gum	cancer
+363504005	289447014	Malignant neoplasm of lower limb NOS	cancer
+187613005	288380012	Malignant neoplasm of lower lip, buccal aspect	cancer
+187604008	288354011	Malignant neoplasm of lower lip, external	cancer
+187614004	288382016	Malignant neoplasm of lower lip, frenulum	cancer
+271568003	406399011	Malignant neoplasm of lower lip, inner aspect	cancer
+271568003	288387010	Malignant neoplasm of lower lip, inner aspect NOS	cancer
+363373004	1228506017	Malignant neoplasm of lower lip, lipstick area	cancer
+271568003	724401000006116	Malignant neoplasm of lower lip, mucosa	cancer
+271568003	724411000006118	Malignant neoplasm of lower lip, oral aspect	cancer
+363373004	724421000006114	Malignant neoplasm of lower lip, vermilion border	cancer
+363373004	288355012	Malignant neoplasm of lower lip, vermilion border NOS	cancer
+187869003	288827019	Malignant neoplasm of lower lobe bronchus	cancer
+187870002	288828012	Malignant neoplasm of lower lobe of lung	cancer
+187868006	288826011	Malignant neoplasm of lower lobe, bronchus or lung	cancer
+187868006	288829016	Malignant neoplasm of lower lobe, bronchus or lung NOS	cancer
+187727005	288608011	Malignant neoplasm of lower third of oesophagus	cancer
+188195000	289194011	Malignant neoplasm of lower uterine segment	cancer
+188153009	289143016	Malignant neoplasm of lower-inner quadrant of female breast	cancer
+188155002	289145011	Malignant neoplasm of lower-outer quadrant of female breast	cancer
+187918004	288887017	Malignant neoplasm of lumbar vertebra	cancer
+269475001	403705015	Malignant neoplasm of lymphatic and haemopoietic tissue	cancer
+372065009	155361017	Malignant neoplasm of main bronchus	cancer
+372065009	288815017	Malignant neoplasm of main bronchus NOS	cancer
+363378008	288438014	Malignant neoplasm of major salivary gland NOS	cancer
+363378008	1228510019	Malignant neoplasm of major salivary glands	cancer
+187903000	288872010	Malignant neoplasm of malar bone	cancer
+372095001	155364013	Malignant neoplasm of male breast	cancer
+372095001	289159016	Malignant neoplasm of male breast NOS	cancer
+448668007	155368011	Malignant neoplasm of mandible	cancer
+363424007	724621000006112	Malignant neoplasm of mastoid air cells	cancer
+93888008	155370019	Malignant neoplasm of maxilla	cancer
+363425008	724641000006117	Malignant neoplasm of maxillary sinus	cancer
+187752007	288659012	Malignant neoplasm of Meckel's diverticulum	cancer
+187968007	288942017	Malignant neoplasm of medial cuneiform	cancer
+363494000	724671000006113	Malignant neoplasm of mediastinum, part unspecified	cancer
+188296005	289356019	Malignant neoplasm of medulla oblongata	cancer
+363497007	724681000006111	Malignant neoplasm of meninges, unspecified	cancer
+363370001	482537012	Malignant neoplasm of mesentery	cancer
+187810005	288749016	Malignant neoplasm of mesocaecum	cancer
+187811009	288751017	Malignant neoplasm of mesorectum	cancer
+255091001	380146015	Malignant neoplasm of metacarpal bones	cancer
+712525007	723951000006113	Malignant neoplasm of metatarsal bones of foot	cancer
+188297001	289357011	Malignant neoplasm of midbrain	cancer
+187865009	288823015	Malignant neoplasm of middle lobe bronchus	cancer
+187866005	288824014	Malignant neoplasm of middle lobe of lung	cancer
+187864008	288822013	Malignant neoplasm of middle lobe, bronchus or lung	cancer
+187864008	288825010	Malignant neoplasm of middle lobe, bronchus or lung NOS	cancer
+187726001	288607018	Malignant neoplasm of middle third of oesophagus	cancer
+187635002	288417015	Malignant neoplasm of midline of tongue	cancer
+363505006	288474017	Malignant neoplasm of mouth NOS	cancer
+187854004	288810010	Malignant neoplasm of mucosa of trachea	cancer
+363437005	724051000006110	Malignant neoplasm of myocardium	cancer
+188193007	289191015	Malignant neoplasm of myometrium of corpus uteri	cancer
+93916003	155402013	Malignant neoplasm of nasal bone	cancer
+363422006	1228552012	Malignant neoplasm of nasal cavities	cancer
+363422006	288776016	Malignant neoplasm of nasal cavities NOS	cancer
+187830009	288772019	Malignant neoplasm of nasal conchae	cancer
+188274004	289326011	Malignant neoplasm of nasolacrimal duct	cancer
+187702003	288556012	Malignant neoplasm of nasopharyngeal soft palate surface	cancer
+187692001	288522018	Malignant neoplasm of nasopharynx	cancer
+187692001	288564018	Malignant neoplasm of nasopharynx NOS	cancer
+363489000	289429015	Malignant neoplasm of neck NOS	cancer
+372063002	289397014	Malignant neoplasm of nervous system NOS	cancer
+188147009	289137018	Malignant neoplasm of nipple and areola of female breast	cancer
+188163001	289153015	Malignant neoplasm of nipple and areola of male breast	cancer
+93924008	155417012	Malignant neoplasm of nipple of female breast	cancer
+93925009	155418019	Malignant neoplasm of nipple of male breast	cancer
+188147009	289140018	Malignant neoplasm of nipple or areola of female breast NOS	cancer
+188163001	289156011	Malignant neoplasm of nipple or areola of male breast NOS	cancer
+1090251000000105	289427018	Malignant neoplasm of nose NOS	cancer
+93927001	155421017	Malignant neoplasm of occipital bone	cancer
+363470000	482733013	Malignant neoplasm of occipital lobe	cancer
+363402007	1216488012	Malignant neoplasm of oesophagus	cancer
+363402007	403674011	Malignant neoplasm of oesophagus NOS	cancer
+188308004	289369015	Malignant neoplasm of olfactory bulb	cancer
+363421004	482641017	Malignant neoplasm of omentum	cancer
+363498002	155425014	Malignant neoplasm of optic nerve	cancer
+363462005	723541000006115	Malignant neoplasm of orbit	cancer
+363462005	289319011	Malignant neoplasm of orbit NOS	cancer
+187906008	288875012	Malignant neoplasm of orbital bone	cancer
+363392002	723571000006111	Malignant neoplasm of oropharynx	cancer
+363392002	288518011	Malignant neoplasm of oropharynx NOS	cancer
+363392002	288516010	Malignant neoplasm of oropharynx, other specified sites	cancer
+302817000	723601000006116	Malignant neoplasm of other and ill defined site NOS	cancer
+302817000	289423019	Malignant neoplasm of other and ill-defined sites	cancer
+363505006	288450015	Malignant neoplasm of other and unspecified parts of mouth	cancer
+363346000	289574012	Malignant neoplasm of other and unspecified site NOS	cancer
+363346000	723641000006119	Malignant neoplasm of other and unspecified site OS	cancer
+363346000	406265010	Malignant neoplasm of other and unspecified sites	cancer
+363378008	288437016	Malignant neoplasm of other major salivary glands	cancer
+363515000	289251014	Malignant neoplasm of other male genital organ	cancer
+363515000	289259011	Malignant neoplasm of other male genital organ NOS	cancer
+428061005	289364013	Malignant neoplasm of other part of brain NOS	cancer
+428061005	289360016	Malignant neoplasm of other parts of brain	cancer
+363354003	289178016	Malignant neoplasm of other site of cervix	cancer
+363354003	289181014	Malignant neoplasm of other site of cervix NOS	cancer
+372064008	289148013	Malignant neoplasm of other site of female breast	cancer
+372064008	289150017	Malignant neoplasm of other site of female breast NOS	cancer
+372095001	289157019	Malignant neoplasm of other site of male breast	cancer
+93986008	288857011	Malignant neoplasm of other site of respiratory tract	cancer
+399326009	289279015	Malignant neoplasm of other site of urinary bladder	cancer
+428322007	289203018	Malignant neoplasm of other site of uterine adnexa	cancer
+371972005	289197016	Malignant neoplasm of other site of uterine body	cancer
+271323007	723801000006115	Malignant neoplasm of other sites lip, oral cavity, pharynx	cancer
+363358000	288832018	Malignant neoplasm of other sites of bronchus or lung	cancer
+363385007	288448011	Malignant neoplasm of other sites of floor of mouth	cancer
+363382005	288439018	Malignant neoplasm of other sites of gum	cancer
+363348004	288406016	Malignant neoplasm of other sites of lip	cancer
+363375006	288434011	Malignant neoplasm of other sites of tongue	cancer
+387922007	289421017	Malignant neoplasm of other specified endocrine gland	cancer
+363514001	289217010	Malignant neoplasm of other specified female genital organ	cancer
+363399006	288570012	Malignant neoplasm of other specified hypopharyngeal site	cancer
+363505006	288473011	Malignant neoplasm of other specified mouth parts	cancer
+372063002	289396017	Malignant neoplasm of other specified part of nervous system	cancer
+363402007	288614016	Malignant neoplasm of other specified part of oesophagus	cancer
+363433009	288839010	Malignant neoplasm of other specified pleura	cancer
+363461003	289329016	Malignant neoplasm of other specified site of eye	cancer
+187692001	288563012	Malignant neoplasm of other specified site of nasopharynx	cancer
+363392002	288517018	Malignant neoplasm of other specified site of oropharynx NOS	cancer
+363349007	288652015	Malignant neoplasm of other specified site of stomach	cancer
+363349007	288655018	Malignant neoplasm of other specified site of stomach NOS	cancer
+363509000	723221000006112	Malignant neoplasm of other specified site small intestine	cancer
+363346000	289448016	Malignant neoplasm of other specified sites	cancer
+363406005	288671018	Malignant neoplasm of other specified sites of colon	cancer
+363418001	288731016	Malignant neoplasm of other specified sites of pancreas	cancer
+372130007	289131017	Malignant neoplasm of other specified skin sites	cancer
+126879004	289297011	Malignant neoplasm of other urinary organs	cancer
+363443007	723281000006111	Malignant neoplasm of ovary	cancer
+428322007	289199018	Malignant neoplasm of ovary and other uterine adnexa	cancer
+109371002	723301000006110	Malignant neoplasm of overlapping lesion of bronchus & lung	cancer
+188198003	289196013	Malignant neoplasm of overlapping lesion of corpus uteri	cancer
+187624007	288404018	Malignant neoplasm of overlapping lesion of lip	cancer
+110013004	723321000006117	Malignant neoplasm of overlapping lesion of tonsil	cancer
+188256008	289298018	Malignant neoplasm of overlapping lesion of urinary organs	cancer
+109885001	723341000006112	Malignant neoplasm of overlapping lesion of vulva	cancer
+363390005	288471013	Malignant neoplasm of palate NOS	cancer
+363390005	288469013	Malignant neoplasm of palate unspecified	cancer
+363393007	1228529013	Malignant neoplasm of palatine tonsil	cancer
+254459004	2475984012	Malignant neoplasm of palatoglossal arch	cancer
+187675005	723391000006115	Malignant neoplasm of palatopharyngeal arch	cancer
+363418001	723401000006118	Malignant neoplasm of pancreas	cancer
+363418001	288736014	Malignant neoplasm of pancreas NOS	cancer
+187793004	288723014	Malignant neoplasm of pancreatic duct	cancer
+448674007	155441010	Malignant neoplasm of parametrium	cancer
+363481002	723441000006116	Malignant neoplasm of parathyroid gland	cancer
+363460002	723451000006119	Malignant neoplasm of paraurethral glands	cancer
+93945001	155444019	Malignant neoplasm of parietal bone	cancer
+363469001	482732015	Malignant neoplasm of parietal lobe	cancer
+93947009	155446017	Malignant neoplasm of parietal peritoneum	cancer
+449067008	155447014	Malignant neoplasm of parietal pleura	cancer
+363379000	723501000006117	Malignant neoplasm of parotid gland	cancer
+93950007	155449012	Malignant neoplasm of patella	cancer
+187952001	288924010	Malignant neoplasm of pelvic bones, sacrum and coccyx	cancer
+449377002	155452016	Malignant neoplasm of pelvic peritoneum	cancer
+363484005	722761000006119	Malignant neoplasm of pelvis	cancer
+363484005	289445018	Malignant neoplasm of pelvis NOS	cancer
+187952001	288930010	Malignant neoplasm of pelvis, sacrum or coccyx NOS	cancer
+363515000	289260018	Malignant neoplasm of penis and other male genital organ NOS	cancer
+363515000	289242018	Malignant neoplasm of penis and other male genital organs	cancer
+363516004	289249010	Malignant neoplasm of penis, part unspecified	cancer
+93956001	155458017	Malignant neoplasm of perianal skin	cancer
+93957005	155459013	Malignant neoplasm of pericardium	cancer
+187803004	288741018	Malignant neoplasm of perinephric tissue	cancer
+188326001	289389019	Malignant neoplasm of peripheral nerve of abdomen	cancer
+188324003	722871000006117	Malignant neoplasm of peripheral nerve of low limb, incl hip	cancer
+188327005	289390011	Malignant neoplasm of peripheral nerve of pelvis	cancer
+188325002	289388010	Malignant neoplasm of peripheral nerve of thorax	cancer
+188323009	722901000006117	Malignant neoplasm of peripheral nerve,upp limb,incl should	cancer
+188322004	722911000006119	Malignant neoplasm of peripheral nerves of head, face & neck	cancer
+187978005	288952018	Malignant neoplasm of phalanges of foot	cancer
+187950009	288922014	Malignant neoplasm of phalanges of hand	cancer
+187697007	288546013	Malignant neoplasm of pharyngeal recess	cancer
+187694000	288532013	Malignant neoplasm of pharyngeal tonsil	cancer
+363507003	288573014	Malignant neoplasm of pharynx unspecified	cancer
+363483004	722961000006116	Malignant neoplasm of pineal gland	cancer
+277156006	455404011	Malignant neoplasm of pinna NEC	cancer
+363482009	722981000006114	Malignant neoplasm of pituitary gland	cancer
+721567004	155468010	Malignant neoplasm of placenta	cancer
+363433009	723001000006113	Malignant neoplasm of pleura	cancer
+363433009	288840012	Malignant neoplasm of pleura NOS	cancer
+188298006	289358018	Malignant neoplasm of pons	cancer
+363400004	723031000006117	Malignant neoplasm of postcricoid region	cancer
+448670003	155473016	Malignant neoplasm of posterior mediastinum	cancer
+187709007	288568015	Malignant neoplasm of posterior pharynx	cancer
+363376007	1228509012	Malignant neoplasm of posterior third of tongue	cancer
+187693006	288529010	Malignant neoplasm of posterior wall of nasopharynx	cancer
+187693006	288541015	Malignant neoplasm of posterior wall of nasopharynx NOS	cancer
+187688008	288515014	Malignant neoplasm of posterior wall of oropharynx	cancer
+1090971000000105	288654019	Malignant neoplasm of posterior wall of stomach NEC	cancer
+188243001	289272012	Malignant neoplasm of posterior wall of urinary bladder	cancer
+363450006	1228575017	Malignant neoplasm of prepuce (foreskin)	cancer
+1090291000000102	722341000006119	Malignant neoplasm of prepylorus of stomach	cancer
+93973004	155477015	Malignant neoplasm of presacral region	cancer
+399068003	722361000006115	Malignant neoplasm of prostate	cancer
+93975006	155479017	Malignant neoplasm of pubis	cancer
+187740000	288641014	Malignant neoplasm of pyloric antrum of stomach	cancer
+187738005	288638017	Malignant neoplasm of pyloric canal of stomach	cancer
+187736009	288635019	Malignant neoplasm of pylorus of stomach	cancer
+187736009	288639013	Malignant neoplasm of pylorus of stomach NOS	cancer
+363401000	722421000006115	Malignant neoplasm of pyriform sinus	cancer
+93979000	155483017	Malignant neoplasm of radius	cancer
+363414004	722441000006110	Malignant neoplasm of rectosigmoid junction	cancer
+363351006	155488014	Malignant neoplasm of rectum	cancer
+187760008	288675010	Malignant neoplasm of rectum, rectosigmoid junction and anus	cancer
+188252005	722471000006119	Malignant neoplasm of renal calyces	cancer
+363457009	722481000006116	Malignant neoplasm of renal pelvis	cancer
+363457009	289296019	Malignant neoplasm of renal pelvis NOS	cancer
+449096009	288858018	Malignant neoplasm of respiratory tract NOS	cancer
+188219004	722511000006112	Malignant neoplasm of retained testis	cancer
+363465007	722521000006116	Malignant neoplasm of retina	cancer
+187804005	288742013	Malignant neoplasm of retrocaecal tissue	cancer
+363391009	722541000006111	Malignant neoplasm of retromolar area	cancer
+363420003	1228549016	Malignant neoplasm of retroperitoneum	cancer
+187801002	288739019	Malignant neoplasm of retroperitoneum and peritoneum	cancer
+187801002	288757018	Malignant neoplasm of retroperitoneum and peritoneum NOS	cancer
+363420003	288744014	Malignant neoplasm of retroperitoneum NOS	cancer
+93990005	155495017	Malignant neoplasm of rib	cancer
+187920001	288897014	Malignant neoplasm of rib, sternum and clavicle NOS	cancer
+187920001	288889019	Malignant neoplasm of ribs, sternum and clavicle	cancer
+363390005	1228523014	Malignant neoplasm of roof of mouth	cancer
+363397008	1228532011	Malignant neoplasm of roof of nasopharynx	cancer
+187956003	288928013	Malignant neoplasm of sacral vertebra	cancer
+93995000	155501015	Malignant neoplasm of sacrococcygeal region	cancer
+188103003	289092013	Malignant neoplasm of scalp	cancer
+188102008	289091018	Malignant neoplasm of scalp and skin of neck	cancer
+188102008	289094014	Malignant neoplasm of scalp or skin of neck NOS	cancer
+93997008	155503017	Malignant neoplasm of scapula	cancer
+187929000	288898016	Malignant neoplasm of scapula and long bones of upper arm	cancer
+363454002	723111000006110	Malignant neoplasm of scrotum	cancer
+94000008	289066018	Malignant neoplasm of sebaceous gland	cancer
+187974007	288948018	Malignant neoplasm of second metatarsal bone	cancer
+188234005	289252019	Malignant neoplasm of seminal vesicle	cancer
+363423001	721961000006111	Malignant neoplasm of septum of nose	cancer
+712525007	403698016	Malignant neoplasm of short bones of leg	cancer
+712525007	288953011	Malignant neoplasm of short bones of leg NOS	cancer
+363410008	721991000006115	Malignant neoplasm of sigmoid colon	cancer
+372130007	1806421000006110	Malignant neoplasm of skin	cancer
+372130007	289132012	Malignant neoplasm of skin NOS	cancer
+188110009	289099016	Malignant neoplasm of skin of abdominal wall	cancer
+94008001	155517014	Malignant neoplasm of skin of ankle	cancer
+188090007	289079010	Malignant neoplasm of skin of auricle (ear)	cancer
+188107002	289096011	Malignant neoplasm of skin of axillary fold	cancer
+94011000	155520018	Malignant neoplasm of skin of back	cancer
+94012007	155521019	Malignant neoplasm of skin of breast	cancer
+94013002	155522014	Malignant neoplasm of skin of buttock	cancer
+188095002	289084016	Malignant neoplasm of skin of cheek, external	cancer
+372126009	289097019	Malignant neoplasm of skin of chest, excluding breast	cancer
+94016005	155525011	Malignant neoplasm of skin of chin	cancer
+188091006	289080013	Malignant neoplasm of skin of external auditory meatus	cancer
+94020009	155529017	Malignant neoplasm of skin of eyebrow	cancer
+94023006	155533012	Malignant neoplasm of skin of finger	cancer
+94024000	155534018	Malignant neoplasm of skin of foot	cancer
+188122007	289111016	Malignant neoplasm of skin of fore-arm	cancer
+94026003	155536016	Malignant neoplasm of skin of forehead	cancer
+188138001	289127011	Malignant neoplasm of skin of great toe	cancer
+94027007	155537013	Malignant neoplasm of skin of groin	cancer
+94028002	155538015	Malignant neoplasm of skin of hand	cancer
+188135003	289124016	Malignant neoplasm of skin of heel	cancer
+94029005	155539011	Malignant neoplasm of skin of hip	cancer
+94030000	155540013	Malignant neoplasm of skin of knee	cancer
+94032008	155542017	Malignant neoplasm of skin of lip	cancer
+188133005	289122017	Malignant neoplasm of skin of lower leg	cancer
+188127001	289116014	Malignant neoplasm of skin of lower limb and hip	cancer
+188127001	289128018	Malignant neoplasm of skin of lower limb or hip NOS	cancer
+94034009	155545015	Malignant neoplasm of skin of neck	cancer
+188099008	289088018	Malignant neoplasm of skin of nose (external)	cancer
+94036006	155547011	Malignant neoplasm of skin of perineum	cancer
+188132000	289121012	Malignant neoplasm of skin of popliteal fossa area	cancer
+311779007	455405012	Malignant neoplasm of skin of scapular region	cancer
+94039004	155550014	Malignant neoplasm of skin of shoulder	cancer
+188100000	289089014	Malignant neoplasm of skin of temple	cancer
+94041003	155552018	Malignant neoplasm of skin of thigh	cancer
+188125009	289114012	Malignant neoplasm of skin of thumb	cancer
+94042005	155553011	Malignant neoplasm of skin of toe	cancer
+372126009	289095010	Malignant neoplasm of skin of trunk, excluding scrotum	cancer
+372126009	289107010	Malignant neoplasm of skin of trunk, excluding scrotum, NOS	cancer
+94044006	155556015	Malignant neoplasm of skin of umbilicus	cancer
+188121000	289110015	Malignant neoplasm of skin of upper arm	cancer
+188119005	289108017	Malignant neoplasm of skin of upper limb and shoulder	cancer
+188119005	289115013	Malignant neoplasm of skin of upper limb or shoulder NOS	cancer
+363509000	721601000006117	Malignant neoplasm of small intestine and duodenum	cancer
+363509000	288663017	Malignant neoplasm of small intestine NOS	cancer
+363388009	721621000006110	Malignant neoplasm of soft palate	cancer
+363440005	1228566019	Malignant neoplasm of soft tissue of face	cancer
+363439008	1228565015	Malignant neoplasm of soft tissue of head	cancer
+363441009	1228567011	Malignant neoplasm of soft tissue of neck	cancer
+187808008	288747019	Malignant neoplasm of specified parts of peritoneum	cancer
+187808008	288756010	Malignant neoplasm of specified parts of peritoneum NOS	cancer
+363346000	289452016	Malignant neoplasm of specified site NOS	cancer
+363418001	288735013	Malignant neoplasm of specified site of pancreas NOS	cancer
+363453008	721701000006112	Malignant neoplasm of spermatic cord	cancer
+94066004	155582012	Malignant neoplasm of sphenoid bone	cancer
+363428005	721721000006119	Malignant neoplasm of sphenoidal sinus	cancer
+187786003	288711015	Malignant neoplasm of sphincter of Oddi	cancer
+363475005	721751000006111	Malignant neoplasm of spinal cord	cancer
+363476006	482740014	Malignant neoplasm of spinal meninges	cancer
+363497007	289383018	Malignant neoplasm of spinal meninges NOS	cancer
+363499005	288760013	Malignant neoplasm of spleen NEC	cancer
+363499005	288763010	Malignant neoplasm of spleen NOS	cancer
+363413005	721821000006114	Malignant neoplasm of splenic flexure of colon	cancer
+188184006	289180010	Malignant neoplasm of squamocolumnar junction of cervix	cancer
+94073009	155592016	Malignant neoplasm of sternum	cancer
+363349007	721851000006117	Malignant neoplasm of stomach	cancer
+363349007	288656017	Malignant neoplasm of stomach NOS	cancer
+363430007	721871000006110	Malignant neoplasm of subglottis	cancer
+363381003	721881000006113	Malignant neoplasm of sublingual gland	cancer
+363380002	1228513017	Malignant neoplasm of submandibular gland	cancer
+1090951000000101	289430013	Malignant neoplasm of supraclavicular fossa NOS	cancer
+187842004	288797015	Malignant neoplasm of supraglottis	cancer
+94081005	721091000006119	Malignant neoplasm of sweat gland	cancer
+187792009	288720012	Malignant neoplasm of tail of pancreas	cancer
+94083008	155604019	Malignant neoplasm of talus	cancer
+187988006	288963015	Malignant neoplasm of tarsus of eyelid	cancer
+94085001	155607014	Malignant neoplasm of temporal bone	cancer
+363468009	482731010	Malignant neoplasm of temporal lobe	cancer
+363468009	289349013	Malignant neoplasm of temporal lobe NOS	cancer
+363449006	721171000006119	Malignant neoplasm of testis	cancer
+363449006	403702017	Malignant neoplasm of testis NOS	cancer
+188287005	289345019	Malignant neoplasm of thalamus	cancer
+187814001	288754013	Malignant neoplasm of the pouch of Douglas	cancer
+187947006	288919012	Malignant neoplasm of third metacarpal bone	cancer
+187723009	288594012	Malignant neoplasm of thoracic oesophagus	cancer
+187917009	288886014	Malignant neoplasm of thoracic vertebra	cancer
+188361007	289432017	Malignant neoplasm of thorax	cancer
+188361007	289438018	Malignant neoplasm of thorax NOS	cancer
+363434003	721271000006114	Malignant neoplasm of thymus	cancer
+187881004	288841011	Malignant neoplasm of thymus, heart and mediastinum	cancer
+187846001	288802014	Malignant neoplasm of thyroid cartilage	cancer
+363478007	721291000006110	Malignant neoplasm of thyroid gland	cancer
+94099002	155624015	Malignant neoplasm of tibia	cancer
+363375006	721311000006114	Malignant neoplasm of tongue	cancer
+363375006	288435012	Malignant neoplasm of tongue NOS	cancer
+187644001	288433017	Malignant neoplasm of tongue, junctional zone	cancer
+187637005	288419017	Malignant neoplasm of tongue, tip and lateral border	cancer
+363393007	721351000006110	Malignant neoplasm of tonsil	cancer
+363394001	721361000006112	Malignant neoplasm of tonsillar fossa	cancer
+363394001	288505015	Malignant neoplasm of tonsillar fossa NOS	cancer
+187675005	288486019	Malignant neoplasm of tonsillar pillar	cancer
+363432004	721391000006116	Malignant neoplasm of trachea	cancer
+363432004	288811014	Malignant neoplasm of trachea NOS	cancer
+430621000	288808013	Malignant neoplasm of trachea, bronchus and lung	cancer
+363408006	721421000006112	Malignant neoplasm of transverse colon	cancer
+188239000	289262014	Malignant neoplasm of trigone of urinary bladder	cancer
+1090311000000101	289450012	Malignant neoplasm of trunk NOS	cancer
+188235006	289257013	Malignant neoplasm of tunica vaginalis	cancer
+187830009	2475564017	Malignant neoplasm of turbinate	cancer
+187836003	288787012	Malignant neoplasm of tympanic antrum	cancer
+187835004	288784017	Malignant neoplasm of tympanic cavity	cancer
+94112009	155641018	Malignant neoplasm of ulna	cancer
+188219004	289223017	Malignant neoplasm of undescended testis	cancer
+188219004	289234019	Malignant neoplasm of undescended testis NOS	cancer
+302817000	289561018	Malignant neoplasm of unspecified site	cancer
+363346000	289571016	Malignant neoplasm of unspecified site NOS	cancer
+187659007	288454012	Malignant neoplasm of upper buccal sulcus	cancer
+313249007	457110018	Malignant neoplasm of upper eyelid	cancer
+363383000	720761000006115	Malignant neoplasm of upper gum	cancer
+363503004	289446017	Malignant neoplasm of upper limb NOS	cancer
+187606005	720791000006111	Malignant neoplasm of upper lip, buccal aspect	cancer
+421249001	720801000006112	Malignant neoplasm of upper lip, external	cancer
+187608006	288372017	Malignant neoplasm of upper lip, frenulum	cancer
+187606005	288363013	Malignant neoplasm of upper lip, inner aspect	cancer
+187606005	288377011	Malignant neoplasm of upper lip, inner aspect NOS	cancer
+187601000	288350019	Malignant neoplasm of upper lip, lipstick area	cancer
+187606005	288364019	Malignant neoplasm of upper lip, mucosa	cancer
+187606005	288362015	Malignant neoplasm of upper lip, oral aspect	cancer
+363372009	1228504019	Malignant neoplasm of upper lip, vermilion border	cancer
+363372009	288351015	Malignant neoplasm of upper lip, vermilion border NOS	cancer
+187861000	288819011	Malignant neoplasm of upper lobe bronchus	cancer
+187862007	288820017	Malignant neoplasm of upper lobe of lung	cancer
+269464000	403688010	Malignant neoplasm of upper lobe, bronchus or lung	cancer
+269464000	288821018	Malignant neoplasm of upper lobe, bronchus or lung NOS	cancer
+187725002	288602012	Malignant neoplasm of upper third of oesophagus	cancer
+188152004	289142014	Malignant neoplasm of upper-inner quadrant of female breast	cancer
+188154003	289144010	Malignant neoplasm of upper-outer quadrant of female breast	cancer
+363456000	720951000006119	Malignant neoplasm of urachus	cancer
+363458004	720961000006117	Malignant neoplasm of ureter	cancer
+188245008	289276010	Malignant neoplasm of ureteric orifice	cancer
+188253000	289294016	Malignant neoplasm of ureteropelvic junction	cancer
+363459007	720991000006113	Malignant neoplasm of urethra	cancer
+399326009	1786811017	Malignant neoplasm of urinary bladder	cancer
+399326009	289281018	Malignant neoplasm of urinary bladder NOS	cancer
+428322007	289204012	Malignant neoplasm of uterine adnexa NOS	cancer
+371973000	289166015	Malignant neoplasm of uterus, part unspecified	cancer
+363389001	721041000006111	Malignant neoplasm of uvula	cancer
+363445000	721051000006113	Malignant neoplasm of vagina	cancer
+363445000	289208010	Malignant neoplasm of vagina NOS	cancer
+188209005	289207017	Malignant neoplasm of vaginal vault	cancer
+363395000	721481000006111	Malignant neoplasm of vallecula	cancer
+94134006	155669014	Malignant neoplasm of ventral surface of tongue	cancer
+1090271000000101	288429012	Malignant neoplasm of ventral tongue surface NOS	cancer
+421249001	288407013	Malignant neoplasm of vermilion border of lip unspecified	cancer
+363438000	720341000006115	Malignant neoplasm of vertebral column	cancer
+363438000	288888010	Malignant neoplasm of vertebral column NOS	cancer
+187658004	288453018	Malignant neoplasm of vestibule of mouth	cancer
+187658004	288468017	Malignant neoplasm of vestibule of mouth NOS	cancer
+187831008	288775017	Malignant neoplasm of vestibule of nose	cancer
+449308006	155675017	Malignant neoplasm of visceral pleura	cancer
+94142007	155677013	Malignant neoplasm of vomer	cancer
+363367000	403701012	Malignant neoplasm of vulva unspecified	cancer
+187716008	288578017	Malignant neoplasm of Waldeyer's ring	cancer
+187927003	288896017	Malignant neoplasm of xiphoid process	cancer
+94145009	155681013	Malignant neoplasm of zygomatic bone	cancer
+363415003	720451000006113	Malignant neoplasm other gallbladder/extrahepatic bile duct	cancer
+255077007	720461000006110	Malignant neoplasm other spec digestive tract and peritoneum	cancer
+94047004	720471000006115	Malignant neoplasm overlapping lesion of skin	cancer
+188339002	720481000006117	Malignant neoplasm pituitary gland and craniopharyngeal duct	cancer
+254484001	720491000006119	Malignant neoplasm posterior margin nasal septum and choanae	cancer
+187760008	720501000006110	Malignant neoplasm rectum,rectosigmoid junction and anus NOS	cancer
+188089003	720511000006113	Malignant neoplasm skin of ear and external auricular canal	cancer
+363346000	720521000006117	Malignant neoplasm skin of other and unspecified parts face	cancer
+363346000	720531000006119	Malignant neoplasm skin other and unspec part of face NOS	cancer
+187989003	288964014	Malignant neoplasm soft tissues of cervical spine	cancer
+363393007	288478019	Malignant neoplasm tonsil NOS	cancer
+188026007	720571000006116	Malignant neoplasm, overlap lesion connective & soft tissue	cancer
+93841009	720581000006118	Malignant neoplasm, overlap lesion of resp & intrathor orgs	cancer
+109874003	720591000006115	Malignant neoplasm, overlapping lesion male genital orgs	cancer
+187838002	288790018	Malignant neoplasm, overlapping lesion of accessory sinuses	cancer
+109847004	1219537012	Malignant neoplasm, overlapping lesion of biliary tract	cancer
+188247000	289280017	Malignant neoplasm, overlapping lesion of bladder	cancer
+109912006	720631000006115	Malignant neoplasm, overlapping lesion of brain	cancer
+188157005	289147015	Malignant neoplasm, overlapping lesion of breast	cancer
+188180002	289175018	Malignant neoplasm, overlapping lesion of cervix uteri	cancer
+187757001	288670017	Malignant neoplasm, overlapping lesion of colon	cancer
+187824009	288764016	Malignant neoplasm, overlapping lesion of digestive system	cancer
+109948008	1217367011	Malignant neoplasm, overlapping lesion of eye and adnexa	cancer
+109830000	1219533011	Malignant neoplasm, overlapping lesion of floor of mouth	cancer
+109369002	1219468014	Malignant neoplasm, overlapping lesion of larynx	cancer
+109367000	1219467016	Malignant neoplasm, overlapping lesion of nasopharynx	cancer
+109835005	1215862010	Malignant neoplasm, overlapping lesion of oesophagus	cancer
+109848009	1219538019	Malignant neoplasm, overlapping lesion of pancreas	cancer
+109875002	1219540012	Malignant neoplasm, overlapping lesion of penis	cancer
+109837002	1219535016	Malignant neoplasm, overlapping lesion of small intestine	cancer
+109836006	1219534017	Malignant neoplasm, overlapping lesion of stomach	cancer
+109919002	720001000006119	Malignant neoplasm,overlap lesion periph nerve & auton ns	cancer
+1090931000000108	720011000006116	Malignant neoplasm-pluriglandular involvement,unspecified	cancer
+1090871000000102	720021000006112	Malignant neoplasm/bones+articular cartilage/limb,unspfd	cancer
+109347009	720031000006110	Malignant neoplasm/overlap lesion/bone+articulr cartilage	cancer
+109878000	720041000006117	Malignant neoplasm/overlapping lesion/feml genital organs	cancer
+1090901000000102	720051000006115	Malignant neoplasm/peripheral nerves of trunk,unspecified	cancer
+188478004	289566011	Malignant neoplasms of independent (primary) multiple sites	cancer
+118600007	289849019	Malignant neoplasms of lymphoid and histiocytic tissue NOS	cancer
+109823006	1219531013	Malignant overlapping lesion of tongue	cancer
+188718006	289867014	Malignant plasma cell neoplasm, extramedullary plasmacytoma	cancer
+83270006	138104014	Malignant pleural effusion	cancer
+118614007	720161000006119	Malignant reticuloendotheliosis	cancer
+118612006	445587010	Malignant reticulosis	cancer
+416842003	2549374014	Malignant sacral teratoma	cancer
+255052006	380059013	Malignant tumour of unknown origin	cancer
+443487006	123978016	Mantle cell lymphoma	cancer
+78745000	716861000006117	Mast cell disease	cancer
+188666005	716911000006110	Mast cell malignancy of lymph nodes inguinal region and leg	cancer
+188669003	289791013	Mast cell malignancy of lymph nodes of multiple sites	cancer
+397009000	289783016	Mast cell malignancy of unspecified site	cancer
+78745000	203313019	Mastocytosis	cancer
+37373007	62349016	Meckel's diverticulum	cancer
+37373007	313874017	Meckel's diverticulum NOS	cancer
+188044004	880161000006114	Melanoma - head/neck	cancer
+188067002	880191000006118	Melanoma - lower limb	cancer
+109284008	880171000006119	Melanoma - trunk	cancer
+269580008	880181000006116	Melanoma - upper limb	cancer
+315230006	459719019	Melanoma in situ of back	cancer
+315036008	459501013	Melanoma in situ of back of hand	cancer
+109278005	711081000006111	Melanoma in situ of ear and external auricular canal	cancer
+109274007	173823013	Melanoma in situ of eyelid, including canthus	cancer
+109272006	173821010	Melanoma in situ of lip	cancer
+109294003	711111000006117	Melanoma in situ of lower limb, including hip	cancer
+109270003	711121000006113	Melanoma in situ of other and unspecified parts of face	cancer
+109276009	173825018	Melanoma in situ of scalp	cancer
+189324006	290856018	Melanoma in situ of scalp and neck	cancer
+109266006	335843013	Melanoma in situ of skin	cancer
+109284008	173833017	Melanoma in situ of trunk	cancer
+109290007	711171000006114	Melanoma in situ of upper limb, including shoulder	cancer
+127330008	711181000006112	Melanoma in situ, unspecified	cancer
+93655004	880151000006112	Melanoma of skin	cancer
+93655004	990551000006111	Melanoma of skin NOS	cancer
+62064005	103180017	Mesothelioma	cancer
+109383000	173941016	Mesothelioma of pericardium	cancer
+109853004	174532014	Mesothelioma of peritoneum	cancer
+254645002	705211000006111	Mesothelioma of pleura	cancer
+269473008	704711000006119	Metastases of respiratory and/or digestive systems	cancer
+118609008	1815061000006118	Mixed cellularity classical Hodgkin lymphoma	cancer
+277622004	414252013	Mucosa-associated lymphoma	cancer
+65399007	1815261000006114	Multifocal and unisystemic Langerhans-cell histiocytosis	cancer
+109989006	344820010	Multiple myeloma	cancer
+109989006	695561000006118	Multiple myeloma and immunoproliferative neoplasms	cancer
+109989006	880801000006116	Multiple myeloma etc.	cancer
+254659009	379246013	Multiple self-healing epithelioma of Ferguson-Smith	cancer
+193209005	297584015	Myasthenic syndrome due to other malignancy	cancer
+415112005	683191000006119	Myeloma - solitary	cancer
+109989006	344819016	Myelomatosis	cancer
+71985006	682691000006117	Myopathy due to malignant disease	cancer
+255048006	680761000006117	Neo/uncertn+unknwn behav/lymph,h'matopetc+rel tiss,unspcf	cancer
+126488004	291297012	Neoplasm of unspecified nature of skin	cancer
+87364003	144849016	Neuroblastoma	cancer
+118605002	2168431000000112	Nodular lymphocyte predominant Hodgkin lymphoma	cancer
+269476000	673611000006113	Nodular lymphoma (Brill - Symmers disease)	cancer
+269476000	289726014	Nodular lymphoma NOS	cancer
+95186006	157686016	Nodular lymphoma of intra-abdominal lymph nodes	cancer
+95188007	157688015	Nodular lymphoma of intrathoracic lymph nodes	cancer
+188612002	289721016	Nodular lymphoma of lymph nodes of axilla and upper limb	cancer
+188609000	289718018	Nodular lymphoma of lymph nodes of head, face and neck	cancer
+188613007	673681000006118	Nodular lymphoma of lymph nodes of inguinal region and leg	cancer
+95192000	157692010	Nodular lymphoma of lymph nodes of multiple sites	cancer
+269476000	289717011	Nodular lymphoma of unspecified site	cancer
+118608000	1815051000006115	Nodular sclerosis classical Hodgkin lymphoma	cancer
+118601006	587201000006115	Non - Hodgkin's lymphoma	cancer
+118601006	2168861000000117	Non-follicular lymphoma	cancer
+118601006	2839871014	Non-Hodgkin lymphoma	cancer
+109962001	1815451000006113	Nonfollicular lymphoma	cancer
+363402007	1216486011	Oesophageal cancer	cancer
+739301006	312137011	Osteoporosis in multiple myelomatosis	cancer
+307576001	2164653019	Osteosarcoma	cancer
+118599009	1815091000006114	Other classical Hodgkin lymphoma	cancer
+363346000	289565010	Other malignant neoplasm NOS	cancer
+277606000	289713010	Other malignant neoplasm of lymphoid and histiocytic tissue	cancer
+372130007	403700013	Other malignant neoplasm of skin	cancer
+118601006	1815491000006119	Other non-follicular lymphoma	cancer
+188487008	289613017	Other specified reticulosarcoma or lymphosarcoma	cancer
+308121000	1815231000006117	Other types of follicular lymphoma	cancer
+308121000	289813015	Other types of follicular non-Hodgkin's lymphoma	cancer
+187807003	247091000006118	Overlapping malign lesion of retroperitoneum and peritoneum	cancer
+109267002	173816012	Overlapping malignant melanoma of skin	cancer
+315241008	459732012	Pain from metastases	cancer
+278065000	414849013	Pancoast's syndrome	cancer
+134421000	216227011	Pathological fracture due to metastatic bone disease	cancer
+95210003	201743012	Plasma cell leukaemia	cancer
+415112005	451430017	Plasmacytoma NOS	cancer
+415112005	225051000006119	Plasmacytoma NOS	cancer
+167973009	219181000006119	Pleural fluid: malignant cells	cancer
+77659000	1234144017	Polyneuropathy in malignant disease	cancer
+109844006	342851019	Primary angiosarcoma of liver	cancer
+187769009	288690014	Primary carcinoma of liver	cancer
+95214007	157732017	Primary malignant neoplasm of liver	cancer
+95214007	288692018	Primary malignant neoplasm of liver NOS	cancer
+93880001	1773111000006111	Primary malignant neoplasm of lung	cancer
+310504009	454091013	Primary malignant neoplasm of unknown site	cancer
+275419009	411399019	Primary vulval cancer	cancer
+254901000	379770011	Prostatic intraepithelial neoplasia	cancer
+254901000	1805901000006116	Prostatic intraepithelial neoplasia	cancer
+398768004	223181000000115	Queyrats's erythroplasia	cancer
+254582000	379089019	Rectal carcinoma	cancer
+363518003	177051000006111	Renal malignant neoplasm	cancer
+373168002	1211679013	Reticulosarcoma	cancer
+269476000	169581000006112	Reticulosarcoma - follicular or nodular	cancer
+373168002	289590012	Reticulosarcoma NOS	cancer
+95224004	157745018	Reticulosarcoma of intra-abdominal lymph nodes	cancer
+188489006	289582012	Reticulosarcoma of lymph nodes of head, face and neck	cancer
+95231000	157752016	Reticulosarcoma of spleen	cancer
+373168002	289581017	Reticulosarcoma of unspecified site	cancer
+188487008	289614011	Reticulosarcoma or lymphosarcoma NOS	cancer
+255067005	380093012	Sarcoma of bone and connective tissue	cancer
+446643000	1815251000006112	Sarcoma of dendritic cells	cancer
+94408005	157481000006111	Secondary and unspec malig neop ant mediastinal lymph nodes	cancer
+1090131000000106	157491000006114	Secondary and unspec malig neop anterior cervical LN	cancer
+94398002	157501000006118	Secondary and unspec malig neop axilla and upper limb LN	cancer
+94398002	157511000006115	Secondary and unspec malig neop axilla and upper limb LN NOS	cancer
+94181007	157521000006111	Secondary and unspec malig neop axillary lymph nodes	cancer
+94227002	157531000006114	Secondary and unspec malig neop bronchopulmonary lymph nodes	cancer
+1090211000000106	157541000006116	Secondary and unspec malig neop circumflex iliac LN	cancer
+1090191000000107	157551000006119	Secondary and unspec malig neop coeliac lymph nodes	cancer
+94336001	157561000006117	Secondary and unspec malig neop common iliac lymph nodes	cancer
+1090121000000109	157571000006112	Secondary and unspec malig neop deep cervical LN	cancer
+1090201000000109	157581000006110	Secondary and unspec malig neop deep inguinal lymph nodes	cancer
+94475009	157591000006113	Secondary and unspec malig neop deep parotid lymph nodes	cancer
+1090161000000101	157601000006117	Secondary and unspec malig neop diaphragmatic lymph nodes	cancer
+94336001	157611000006119	Secondary and unspec malig neop external iliac lymph nodes	cancer
+94410007	157631000006113	Secondary and unspec malig neop inferior mesenteric LN	cancer
+94642006	157641000006115	Secondary and unspec malig neop inferior tracheobronchial LN	cancer
+94338000	157651000006118	Secondary and unspec malig neop infraclavicular lymph nodes	cancer
+94395004	157661000006116	Secondary and unspec malig neop inguinal and lower limb LN	cancer
+94344001	157671000006111	Secondary and unspec malig neop intercostal lymph nodes	cancer
+1090221000000100	157681000006114	Secondary and unspec malig neop internal iliac lymph nodes	cancer
+1090091000000108	157691000006112	Secondary and unspec malig neop internal mammary lymph nodes	cancer
+94347008	157701000006112	Secondary and unspec malig neop intra-abdominal LN NOS	cancer
+94347008	157711000006110	Secondary and unspec malig neop intra-abdominal lymph nodes	cancer
+94350006	157721000006119	Secondary and unspec malig neop intrapelvic LN NOS	cancer
+94350006	157731000006116	Secondary and unspec malig neop intrapelvic lymph nodes	cancer
+94351005	157741000006114	Secondary and unspec malig neop intrathoracic LN NOS	cancer
+94351005	157751000006111	Secondary and unspec malig neop intrathoracic lymph nodes	cancer
+303194003	157761000006113	Secondary and unspec malig neop lymph nodes head/face/neck	cancer
+303201005	157771000006118	Secondary and unspec malig neop lymph nodes multiple sites	cancer
+94392001	157781000006115	Secondary and unspec malig neop lymph nodes NOS	cancer
+94393006	157801000006116	Secondary and unspec malig neop of facial lymph nodes	cancer
+94395004	157811000006118	Secondary and unspec malig neop of inguinal and leg LN NOS	cancer
+94475009	157821000006114	Secondary and unspec malig neop of superficial parotid LN	cancer
+1090081000000106	157831000006112	Secondary and unspec malig neop paratracheal lymph nodes	cancer
+94477001	157841000006119	Secondary and unspec malig neop pectoral lymph nodes	cancer
+94408005	157861000006115	Secondary and unspec malig neop post mediastinal lymph nodes	cancer
+94227002	157871000006110	Secondary and unspec malig neop pulmonary lymph nodes	cancer
+1090171000000108	157881000006113	Secondary and unspec malig neop sacral lymph nodes	cancer
+94609005	157891000006111	Secondary and unspec malig neop submandibular lymph nodes	cancer
+94611001	157901000006110	Secondary and unspec malig neop submental lymph nodes	cancer
+94642006	157911000006113	Secondary and unspec malig neop superfic tracheobronchial LN	cancer
+1090141000000102	157921000006117	Secondary and unspec malig neop superficial cervical LN	cancer
+94612008	157931000006119	Secondary and unspec malig neop superficial inguinal LN	cancer
+94410007	157941000006112	Secondary and unspec malig neop superficial mesenteric LN	cancer
+1090101000000100	157951000006114	Secondary and unspec malig neop supratrochlear lymph nodes	cancer
+1090151000000104	157961000006111	Secondary and unspec malignant neoplasm mastoid lymph nodes	cancer
+94449005	157971000006116	Secondary and unspec malignant neoplasm occipital lymph node	cancer
+94392001	406333010	Secondary and unspecified malignant neoplasm of lymph nodes	cancer
+128462008	880691000006112	Secondary Ca - specified sites	cancer
+94222008	880731000006116	Secondary Ca bone/bone marrow	cancer
+188462001	880721000006119	Secondary Ca brain/spinal cord	cancer
+269473008	880661000006116	Secondary Ca GIT	cancer
+94360002	880701000006112	Secondary Ca kidney	cancer
+94381002	880681000006114	Secondary Ca liver	cancer
+94391008	880671000006111	Secondary Ca lung	cancer
+94455000	880741000006114	Secondary Ca ovary	cancer
+94579000	880711000006110	Secondary Ca skin	cancer
+188469005	289554017	Secondary cancer of the cervix	cancer
+94681006	511385013	Secondary cancer of the vulva	cancer
+128462008	380206018	Secondary carcinoma of other specified sites	cancer
+269473008	380193010	Secondary carcinoma of respiratory and/or digestive systems	cancer
+94365007	151101000006116	Secondary malig neop of large intestine or rectum NOS	cancer
+269473008	151111000006118	Secondary malig neop of respiratory and digestive systems	cancer
+269473008	151121000006114	Secondary malig neop of respiratory or digestive system NOS	cancer
+188445006	151131000006112	Secondary malig neop of retroperitoneum and peritoneum	cancer
+188445006	151141000006119	Secondary malig neop of retroperitoneum or peritoneum NOS	cancer
+94580002	151151000006117	Secondary malig neop of small intestine or duodenum NOS	cancer
+94161006	155711012	Secondary malignant neoplasm of adrenal gland	cancer
+94186002	155773015	Secondary malignant neoplasm of bladder	cancer
+94222008	1235814012	Secondary malignant neoplasm of bone and bone marrow	cancer
+94225005	155879014	Secondary malignant neoplasm of brain	cancer
+188462001	289546019	Secondary malignant neoplasm of brain and spinal cord	cancer
+188462001	289549014	Secondary malignant neoplasm of brain or spinal cord NOS	cancer
+94297009	511250010	Secondary malignant neoplasm of breast	cancer
+188469005	289553011	Secondary malignant neoplasm of cervix uteri	cancer
+94260004	155967013	Secondary malignant neoplasm of colon	cancer
+94275007	156007019	Secondary malignant neoplasm of duodenum	cancer
+188471005	289557012	Secondary malignant neoplasm of epididymis and vas deferens	cancer
+94335002	156169017	Secondary malignant neoplasm of ileum	cancer
+94357009	156231017	Secondary malignant neoplasm of jejunum	cancer
+94360002	156237018	Secondary malignant neoplasm of kidney	cancer
+94365007	151321000006111	Secondary malignant neoplasm of large intestine and rectum	cancer
+94381002	156291015	Secondary malignant neoplasm of liver	cancer
+94381002	151331000006114	Secondary malignant neoplasm of liver	cancer
+94391008	156319016	Secondary malignant neoplasm of lung	cancer
+94409002	156375015	Secondary malignant neoplasm of mediastinum	cancer
+94313005	289530010	Secondary malignant neoplasm of other digestive organ	cancer
+94442001	289550014	Secondary malignant neoplasm of other part of nervous system	cancer
+94515004	289515018	Secondary malignant neoplasm of other respiratory organs	cancer
+128462008	289559010	Secondary malignant neoplasm of other specified site NOS	cancer
+128462008	151401000006110	Secondary malignant neoplasm of other specified site NOS	cancer
+128462008	151421000006117	Secondary malignant neoplasm of other specified sites	cancer
+128462008	406266011	Secondary malignant neoplasm of other specified sites	cancer
+94663008	289536016	Secondary malignant neoplasm of other urinary organ NOS	cancer
+94663008	289535017	Secondary malignant neoplasm of other urinary organs	cancer
+94455000	156493015	Secondary malignant neoplasm of ovary	cancer
+94481001	156557015	Secondary malignant neoplasm of penis	cancer
+94627008	1235875018	Secondary malignant neoplasm of peritoneum	cancer
+94493005	156585018	Secondary malignant neoplasm of pleura	cancer
+94503003	156607018	Secondary malignant neoplasm of prostate	cancer
+94513006	156627017	Secondary malignant neoplasm of rectum	cancer
+94628003	1215809015	Secondary malignant neoplasm of retroperitoneum	cancer
+94579000	156777013	Secondary malignant neoplasm of skin	cancer
+94579000	289545015	Secondary malignant neoplasm of skin NOS	cancer
+94544002	156699010	Secondary malignant neoplasm of skin of breast	cancer
+94554003	156719018	Secondary malignant neoplasm of skin of face	cancer
+188454009	289538015	Secondary malignant neoplasm of skin of head	cancer
+188459004	289543010	Secondary malignant neoplasm of skin of hip and leg	cancer
+94566009	156747019	Secondary malignant neoplasm of skin of neck	cancer
+188458007	289542017	Secondary malignant neoplasm of skin of shoulder and arm	cancer
+94575006	156765015	Secondary malignant neoplasm of skin of trunk	cancer
+94580002	151621000006119	Secondary malignant neoplasm of small intestine and duodenum	cancer
+94600009	156825010	Secondary malignant neoplasm of spinal cord	cancer
+94623007	156883018	Secondary malignant neoplasm of testis	cancer
+94638008	156919012	Secondary malignant neoplasm of tongue	cancer
+274088005	409845013	Secondary malignant neoplasm of unknown site	cancer
+94659001	156973018	Secondary malignant neoplasm of ureter	cancer
+94661005	156977017	Secondary malignant neoplasm of urethra	cancer
+94665001	156989015	Secondary malignant neoplasm of uterus	cancer
+94668004	156997010	Secondary malignant neoplasm of vagina	cancer
+94681006	157025019	Secondary malignant neoplasm of vulva	cancer
+303194003	152611000006116	Secondary unspec malig neop lymph nodes head/face/neck NOS	cancer
+313429000	457319014	Seminoma of descended testis	cancer
+255107005	380180017	Seminoma of testis	cancer
+313428008	457318018	Seminoma of undescended testis	cancer
+342571000000109	638841000000113	Siewert type I adenocarcinoma	cancer
+342511000000104	638721000000113	Siewert type II adenocarcinoma	cancer
+342561000000102	638821000000118	Siewert type III adenocarcinoma	cancer
+415112005	139571000006117	Solitary myeloma	cancer
+415112005	18484012	Solitary plasmacytoma	cancer
+1014611000000103	1488663010	Squamous cell carcinoma antigen level	cancer
+363375006	879691000006112	Tongue carcinoma	cancer
+109988003	344806015	True histiocytic lymphoma	cancer
+129000002	2168481000000111	Unifocal Langerhans-cell histiocytosis	cancer
+118600007	81401000006110	Unspec malig neop lymphoid/histiocytic intra-abdominal nodes	cancer
+118600007	81411000006113	Unspec malig neop lymphoid/histiocytic lymph node axilla/arm	cancer
+118600007	81421000006117	Unspec malig neop lymphoid/histiocytic lymph node head/neck	cancer
+118600007	81431000006119	Unspec malig neop lymphoid/histiocytic nodes inguinal/leg	cancer
+118600007	81441000006112	Unspec malig neop lymphoid/histiocytic of intrapelvic nodes	cancer
+118600007	81451000006114	Unspec malig neop lymphoid/histiocytic of intrathoracic node	cancer
+118600007	81461000006111	Unspec malig neop lymphoid/histiocytic of multiple sites	cancer
+118600007	81471000006116	Unspec malig neop lymphoid/histiocytic of spleen	cancer
+118600007	81481000006118	Unspec malig neop lymphoid/histiocytic of unspecified site	cancer
+276871002	413202011	Vaginal intraepithelial neoplasia grade 1	cancer
+276872009	413205013	Vaginal intraepithelial neoplasia grade 2	cancer
+92791005	1770471000006116	Vaginal intraepithelial neoplasia grade 3	cancer
+399933001	510113012	Vulval intraepithelial neoplasia	cancer
+276873004	413210012	Vulval intraepithelial neoplasia grade 1	cancer
+276874005	413211011	Vulval intraepithelial neoplasia grade 2	cancer
+276875006	413216018	Vulval intraepithelial neoplasia grade 3	cancer
+190818004	2168841000000118	Waldenstrom macroglobulinaemia	cancer
+190818004	293380012	Waldenstrom's macroglobulinaemia	cancer
+236385009	1847541000006113	Wilms' tumour + nephrotic syndrome + pseudohermaphroditism	cancer
+168516003	261676014	X-ray metastasis control	cancer
+13213009	407821000006118	[X]Other cong malformatn of cardiac chambers & connections	congenital heart disease
+13213009	315680013	[X]Other congenital malformations of cardiac septa	congenital heart disease
+13213009	315686019	[X]Other specified congenital malformations of the heart	congenital heart disease
+13213009	313444015	Acyanotic congenital heart disease NOS	congenital heart disease
+13213009	313448017	Congenital heart anomaly NOS	congenital heart disease
+13213009	582721000006116	Congenital heart anomaly NOS	congenital heart disease
+13213009	22613011	Congenital heart disease	congenital heart disease
+237227006	355549012	Congenital heart disease in pregnancy	congenital heart disease
+13213009	377170014	Congenital insufficiency of heart valve NEC	congenital heart disease
+12770006	400805012	Cyanotic congenital heart disease NOS	congenital heart disease
+13213009	313344016	Other congenital heart anomalies	congenital heart disease

@@ -1,0 +1,1004 @@
+icd	description	term_main
+B16	Acute hepatitis B	Liver disease
+B16.0	Acute hepatitis B with delta-agent (coinfection) with hepatic coma	Liver disease
+B16.1	Acute hepatitis B with delta-agent (coinfection) without hepatic coma	Liver disease
+B16.2	Acute hepatitis B without delta-agent with hepatic coma	Liver disease
+B16.9	Acute hepatitis B without delta-agent and without hepatic coma	Liver disease
+B17	Other acute viral hepatitis	Liver disease
+B17.0	Acute delta-(super) infection of hepatitis B carrier	Liver disease
+B17.1	Acute hepatitis C	Liver disease
+B17.2	Acute hepatitis E	Liver disease
+B17.8	Other specified acute viral hepatitis	Liver disease
+B17.9	Acute viral hepatitis, unspecified	Liver disease
+B18.0	Chronic viral hepatitis B with delta-agent	Liver disease
+B18.1	Chronic viral hepatitis B without delta-agent	Liver disease
+B18.2	Chronic viral hepatitis C	Liver disease
+B18.8	Other chronic viral hepatitis	Liver disease
+B18.9	Chronic viral hepatitis, unspecified	Liver disease
+B19.0	Unspecified viral hepatitis with hepatic coma	Liver disease
+B19.9	Unspecified viral hepatitis without hepatic coma	Liver disease
+C00	Malignant neoplasm of lip	cancer
+C00.0	Malignant neoplasm: External upper lip	cancer
+C00.1	Malignant neoplasm: External lower lip	cancer
+C00.2	Malignant neoplasm: External lip, unspecified	cancer
+C00.3	Malignant neoplasm: Upper lip, inner aspect	cancer
+C00.4	Malignant neoplasm: Lower lip, inner aspect	cancer
+C00.5	Malignant neoplasm: Lip, unspecified, inner aspect	cancer
+C00.6	Malignant neoplasm: Commissure of lip	cancer
+C00.8	Malignant neoplasm: Overlapping lesion of lip	cancer
+C00.9	Malignant neoplasm: Lip, unspecified	cancer
+C01	Malignant neoplasm of base of tongue	cancer
+C02	Malignant neoplasm of other and unspecified parts of tongue	cancer
+C02.0	Malignant neoplasm: Dorsal surface of tongue	cancer
+C02.1	Malignant neoplasm: Border of tongue	cancer
+C02.2	Malignant neoplasm: Ventral surface of tongue	cancer
+C02.3	Malignant neoplasm: Anterior two-thirds of tongue, part unspecified	cancer
+C02.4	Malignant neoplasm: Lingual tonsil	cancer
+C02.8	Malignant neoplasm: Overlapping lesion of tongue	cancer
+C02.9	Malignant neoplasm: Tongue, unspecified	cancer
+C03	Malignant neoplasm of gum	cancer
+C03.0	Malignant neoplasm: Upper gum	cancer
+C03.1	Malignant neoplasm: Lower gum	cancer
+C03.9	Malignant neoplasm: Gum, unspecified	cancer
+C04	Malignant neoplasm of floor of mouth	cancer
+C04.0	Malignant neoplasm: Anterior floor of mouth	cancer
+C04.1	Malignant neoplasm: Lateral floor of mouth	cancer
+C04.8	Malignant neoplasm: Overlapping lesion of floor of mouth	cancer
+C04.9	Malignant neoplasm: Floor of mouth, unspecified	cancer
+C05	Malignant neoplasm of palate	cancer
+C05.0	Malignant neoplasm: Hard palate	cancer
+C05.1	Malignant neoplasm: Soft palate	cancer
+C05.2	Malignant neoplasm: Uvula	cancer
+C05.8	Malignant neoplasm: Overlapping lesion of palate	cancer
+C05.9	Malignant neoplasm: Palate, unspecified	cancer
+C06	Malignant neoplasm of other and unspecified parts of mouth	cancer
+C06.0	Malignant neoplasm: Cheek mucosa	cancer
+C06.1	Malignant neoplasm: Vestibule of mouth	cancer
+C06.2	Malignant neoplasm: Retromolar area	cancer
+C06.8	Malignant neoplasm: Overlapping lesion of other and unspecified parts of mouth	cancer
+C06.9	Malignant neoplasm: Mouth, unspecified	cancer
+C07	Malignant neoplasm of parotid gland	cancer
+C08	Malignant neoplasm of other and unspecified major salivary glands	cancer
+C08.0	Malignant neoplasm: Submandibular gland	cancer
+C08.1	Malignant neoplasm: Sublingual gland	cancer
+C08.8	Malignant neoplasm: Overlapping lesion of major salivary glands	cancer
+C08.9	Malignant neoplasm: Major salivary gland, unspecified	cancer
+C09	Malignant neoplasm of tonsil	cancer
+C09.0	Malignant neoplasm: Tonsillar fossa	cancer
+C09.1	Malignant neoplasm: Tonsillar pillar (anterior)(posterior)	cancer
+C09.8	Malignant neoplasm: Overlapping lesion of tonsil	cancer
+C09.9	Malignant neoplasm: Tonsil, unspecified	cancer
+C10	Malignant neoplasm of oropharynx	cancer
+C10.0	Malignant neoplasm: Vallecula	cancer
+C10.1	Malignant neoplasm: Anterior surface of epiglottis	cancer
+C10.2	Malignant neoplasm: Lateral wall of oropharynx	cancer
+C10.3	Malignant neoplasm: Posterior wall of oropharynx	cancer
+C10.4	Malignant neoplasm: Branchial cleft	cancer
+C10.8	Malignant neoplasm: Overlapping lesion of oropharynx	cancer
+C10.9	Malignant neoplasm: Oropharynx, unspecified	cancer
+C11	Malignant neoplasm of nasopharynx	cancer
+C11.0	Malignant neoplasm: Superior wall of nasopharynx	cancer
+C11.1	Malignant neoplasm: Posterior wall of nasopharynx	cancer
+C11.2	Malignant neoplasm: Lateral wall of nasopharynx	cancer
+C11.3	Malignant neoplasm: Anterior wall of nasopharynx	cancer
+C11.8	Malignant neoplasm: Overlapping lesion of nasopharynx	cancer
+C11.9	Malignant neoplasm: Nasopharynx, unspecified	cancer
+C12	Malignant neoplasm of piriform sinus	cancer
+C13	Malignant neoplasm of hypopharynx	cancer
+C13.0	Malignant neoplasm: Postcricoid region	cancer
+C13.1	Malignant neoplasm: Aryepiglottic fold, hypopharyngeal aspect 	cancer
+C13.2	Malignant neoplasm: Posterior wall of hypopharynx	cancer
+C13.8	Malignant neoplasm: Overlapping lesion of hypopharynx	cancer
+C13.9	Malignant neoplasm: Hypopharynx, unspecified	cancer
+C14	Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx	cancer
+C14.0	Malignant neoplasm: Pharynx, unspecified	cancer
+C14.2	Malignant neoplasm: Waldeyer ring	cancer
+C14.8	Malignant neoplasm: Overlapping lesion of lip, oral cavity and pharynx	cancer
+C15	Malignant neoplasm of oesophagus	cancer
+C15.0	Malignant neoplasm: Cervical part of oesophagus	cancer
+C15.1	Malignant neoplasm: Thoracic part of oesophagus	cancer
+C15.2	Malignant neoplasm: Abdominal part of oesophagus	cancer
+C15.3	Malignant neoplasm: Upper third of oesophagus	cancer
+C15.4	Malignant neoplasm: Middle third of oesophagus	cancer
+C15.5	Malignant neoplasm: Lower third of oesophagus	cancer
+C15.8	Malignant neoplasm: Overlapping lesion of oesophagus	cancer
+C15.9	Malignant neoplasm: Oesophagus, unspecified	cancer
+C16	Malignant neoplasm of stomach	cancer
+C16.0	Malignant neoplasm: Cardia	cancer
+C16.1	Malignant neoplasm: Fundus of stomach	cancer
+C16.2	Malignant neoplasm: Body of stomach	cancer
+C16.3	Malignant neoplasm: Pyloric antrum	cancer
+C16.4	Malignant neoplasm: Pylorus	cancer
+C16.5	Malignant neoplasm: Lesser curvature of stomach, unspecified	cancer
+C16.6	Malignant neoplasm: Greater curvature of stomach, unspecified	cancer
+C16.8	Malignant neoplasm: Overlapping lesion of stomach	cancer
+C16.9	Malignant neoplasm: Stomach, unspecified	cancer
+C17	Malignant neoplasm of small intestine	cancer
+C17.0	Malignant neoplasm: Duodenum	cancer
+C17.1	Malignant neoplasm: Jejunum	cancer
+C17.2	Malignant neoplasm: Ileum	cancer
+C17.3	Malignant neoplasm: Meckel diverticulum	cancer
+C17.8	Malignant neoplasm: Overlapping lesion of small intestine	cancer
+C17.9	Malignant neoplasm: Small intestine, unspecified	cancer
+C18	Malignant neoplasm of colon	cancer
+C18.0	Malignant neoplasm: Caecum	cancer
+C18.1	Malignant neoplasm: Appendix	cancer
+C18.2	Malignant neoplasm: Ascending colon	cancer
+C18.3	Malignant neoplasm: Hepatic flexure	cancer
+C18.4	Malignant neoplasm: Transverse colon	cancer
+C18.5	Malignant neoplasm: Splenic flexure	cancer
+C18.6	Malignant neoplasm: Descending colon	cancer
+C18.7	Malignant neoplasm: Sigmoid colon	cancer
+C18.8	Malignant neoplasm: Overlapping lesion of colon	cancer
+C18.9	Malignant neoplasm: Colon, unspecified	cancer
+C19	Malignant neoplasm of rectosigmoid junction	cancer
+C20	Malignant neoplasm of rectum	cancer
+C21	Malignant neoplasm of anus and anal canal	cancer
+C21.0	Malignant neoplasm: Anus, unspecified	cancer
+C21.1	Malignant neoplasm: Anal canal	cancer
+C21.2	Malignant neoplasm: Cloacogenic zone	cancer
+C21.8	Malignant neoplasm: Overlapping lesion of rectum, anus and anal canal	cancer
+C22	Malignant neoplasm of liver and intrahepatic bile ducts	cancer
+C22.0	Malignant neoplasm: Liver cell carcinoma	cancer
+C22.1	Malignant neoplasm: Intraheptic bile duct carcinoma	cancer
+C22.2	Malignant neoplasm: Hepatoblastoma	cancer
+C22.3	Angiosarcoma of liver	cancer
+C22.4	Other sarcomas of liver	cancer
+C22.7	Malignant neoplasm: Other specified carcinomas of liver	cancer
+C22.9	Malignant neoplasm: Liver, unspecified	cancer
+C23	Malignant neoplasm of gallbladder	cancer
+C24	Malignant neoplasm of other and unspecified parts of biliary tract	cancer
+C24.0	Malignant neoplasm: Extrahepatic bile duct	cancer
+C24.1	Malignant neoplasm: Ampulla of Vater	cancer
+C24.8	Malignant neoplasm: Overlapping lesion of biliary tract	cancer
+C24.9	Malignant neoplasm: Biliary tract, unspecified	cancer
+C25	Malignant neoplasm of pancreas	cancer
+C25.0	Malignant neoplasm: Head of pancreas	cancer
+C25.1	Malignant neoplasm: Body of pancreas	cancer
+C25.2	Malignant neoplasm: Tail of pancreas	cancer
+C25.3	Malignant neoplasm: Pancreatic duct	cancer
+C25.4	Malignant neoplasm: Endocrine panreas	cancer
+C25.7	Malignant neoplasm: Other parts of pancreas	cancer
+C25.8	Malignant neoplasm: Overlapping lesion of pancreas	cancer
+C25.9	Malignant neoplasm: Pancreas, unspecified	cancer
+C26	Malignant neoplasm of other and ill-defined digestive organs	cancer
+C26.0	Malignant neoplasm: Intestinal tract, part unspecified	cancer
+C26.1	Malignant neoplasm: Spleen	cancer
+C26.8	Malignant neoplasm: Overlapping lesion of digestive system	cancer
+C26.9	Malignant neoplasm: Ill-defined sites within the digestive system	cancer
+C30	Malignant neoplasm of nasal cavity and middle ear	cancer
+C30.0	Malignant neoplasm: Nasal cavity	cancer
+C30.1	Malignant neoplasm: Middle ear	cancer
+C31	Malignant neoplasm of accessory sinuses	cancer
+C31.0	Malignant neoplasm: Maxillary sinus	cancer
+C31.1	Malignant neoplasm: Ethmoidal sinus	cancer
+C31.2	Malignant neoplasm: Frontal sinus	cancer
+C31.3	Malignant neoplasm: Sphenoidal sinus	cancer
+C31.8	Malignant neoplasm: Overlapping lesion of accessory sinuses	cancer
+C31.9	Malignant neoplasm: Accessory sinus, unspecified	cancer
+C32	Malignant neoplasm larynx	cancer
+C32.0	Malignant neoplasm: Glottis	cancer
+C32.1	Malignant neoplasm: Supraglottis	cancer
+C32.2	Malignant neoplasm: Subglottis	cancer
+C32.3	Malignant neoplasm: Laryngeal cartilage	cancer
+C32.8	Malignant neoplasm: Overlapping lesion of larynx	cancer
+C32.9	Malignant neoplasm: Larynx, unspecified	cancer
+C33	Malignant neoplasm of trachea	cancer
+C34	Malignant neoplasm bronchus and lung	cancer
+C34.0	Malignant neoplasm: Main bronchus	cancer
+C34.1	Malignant neoplasm: Upper lobe, bronchus or lung	cancer
+C34.2	Malignant neoplasm: Middle lobe, bronchus or lung	cancer
+C34.3	Malignant neoplasm: Lower lobe, bronchus or lung	cancer
+C34.8	Malignant neoplasm: Overlapping lesion of bronchus and lung	cancer
+C34.9	Malignant neoplasm: Bronchus or lung, unspecified	cancer
+C37	Malignant neoplasm of thymus	cancer
+C38	Malignant neoplasm of heart, mediastinum and pleura	cancer
+C38.0	Malignant neoplasm: Heart	cancer
+C38.1	Malignant neoplasm: Anterior mediastinum	cancer
+C38.2	Malignant neoplasm: Posterior mediastinum	cancer
+C38.3	Malignant neoplasm: Mediastinum, part unspecified	cancer
+C38.4	Malignant neoplasm: Pleura	cancer
+C38.8	Malignant neoplasm: Overlapping lesion of heart, mediastinum and pleura	cancer
+C39	Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs	cancer
+C39.0	Malignant neoplasm: Upper respiratory tract, part unspecified	cancer
+C39.8	Malignant neoplasm: Overlapping lesion of respiratory and intrathoracic organs	cancer
+C39.9	Malignant neoplasm: Ill-defined sites within the respiratory system	cancer
+C40	Malignant neoplasm of bone and articular cartilage of limbs	cancer
+C40.0	Malignant neoplasm: Scapula and long bones of upper limb	cancer
+C40.1	Malignant neoplasm: Short bones of upper limb	cancer
+C40.2	Malignant neoplasm: Long bones of lower limb	cancer
+C40.3	Malignant neoplasm: Short bones of lower limb	cancer
+C40.8	Malignant neoplasm: Overlapping lesion of bone and articular cartilage of limbs	cancer
+C40.9	Malignant neoplasm: Bone and articular cartilage of limb, unspecified	cancer
+C41	Malignant neoplasm of bone and articular cartilage of other and unspecified sites	cancer
+C41.0	Malignant neoplasm: Bones of skull and face	cancer
+C41.1	Malignant neoplasm: Mandible	cancer
+C41.2	Malignant neoplasm: Vertebral column	cancer
+C41.3	Malignant neoplasm: Ribs, sternum and clavicle	cancer
+C41.4	Malignant neoplasm: Pelvic bones, sacrum and coccyx	cancer
+C41.8	Malignant neoplasm: Overlapping lesion of bone and articular cartilage	cancer
+C41.9	Malignant neoplasm: Bone and articular cartilage, unspecified	cancer
+C43	Malignant melanoma of skin	cancer
+C43.0	Malignant neoplasm: Malignant melanoma of lip	cancer
+C43.1	Malignant neoplasm: Malignant melanoma of eyelid, including canthus	cancer
+C43.2	Malignant neoplasm: Malignant melanoma of ear and external auricular canal	cancer
+C43.3	Malignant neoplasm: Malignant melanoma of other and unspecified parts of face	cancer
+C43.4	Malignant neoplasm: Malignant melanoma of scalp and neck	cancer
+C43.5	Malignant neoplasm: Melignant melanoma of trunk	cancer
+C43.6	Malignant neoplasm: Malignant melanoma of upper limb, including shoulder	cancer
+C43.7	Malignant neoplasm: Malignant melanoma of lower limb, including hip	cancer
+C43.8	Malignant neoplasm: Overlapping of malignant melanoma of skin	cancer
+C43.9	Malignant neoplasm: Malignant melanoma of skin, unspecified	cancer
+C44	Other malignant neoplasms of skin	cancer
+C44.0	Malignant neoplasm: Skin of lip	cancer
+C44.1	Malignant neoplasm: Skin of eyelid, including canthus	cancer
+C44.2	Malignant neoplasm: Skin of ear and external auricular canal	cancer
+C44.3	Malignant neoplasm: Skin of other and unspecified parts of face	cancer
+C44.4	Malignant neoplasm: Skin of scalp and neck	cancer
+C44.5	Malignant neoplasm: Skin of trunk	cancer
+C44.6	Malignant neoplasm: Skin of upper limb, including shoulder	cancer
+C44.7	Malignant neoplasm: Skin of lower limb, including hip	cancer
+C44.8	Malignant neoplasm: Overlapping lesion of skin	cancer
+C44.9	Malignant neoplasm: Malignant neoplasm of skin, unspecified	cancer
+C45	Mesothelioma	cancer
+C45.0	Mesothelioma of pleura	cancer
+C45.1	Mesothelioma of peritoneum	cancer
+C45.2	Mesothelioma of pericardium	cancer
+C45.7	Mesothelioma of other sites	cancer
+C45.9	Mesothelioma, unspecified	cancer
+C46	Kaposi sarcoma	cancer
+C46.0	Kaposi sarcoma of skin	cancer
+C46.1	Kaposi sarcoma of soft tissue	cancer
+C46.2	Kaposi sarcoma of palate	cancer
+C46.3	Kaposi sarcoma of lymph nodes	cancer
+C46.7	Kaposi sarcoma of other sites	cancer
+C46.8	Kaposi sarcoma of multiple organs	cancer
+C46.9	Kaposi sarcoma, unspecified	cancer
+C47	Malignant neoplasm of peripheral nerves and automatic nervous system	cancer
+C47.0	Malignant neoplasm: Peripheral nerves of head, face and neck	cancer
+C47.1	Malignant neoplasm: Peripheral nerves of upper limb, including shoulder	cancer
+C47.2	Malignant neoplasm: Peripheral nerves of lower limb, including hip	cancer
+C47.3	Malignant neoplasm: Peripheral nerves of thorax	cancer
+C47.4	Malignant neoplasm: Peripheral nerves of abdomen	cancer
+C47.5	Malignant neoplasm: Peripheral nerves of pelvis	cancer
+C47.6	Malignant neoplasm: Peripheral nerves of trunch, unspecified	cancer
+C47.8	Malignant neoplasm: Overlapping lesion of peripheral nerves and autonomic nervous system	cancer
+C47.9	Malignant neoplasm: Peripheral nerves and autonomic nervous system, unspecified	cancer
+C48	Malignant neoplasm of retroperitoneum and peritoneum	cancer
+C48.0	Malignant neoplasm: Retroperitoneum	cancer
+C48.1	Malignant neoplasm: Specified parts of peritoneum	cancer
+C48.2	Malignant neoplasm: Peritoneum, unspecified	cancer
+C48.8	Malignant neoplasm: Overlapping lesion of retroperitoneum and peritoneum	cancer
+C49	Malignant neoplasm of other connective and soft tissue	cancer
+C49.0	Malignant neoplasm: Connective and soft tissue of head, face and neck	cancer
+C49.1	Malignant neioplasm: Connective and soft tissue of upper limb, including shoulder	cancer
+C49.2	Malignant neoplasm: Connective and soft tissue of lower limb, including hip	cancer
+C49.3	Malignant neoplasm: Connective and soft tissue of thorax	cancer
+C49.4	Malignant neoplasm: Connective and soft tissue of abdomen	cancer
+C49.5	Malignant neoplasm: Connective and soft tissue if pelvis	cancer
+C49.6	Malignant neoplasm: Connective and soft tissue of trunk, unspecified	cancer
+C49.8	Malignant neoplasm: Overlapping lesion of connective and soft tissue	cancer
+C49.9	Malignant neoplasm: Connective and soft tissue, unspecified	cancer
+C50	Malignant neoplasm of breast	cancer
+C50.0	Malignant neoplasm: Nipple and areola	cancer
+C50.1	Malignant neoplasm: Central portion of breast	cancer
+C50.2	Malignant neoplasm: Upper-inner quadrant of breast	cancer
+C50.3	Malignant neoplasm: Lower-inner quadrant of breast	cancer
+C50.4	Malignant neoplasm: Upper-outer quadrant of breast	cancer
+C50.5	Malignant neoplasm: Lower-outer quadrant of breast	cancer
+C50.6	Malignant neoplasm: Axillary tail of breast	cancer
+C50.8	Malignant neoplasm: Overlapping lesion of breast	cancer
+C50.9	Malignant neoplasm: Breast, unspecified	cancer
+C51	Malignant neoplasm of vulva	cancer
+C51.0	Malignant neoplasm: Labium majus	cancer
+C51.1	Malignant neoplasm: Labium minus	cancer
+C51.2	Malignant neoplasm: Clitoris	cancer
+C51.8	Malignant neoplasm: Overlapping lesion of vulva	cancer
+C51.9	Malignant neoplasm: Vulva, unspecified	cancer
+C52	Malignant neoplasm of vagina	cancer
+C53	Malignant neoplasm of cervix uteri	cancer
+C53.0	Malignant neoplasm: Endocervix	cancer
+C53.1	Malignant neoplasm: Exocervix	cancer
+C53.8	Malignant neoplasm: Overlapping lesion of cervix uteri	cancer
+C53.9	Malignant neoplasm: Cervix uteri, unspecified	cancer
+C54	Malignant neoplasm of corpus uteri	cancer
+C54.0	Malignant neoplasm: Isthmus uteri	cancer
+C54.1	Malignant neoplasm: Endometrium	cancer
+C54.2	Malignant neoplasm: Myometrium	cancer
+C54.3	Malignant neoplasm: Fundus uteri	cancer
+C54.8	Malignant neoplasm: Overlapping lesion of corpus uteri	cancer
+C54.9	Malignant neoplasm: Corpus uteri, unspecified	cancer
+C55	Malignant neoplasm of uterus, part specified	cancer
+C56	Malignant neoplasm of ovary	cancer
+C57	Malignant neoplasm of other and unspecified female genital organs	cancer
+C57.0	Malignant neoplasm: Fallopian tube	cancer
+C57.1	Malignant neoplasm: Broad ligament	cancer
+C57.2	Malignant neoplasm: Round ligament	cancer
+C57.3	Malignant neoplasm: Parametrium	cancer
+C57.4	Malignant neoplasm: Uterine adnexa, unspecified	cancer
+C57.7	Malignant neoplasm: Other specified female genital organs	cancer
+C57.8	Malignant neoplasm: Overlapping lesion of female genital organs	cancer
+C57.9	Malignant neoplasm: Female genital organ, unspecified	cancer
+C58	Malignant neoplasm of placenta	cancer
+C60	Malignant neoplasm of penis	cancer
+C60.0	Malignant neoplasm: Prepuce	cancer
+C60.1	Malignant neoplasm: Glans penis	cancer
+C60.2	Malignant neoplasm: Body of penis	cancer
+C60.8	Malignant neoplasm: Overlapping lesion of penis	cancer
+C60.9	Malignant neoplasm: Penis, unspecified	cancer
+C61	Malignant neoplasm of prostate	cancer
+C62	Malignant neoplasm of testis	cancer
+C62.0	Malignant neoplasm: Undescended testis	cancer
+C62.1	Malignant neoplasm: Descended testis	cancer
+C62.9	Maligant neoplasm: Testis, unspecified	cancer
+C63	Malignant neoplasm of other and unspecified male genital organs	cancer
+C63.0	Malignant neoplasm: Epididymis	cancer
+C63.1	Malignant neoplasm: Spermatic cord	cancer
+C63.2	Malignant neoplasm: Scrotum	cancer
+C63.7	Malignant neoplasm: Other specified male genital organs	cancer
+C63.8	Malignant neoplasm: Overlapping lesion of male genital organs	cancer
+C63.9	Malignant neoplasm: Male genital organ, unspecified	cancer
+C64	Malignant neoplasm of kidney, except renal pelvis	cancer
+C65	Malignant neoplasm of renal pelvis	cancer
+C66	Malignant neoplasm of ureter	cancer
+C67	Malignant neoplasm of bladder	cancer
+C67.0	Malignant neoplasm: Trigone of bladder	cancer
+C67.1	Malignant neoplasm: Dome of bladder	cancer
+C67.2	Malignant neoplasm: Lateral wall of bladder	cancer
+C67.3	Malignant neoplasm: Anterior wall of bladder	cancer
+C67.4	Malignant neoplasm: Posterior wall of bladder	cancer
+C67.5	Malignant neoplasm: Bladder neck	cancer
+C67.6	Malignant neoplasm: Ureteric orifice	cancer
+C67.7	Malignant neoplasm: Urachus	cancer
+C67.8	Malignant neoplasm: Overlapping lesion of bladder	cancer
+C67.9	Malignant neoplasm: Bladder, unspecified	cancer
+C68	Malignant neoplasm: Urethra	cancer
+C68.0	Malignant neoplasm: Urethra	cancer
+C68.1	Malignant neoplasm: Paraurethral gland	cancer
+C68.8	Malignant neoplasm: Overlapping lesion of urinary organs	cancer
+C68.9	Malignant neoplasm: Urinary organ, unspecified	cancer
+C69	Malignant neoplasm of eye and adnexa	cancer
+C69.0	Malignant neoplasm: Conjunctiva	cancer
+C69.1	Malignant neoplasm: Cornea	cancer
+C69.2	Malignant neoplasm: Retina	cancer
+C69.3	Malignant neoplasm: Choroid	cancer
+C69.4	Malignant neoplasm: Ciliary body	cancer
+C69.5	Malignant neoplasm: Lacrimal gland and duct	cancer
+C69.6	Malignant neoplasm: Orbit	cancer
+C69.8	Malignant neoplasm: Overlapping lesion of eye and adnexa	cancer
+C69.9	Malignant neoplasm: Eye, unspecified	cancer
+C70	Malignant neoplasm meninges	cancer
+C70.0	Malignant neoplasm: Cerebral meninges	cancer
+C70.1	Malignant neoplasm: Spinal meninges	cancer
+C70.9	Malignant neoplasm: Meninges, unspecified	cancer
+C71	Malignant neoplasm of brain	cancer
+C71.0	Malignant neoplasm: Cerebrum, except lobes and ventricles	cancer
+C71.1	Malignant neoplasm: Frontal lobe	cancer
+C71.2	Malignant neoplasm: Temporal lobe	cancer
+C71.3	Malignant neoplasm: Parietal lobe	cancer
+C71.4	Malignant neoplasm: Occipital lobe	cancer
+C71.5	Malignant neoplasm: Cerebral ventricle	cancer
+C71.6	Malignant neoplasm: Cerebellum	cancer
+C71.7	Malignant neoplasm: Brain stem	cancer
+C71.8	Malignant neoplasm: Overlapping lesion of brain	cancer
+C71.9	Malignant neoplasm: Brain, unspecified	cancer
+C72	Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system	cancer
+C72.0	Malignant neoplasm: Spinal cord	cancer
+C72.1	Malignant neoplasm: Cauda equina	cancer
+C72.2	Malignant neoplasm: Olfactory nerve	cancer
+C72.3	Malignant neoplasm: Optic nerve	cancer
+C72.4	Malignant neoplasm: Acoustic nerve	cancer
+C72.5	Malignant neoplasm: Other and unspecified cranial nerves	cancer
+C72.8	Malignant neoplasm: Overlapping lesion of brain and other parts of central nervous system	cancer
+C72.9	Malignant neoplasm: Central nervous system, unspecified	cancer
+C73	Malignant neoplasm of thyroid gland	cancer
+C74	Malignant neoplasm of adrenal gland	cancer
+C74.0	Malignant neoplasm: Cortex of adrenal gland	cancer
+C74.1	Malignant neoplasm: Medulla of adrenal gland	cancer
+C74.9	Malignant neoplasm: Adrenal gland, unspecified	cancer
+C75	Malignant neoplasm of other endocrine glands and related structures	cancer
+C75.0	Malignant neoplasm: Parathyroid gland	cancer
+C75.1	Malignant neoplasm: Pituitary gland	cancer
+C75.2	Malignant neoplasm: Craniopharyngeal duct	cancer
+C75.3	Malignant neoplasm: Pineal gland	cancer
+C75.4	Malignant neoplasm: Carotid body	cancer
+C75.5	Malignant neoplasm: Aortic body and other paraganglia	cancer
+C75.8	Malignant neoplasm: Pluriglandular involvement, unspecified	cancer
+C75.9	Malignant neoplasm: Endocrine gland, unspecified	cancer
+C76	Malignant neoplasm of other and ill-defined sites	cancer
+C76.0	Malignant neoplasm of other and ill-defined sites: Head, face and neck	cancer
+C76.1	Malignant neoplasm of other and ill-defined sites: Thorax	cancer
+C76.2	Malignant neoplasm of other and ill-defined sites: Abdomen	cancer
+C76.3	Malignant neoplasm of other and ill-defined sites: Pelvis	cancer
+C76.4	Malignant neoplasm of other and ill-defined sites: Upper limb	cancer
+C76.5	Malignant neoplasm of other and ill-defined sites: Lower limb	cancer
+C76.7	Malignant neoplasm of other and ill-defined sites: Other ill-defined sites	cancer
+C76.8	Malignant neoplasm of other and ill-defined sites: Overlapping lesion of other and ill-defined sites	cancer
+C77	Secondary and unspecified malignant neoplasm of lymph nodes	cancer
+C77.0	Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck	cancer
+C77.1	Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes	cancer
+C77.2	Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes	cancer
+C77.3	Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes	cancer
+C77.4	Secondary and unspecified malignant neoplasm: Inguinal and lower limb lymph nodes	cancer
+C77.5	Secondary and unspecified malignant neoplasm: Intrapelvic lymph nodes	cancer
+C77.8	Secondary and unspecified malignant neoplasm: Lymph nodes of multiple regions	cancer
+C77.9	Secondary and unspecified malignant neoplasm: Lymph node, unspecified	cancer
+C78	Secondary malignant neoplasm of respiratory and digestive organs	cancer
+C78.0	Secondary malignant neoplasm of lung	cancer
+C78.1	Secondary malignant neoplasm of mediastinum	cancer
+C78.2	Secondary malignant neoplasm of pleura	cancer
+C78.3	Secondary malignant neoplasm of other and unspecified respiratory organs	cancer
+C78.4	Secondary malignant neoplasm of small intestine	cancer
+C78.5	Secondary malignant neoplasm of large inestine and rectum	cancer
+C78.6	Secondary malignant neoplasm of retroperitoneum and peritoneum	cancer
+C78.7	Secondary malignant neoplasm of liver and intrahepatic bile duct	cancer
+C78.8	Secondary malignant neoplasm of other and unspecified digestive organs	cancer
+C79	Secondary malignant neoplasm of other and unspecified sites	cancer
+C79.0	Secondary malignant neoplasm of kidney and renal pelvis	cancer
+C79.1	Secondary malignant neoplasm of bladder and other unspecified urinary organs	cancer
+C79.2	Secondary malignant neoplasm of skin	cancer
+C79.3	Secondary malignant neoplasm of brain and cerebral meninges	cancer
+C79.4	Secondary malignant neoplasm of other and unspecified parts of nervous system	cancer
+C79.5	Secondary malignant neoplasm of bone and bone marrow	cancer
+C79.6	Secondary malignant neoplasm of ovary	cancer
+C79.7	Secondary malignant neoplasm of adrenal gland	cancer
+C79.8	Secondary malignant neoplasm of other specified sites	cancer
+C79.9	Secondary malignant neoplasm, unspecified site	cancer
+C80	Malignant neoplasm, without specification of site	cancer
+C80.0	Malignant neoplasm, primary site unknown, so stated	cancer
+C80.9	Malignant neoplasm, unspecified	cancer
+C81	Hodgkin lymphoma	cancer
+C81.0	Nodular lymphocyte predominant Hodgkin lymphoma	cancer
+C81.1	Nodular sclerosis classical Hodgkin lymphoma	cancer
+C81.2	Mixed cellularity classical Hodgkin lymphoma	cancer
+C81.3	Lymphocyte depleted classical Hodgkin lymphoma	cancer
+C81.4	Lymphocyte-rich (classical) Hodgkin lymphoma	cancer
+C81.7	Other classical Hodgkin lymphoma	cancer
+C81.9	Hodgkin lymphoma, unspecified	cancer
+C82	Follicular lymphoma	cancer
+C82.0	Follicular lymphoma grade I	cancer
+C82.1	Follicular lymphoma grade II	cancer
+C82.2	Follicular lymphoma grade III, unspecified	cancer
+C82.3	Follicular lymphoma grade IIIa	cancer
+C82.4	Follicular lymphoma grade IIIb	cancer
+C82.5	Diffuse follicle centre lymphoma	cancer
+C82.6	Cutaneous follicle centre lymphoma	cancer
+C82.7	Other types of follicular lymphoma	cancer
+C82.9	Follicular lymphoma, unspecified	cancer
+C83	Non-follicular lymphoma	cancer
+C83.0	Small cell B-cell lymphoma	cancer
+C83.1	Mantle cell lymphoma	cancer
+C83.3	Diffuse large B-cell lymphoma	cancer
+C83.5	Lymphoblastic (diffuse) lymphoma	cancer
+C83.7	Burkitt lymphoma	cancer
+C83.8	Other non-follicular lymphoma	cancer
+C83.9	Non-follicular (diffuse) lymphoma, unspecified	cancer
+C84	Mature T/NK-cell lymphomas	cancer
+C84.0	Mycosis fungoides	cancer
+C84.1	Sézary disease	cancer
+C84.4	Peripheral T-cell lymphoma, not elsewhere classified	cancer
+C84.5	Other mature T/NK-cell lymphomas	cancer
+C84.6	Anaplastic large cell lymphoma, ALK-positive	cancer
+C84.7	Anaplastic large cell lymphoma, ALK-negative	cancer
+C84.8	Cutaneous T-cell lymphoma, unspecified	cancer
+C84.9	Mature T/NK-cell lymphoma, unspecified	cancer
+C85	Other and unspecified types of non-Hodgkin lymphoma	cancer
+C85.0	B-cell lymphoma, unspecified	cancer
+C85.1	Mediastinal (thymic) large B-cell lymphoma	cancer
+C85.7	Other specified types of non-Hodgkin lymphoma	cancer
+C85.9	Non-Hodgkin lymphoma, unspecified	cancer
+C86	Other specified types of T/NK-cell lymphoma	cancer
+C86.0	Extranodal NK/T-cell lymphoma, nasal type	cancer
+C86.1	Hepatosplenic T-cell lymphoma	cancer
+C86.2	Enteropathy-type (intestinal) T-cell lymphoma	cancer
+C86.3	Subcutaneous panniculitis-like T-cell lymphoma	cancer
+C86.4	Blastic NK-cell lymphoma	cancer
+C86.5	Angioimmunoblastic T-cell lymphoma	cancer
+C86.6	Primary cutaneous CD30-positive T-cell neoplasms	cancer
+C88	Malignant immunoproliferative diseases	cancer
+C88.0	Waldenström macroglobulinaemia	cancer
+C88.2	Other heavy chain disease	cancer
+C88.3	Immunoproliferative small intestinal disease	cancer
+C88.4	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lyphoma]	cancer
+C88.7	Other malignant immunoproliferative diseases	cancer
+C88.9	Malignant immunoproliferative disease, unspecified	cancer
+C90	Multiple myeloma and malignant plasma cell neoplasms	cancer
+C90.0	Multiple myeloma	cancer
+C90.1	Plasma cell leukaemia	cancer
+C90.2	Extramedullary plasmacytoma	cancer
+C90.3	Solitary plasmacytoma	cancer
+C91	Lymphoid leukaemia	cancer
+C91.0	Acute lymphoblastic leukaemia [ALL]	cancer
+C91.1	Chronic lymphocytic leukaemia of B-cell type	cancer
+C91.3	Prolymphocytic leukaemia of B-cell type	cancer
+C91.4	Hairy-cell leukaemia	cancer
+C91.5	Adult T-cell lymphoma/leukaemia [HTLV-1-associated]	cancer
+C91.6	Prolymphocytic leukaemia of T-cell type	cancer
+C91.7	Other lymphoid leukaemia	cancer
+C91.8	Mature B-cell leukaemia Burkitt-type	cancer
+C91.9	Lymphoid leukaemia, unspecified	cancer
+C92	Myeloid leukaemia	cancer
+C92.0	Acute myeloblastic leukaemia [AML]	cancer
+C92.1	Chronic myeloid leukaemia [CML], BCR/ABL-positive	cancer
+C92.2	Atypical chronic myeloid leukaemia, BCR/ABL-negative	cancer
+C92.3	Myeloid sarcoma	cancer
+C92.4	Acute promyelocytic leukaemia [PML]	cancer
+C92.5	Acute myelomonocytic leukaemia	cancer
+C92.6	Acute myeloid leukaemia with 11q23-abnormality	cancer
+C92.7	Other myeloid leukaemia	cancer
+C92.8	Acute myeloid leukaemia with multilineage dysplasia	cancer
+C92.9	Myeloid leukaemia, unspecified	cancer
+C93	Monocytic leukaemia	cancer
+C93.0	Acute monoblastic/monocytic leukaemia	cancer
+C93.1	Chornic myelomonocytic leukaemia	cancer
+C93.3	Juvenile myelomonocytic leukaemia	cancer
+C93.7	Other monocytic leukaemia	cancer
+C93.9	Monocytic leukaemia, unspecified	cancer
+C94	Other leukaemias of specified cell type	cancer
+C94.0	Acute erythroid leukaemia	cancer
+C94.2	Acute megakaryoblastic leukaemia	cancer
+C94.3	Mast cell leukaemia	cancer
+C94.4	Acute panmyelosis with myelofibrosis	cancer
+C94.6	Myelodysplastic and myeloproliferative disease, not elsewhere classified	cancer
+C94.7	Other specified leukaemias	cancer
+C95	Leukaemia of unspecified cell type	cancer
+C95.0	Acute leukaemia of unspecified cell type	cancer
+C95.1	Chronic leukaemia of unspecified cell type	cancer
+C95.7	Other leukaemia of unspecified cell type	cancer
+C95.9	Leukaemia, unspecified	cancer
+C96	Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue	cancer
+C96.0	Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]	cancer
+C96.2	Malignant mast cell tumour	cancer
+C96.4	Sarcoma of dendritic cells (accessory cells)	cancer
+C96.5	Multifocal and unisystemic Langerhans-cell histiocytosis	cancer
+C96.6	Unifocal Langerhans-cell histiocystosis	cancer
+C96.7	Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue	cancer
+C96.8	Histiocytic sarcoma	cancer
+C96.9	Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified	cancer
+C97	Malignant neoplasms of independent (primary) multiple sites	cancer
+D00	Carcinoma in situ of oral cavity, oesophagus and stomach	cancer
+D00.0	Carcinoma in situ: Lip, oral cavity and pharynx	cancer
+D00.1	Carcinoma in situ: Oesophagus	cancer
+D00.2	Carcinoma in situ: Stomach	cancer
+D01	Carcinoma in situ of other and unspecified digestive organs	cancer
+D01.0	Carcinoma in situ: Colon	cancer
+D01.1	Carcinoma in situ: Rectosigmoid junction	cancer
+D01.2	Carcinoma in situ: Rectum	cancer
+D01.3	Carcinoma in situ: Anus and anal canal	cancer
+D01.4	Carcinoma in situ: Other and unspecified parts of intestine	cancer
+D01.5	Carcinoma in situ: Liver, gallbladder and bile ducts	cancer
+D01.7	Carcinoma in situ: Other specified digestive organs	cancer
+D01.9	Carcinoma in situ: Digestive organ, unspecified	cancer
+D02	Carcinoma in situ of middle ear and respiratory system	cancer
+D02.0	Carcinoma in situ: Larynx	cancer
+D02.1	Carcinoma in situ: Trachea	cancer
+D02.2	Carcinoma in situ: Bronchus and lung	cancer
+D02.3	Carcinoma in situ: Other parts of respiratory system	cancer
+D02.4	Carcinoma in situ: Respiratory system, unspecified	cancer
+D03	Melanoma in situ	cancer
+D03.0	Melanoma in situ of lip	cancer
+D03.1	Melanoma in situ of eyelid, including canthus	cancer
+D03.2	Melanoma in situ of ear and external auricular canal	cancer
+D03.3	Melanoma in situ of other and unspecified parts of face	cancer
+D03.4	Melanoma in situ of scalp and neck	cancer
+D03.5	Melanoma in situ of trunck	cancer
+D03.6	Melanoma in situ of upper limb, including shoulder	cancer
+D03.7	Melanoma in situ of lower limb, including hip	cancer
+D03.8	Melanoma in situ of other sites	cancer
+D03.9	Melanoma in situ, unspecified	cancer
+D07	Carcinoma in situ of other unspecified genital organs	cancer
+D07.0	Carcinoma in situ: Endometrium	cancer
+D07.1	Carcinoma in situ: Vulva	cancer
+D07.2	Carcinoma in situ: Vagina	cancer
+D07.3	Carcinoma in situ: Other and unspecified female genital organs	cancer
+D07.4	Carcinoma in situ: Penis	cancer
+D07.5	Carcinoma in situ: Prostate	cancer
+D07.6	Carcinoma in situ: Other and unspecified male genital organs	cancer
+D09	Carcinoma in situ of other and unspecified sites	cancer
+D09.0	Carcinoma in situ: Bladder	cancer
+D09.1	Carcinoma in situ: Other and unspecified urinary organs	cancer
+D09.2	Carcinoma in situ: Eye	cancer
+D09.3	Carcinoma in situ: Throid and other endocrine glands	cancer
+D09.7	Carcinoma in situ of other specified sites	cancer
+D09.9	Carcinoma in situ, unspecified	cancer
+D37	Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs	cancer
+D37.0	Neoplasm of uncertain or unknown behaviour: Lip, oral cavity and pharynx	cancer
+D37.1	Neoplasm of uncertain or unknown behaviour: Stomach	cancer
+D37.2	Neoplasm of uncertain or unknown behaviour: Small intestine	cancer
+D37.3	Neoplasm of uncertain or unknown behaviour: Appendix	cancer
+D37.4	Neoplasm of uncertain or unknown behaviour: Colon	cancer
+D37.5	Neoplasm of uncertain or unknown behaviour: Rectum	cancer
+D37.6	Neoplasm of uncertain or unknown behaviour: Liver, gallbladder and bile ducts	cancer
+D37.7	Neoplasm of uncertain or unknown behaviour: Other digestive organs	cancer
+D37.9	Neoplasm of uncertain or unknown behaviour: Digestive organ, unspecified	cancer
+D38	Neoplasm of uncertain or unknown behaviour of middle ear and respiratory intrathoracic organs	cancer
+D38.0	Neoplasm of uncertain or unknown behaviour: Larynx	cancer
+D38.1	Neoplasm of uncertain or unknown behaviour: Trachea, bronchus and lung	cancer
+D38.2	Neoplasm of uncertain or unknown behaviour: Pleura	cancer
+D38.3	Neoplasm of uncertain or unknown behaviour: Mediastinum	cancer
+D38.4	Neoplasm of uncertain or unknown behaviour: Thymus	cancer
+D38.5	Neoplasm uncertain or unknown behaviour: Other respiratory organs	cancer
+D38.6	Neoplasm uncertain or unknown behaviour: Respiratory organ, unspecified	cancer
+D39	Neoplasm of uncertain or unknown behaviour of female genital organs	cancer
+D39.0	Neoplasm of uncertain or unknown behaviour: Uterus	cancer
+D39.1	Neoplasm of uncertain or unknown behaviour: Ovary	cancer
+D39.2	Neoplasm of uncertain or unknown behaviour: Placenta	cancer
+D39.7	Neoplasm of uncertain or unknown behaviour: Other female genital organs	cancer
+D39.9	Neoplasm of uncertain or unknown behaviour: Female genital organ, unspecified	cancer
+D40	Neoplasm of uncertain or unknown behaviour of male genital organs	cancer
+D40.0	Neoplasm of uncertain or unknown behaviour: Prostate	cancer
+D40.1	Neoplasm of uncertain or unknown behaviour: Testis	cancer
+D40.7	Neoplasm of uncertain or unknown behaviour: Other male genital organs	cancer
+D40.9	Neoplasm of uncertain or unknown behaviour: Male genital organ, unspecified	cancer
+D41	Neoplasm of uncertain or unknown behaviour of urinary organs	cancer
+D41.0	Neoplasm of uncertain or unknown behaviour: Kidney	cancer
+D41.1	Neoplasm of uncertain or unknown behaviour: Renal pelvis	cancer
+D41.2	Neoplasm of uncertain or unknown behaviour: Ureter	cancer
+D41.3	Neoplasm of uncertain or unknown behaviour: Urethra	cancer
+D41.4	Neoplasm of uncertain or unknown behaviour: Bladder	cancer
+D41.7	Neoplasm of uncertain or unknown behaviour: Other urinary organs	cancer
+D41.9	Neoplasm of uncertain or unknown behaviour: Urinary organ, unspecified	cancer
+D42	Neoplasm of uncertain or unknown behaviour of meninges	cancer
+D42.0	Neoplasm of uncertain or unknown behaviour: Cerebral meninges	cancer
+D42.1	Neoplasm of uncertain or unknown behaviour: Spinal meninges	cancer
+D42.9	Neoplasm of uncertain or unknown behaviour: Meninges, unspecified	cancer
+D43	Neoplasm of uncertain or unknown behaviour of brain and central nervous system	cancer
+D43.0	Neoplasm of uncertain or unknown behaviour: Brain, supratentorial	cancer
+D43.1	Neoplasm of uncertain or unknown behaviour: Brain, infratentorial	cancer
+D43.2	Neoplasm of uncertain or unknown behaviour: Brain, unspecified	cancer
+D43.3	Neoplasm of uncertain or unknown behaviour: Cranial nerves	cancer
+D43.4	Neoplasm of uncertain or unknown behaviour: Spinal cord	cancer
+D43.7	Neoplasm of uncertain or unknown behaviour: Other parts of central nervous system	cancer
+D43.9	Neoplasm of uncertain or unknown behaviour: Central nervous system, unspecified	cancer
+D44	Neoplasm of uncertain or unknown behaviour of endocrine glands	cancer
+D44.0	Neoplasm of uncertain or unknown behaviour: Thyroid gland	cancer
+D44.1	Neoplasm of uncertain or unknown behaviour: Adrenal gland	cancer
+D44.2	Neoplasm of uncertain or unknown behaviour: Parathroid gland	cancer
+D44.3	Neoplasm of uncertain or unknown behaviour: Pituitary gland	cancer
+D44.4	Neoplasm of uncertain or unknown behaviour: Craniopharyngeal duct	cancer
+D44.5	Neoplasm of uncertain or unknown behaviour: Pineal gland	cancer
+D44.6	Neoplasm of uncertain or unknown behaviour: Carotid body	cancer
+D44.7	Neoplasm of uncertain or unknown behaviour: Aortic body and other paraganglia	cancer
+D44.8	Neoplasm of uncertain or unknown behaviour: Pluriglandular involvement	cancer
+D44.9	Neoplasm of uncertain or unknown behaviour: Endocrine gland, unspecified	cancer
+D47.7	Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue	cancer
+D47.9	Neoplasm of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue, unspecified	cancer
+D48	Neoplasm of uncertain or unknown behaviour of other and unspecified sites	cancer
+D48.0	Neoplasm of uncertain or unknown behaviour: Bone and articular cartilage	cancer
+D48.1	Neoplasm of uncertain or unknown behaviour: Connective and other soft tissue	cancer
+D48.2	Neoplasm of uncertain or unknown behaviour: Peripheral nerves and autonomic nervous system	cancer
+D48.3	Neoplasm of uncertain or unknown behaviour: Retroperitoneum	cancer
+D48.4	Neoplasm of uncertain or unknown behaviour: Peritoneum	cancer
+D48.5	Neoplasm of uncertain or unknown behaviour: Skin	cancer
+D48.6	Neoplasm of uncertain or unknown behaviour: Breast	cancer
+D48.7	Neoplasm of uncertain or unknown behaviour: Other specified sites	cancer
+D48.9	Neoplasm of uncertain or unknown behaviour: Neoplasm of uncertain or unknown behaviour, unspecified	cancer
+E26.0	Primary hyperaldosteronism	primary hyperaldoseronism
+E26.8	Other hyperaldosteronism	primary hyperaldoseronism
+E26.9	Hyperaldosteronism, unspecified	primary hyperaldoseronism
+E74.1	Disorders of fructose metabolism	fructose intolerence
+F00	Dementia in Alzheimer disease	Excl other
+F00.0	Dementia in Alzheimer disease with early onset	Excl other
+F00.1	Dementia in Alzheimer disease with late onset	Excl other
+F00.2	Dementia in Alzheimer disease, atypical or mixed type	Excl other
+F00.9	Dementia in Alzheimer disease, unspecified	Excl other
+F01	Vascular dementia	Excl other
+F01.0	Vascular dementia of acute onset	Excl other
+F01.1	Multi-infarct dementia	Excl other
+F01.2	Subcortical vascular dementia	Excl other
+F01.3	Mixed cortical and subcortical vascular dementia	Excl other
+F01.8	Other vascular dementia	Excl other
+F01.9	Vascular dementia, unspecified	Excl other
+F02	Dementia in other diseases classified elsewhere 	Excl other
+F02.0	Dementia in Pick disease	Excl other
+F02.1	Dementia in Creutzfeldt-Jakob disease	Excl other
+F02.2	Dementia in Huntington disease	Excl other
+F02.3	Dementia in Parkinson disease	Excl other
+F02.4	Dementia in human immunodeficiency virus [HIV] disease	Excl other
+F02.8	Dementia in other specified diseases classified elsewhere	Excl other
+F03	Unspecified dementia	Excl other
+F04	Organic amnesic syndrome, not induced by alcohol and other psychoactive substances	Excl other
+F05	Delirium, not induced by alcohol and other psychoactive substances	Excl other
+F05.0	Delirium not superimposed on dementia, so described	Excl other
+F05.1	Delirium superimposed on dementia	Excl other
+F05.8	Other delirium	Excl other
+F05.9	Delirium, unspecified	Excl other
+F06	Other mental disorders due to brain damage and dysfunction and to physical disease	Excl other
+F06.0	Organic hallucinosis	Excl other
+F06.1	Organic catatonic disorder	Excl other
+F06.2	Organic delusional [schizophrenia-like] disorder	Excl other
+F06.8	Other specified mental disorders due to brain damage and dysfunction and to physical disease	Excl other
+F06.9	Unspecified mental disorder due to brain damage and dysfuntion and to physical disease	Excl other
+F07	Personality and behavioural disorders due to brain disease, damage and dysfunction	Excl other
+F07.8	Other organic personality and behavioural disorders due to brain disease, damage and dysfunction	Excl other
+F07.9	Unspecified organic personality and behavioural disorder due to brain disease, damage and dysfunction	Excl other
+F09	Unspecified organic or symptomatic mental disorder	Excl other
+F10.0	Mental and behavioural disorders due to use of alcohol: acute intoxication	alcohol dependence
+F10.1	Mental and behavioural disorders due to use of alcohol: harmful use	alcohol dependence
+F10.2	Mental and behavioural disorders due to use of alcohol: dependence syndrome	alcohol dependence
+F10.3	Mental and behavioural disorders due to use of alcohol withdrawal state	alcohol dependence
+F10.4	Mental and behavioural disorders due to use of alcohol withdrawal state with delirium	alcohol dependence
+F10.5	Mental and behavioural disorders due to use of alcohol: psychotic disorder	alcohol dependence
+F10.6	Mental and behavioural disorders due to use of alcohol: amnesic syndrome	alcohol dependence
+F10.7	Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder	alcohol dependence
+F10.8	Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders	alcohol dependence
+F10.9	Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder	alcohol dependence
+F11.1	Mental and behavioural disorders due to use of opioids: harmful use	drug dependence
+F11.2	Mental and behavioural disorders due to use of opiods: dependence syndrome	drug dependence
+F11.3	Mental and behavioural disorders due to use of opiods withdrawal state	drug dependence
+F11.4	Mental and behavioural disorders due to use of opiods withdrawal state with delirium	drug dependence
+F12.1	Mental and behavioural disorders due to use of cannabinoids: harmful use	drug dependence
+F12.2	Mental and behavioural disorders due to use of cannabinoids: dependence syndrome	drug dependence
+F12.3	Mental and behavioural disorders due to use of cannabinoids withdrawal state	drug dependence
+F12.4	Mental and behavioural disorders due to use of cannabinoids withdrawal state with delirium	drug dependence
+F12.9	Mental and behavioural disorders due to use of cannabinoids unspecified mental and behavioural disorder	drug dependence
+F13.1	Mental and behavioural disorders due to use of sedatives or hypnotics: harmful use	drug dependence
+F13.2	Mental and behavioural disorders due to use of sedatives or hypnotics: dependence syndrome	drug dependence
+F13.3	Mental and behavioural disorders due to use of sedatives or hypnotics withdrawal state	drug dependence
+F13.4	Mental and behavioural disorders due to use of sedatives or hypnotics withdrawal state with delirium	drug dependence
+F14.1	Mental and behavioural disorders due to use of cocaine: harmful use	drug dependence
+F14.2	Mental and behavioural disorders due to use of cocaine: dependence syndrome	drug dependence
+F14.3	Mental and behavioural disorders due to use of cocaine withdrawal state	drug dependence
+F14.4	Mental and behavioural disorders due to use of cocaine withdrawal state with delirium	drug dependence
+F15.1	Mental and behavioural disorders due to use of other stimulants, including caffeine: harmful use	drug dependence
+F15.2	Mental and behavioural disorders due to use of other stimulants, including caffeine: dependence syndrome	drug dependence
+F15.3	Mental and behavioural disorders due to use of other stimulants, including caffeine withdrawal state	drug dependence
+F15.4	Mental and behavioural disorders due to use of other stimulants, including caffeine withdrawal state with delirium	drug dependence
+F16.1	Mental and behavioural disorders due to use of hallucinogens: harmful use	drug dependence
+F16.2	Mental and behavioural disorders due to use of hallucinogens: dependence syndrome	drug dependence
+F16.3	Mental and behavioural disorders due to use of hallucinogens withdrawal state	drug dependence
+F16.4	Mental and behavioural disorders due to use of hallucinogens withdrawal state with delirium	drug dependence
+F18.1	Mental and behavioural disorders due to use of volatile solvents: harmful use	drug dependence
+F18.2	Mental and behavioural disorders due to use of volatile solvents: dependence syndrome	drug dependence
+F18.3	Mental and behavioural disorders due to use of volatile solvents withdrawal state	drug dependence
+F18.4	Mental and behavioural disorders due to use of volatile solvents withdrawal state with delirium	drug dependence
+F19.1	Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances: harmful use	drug dependence
+F19.2	Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances: dependence syndrome	drug dependence
+F19.3	Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances withdrawal state	drug dependence
+F19.4	Mental and behavioural disorders due to use of multiple drug use and use of other psychoactive substances withdrawal state with delirium	drug dependence
+F20	Schizophrenia	Excl other
+F20.0	Paranoid schizophrenia	Excl other
+F20.1	Henephrenic schizophrenia	Excl other
+F20.2	Catatonic schizophrenia	Excl other
+F20.3	Undifferentiated schizophrenia	Excl other
+F20.4	Post-schizophrenic depression	Excl other
+F20.5	Residual schizophrenia	Excl other
+F20.6	Simple schizophrenia	Excl other
+F20.8	Other schizophrenia	Excl other
+F20.9	Schizophrenia, unspecified	Excl other
+F21	Schizotypal disorder	Excl other
+F22	Persistent delusional disorders	Excl other
+F22.0	Delusional disorder	Excl other
+F22.8	Other persistent delusional disorders	Excl other
+F22.9	Persistent delusional disorder, unspecified	Excl other
+F23	Acute and transient psychotic disorders	Excl other
+F23.0	Acute and polymorphic psychotic disorder without symptoms of schizophrenia	Excl other
+F23.1	Acute polymorphic psychotic disorder with symptoms of schizophrenia	Excl other
+F23.2	Acute schizophrenia-like psychotic disorder	Excl other
+F23.3	Other acute predominantly delusional psychotic disorders	Excl other
+F23.8	Other acute and transient psychotic disorders	Excl other
+F23.9	Acute and transient psychotic disorder, unspecified	Excl other
+F24	Induced delusion disorder	Excl other
+F25	Schizoaffective disorders	Excl other
+F25.0	Schizoaffective disorder, manic type	Excl other
+F25.1	Schizoaffective disorder, depressive type	Excl other
+F25.2	Schizoaffective disorder, mixed type	Excl other
+F25.8	Other schizoaffective disorders	Excl other
+F25.9	Schizoaffective disorder, unspecified	Excl other
+F28	Other nonorganic psychotic disorders	Excl other
+F29	Unspecified nonorganic psychosis	Excl other
+F30	Manic episode	Excl other
+F30.0	Hypomania	Excl other
+F30.1	Mania without psychotic symptoms	Excl other
+F30.2	Mania with psychotic symptoms	Excl other
+F30.8	Other manic episodes	Excl other
+F30.9	Manic episode, unspecified	Excl other
+F31	Bipolar affective disorder	Excl other
+F31.0	Bipolar affective disorder, current episode hypomanic	Excl other
+F31.1	Bipolar affective disorder, current episode manic without psychotic symptoms	Excl other
+F31.2	Bipolar affective disorder, current episode manic with psychotic symptoms	Excl other
+F31.3	Bipolar affective disorder, current episode mild or moderate depression	Excl other
+F31.4	Bipolar affective disorder, current episode severe depression without psychotic symptoms	Excl other
+F31.5	Bipolar affective disorder, current episode severe depression with psychotic symptoms	Excl other
+F31.6	Bipolar affective disorder, current episode mixed	Excl other
+F31.7	Bipolar affective disorder, currently in remission	Excl other
+F31.8	Other bipolar affective disorders	Excl other
+F31.9	Bipolar affective disorder, unspecified	Excl other
+F32.3	Severe depressive episode with psychotic symptoms	Excl other
+F33.3	Recurrent depressive disorder, current episode severe with psychotic symptoms	Excl other
+F40	Phobic anxiety disorders	Excl other
+F40.0	Agoraphobia	Excl other
+F40.1	Social phobias	Excl other
+F40.2	Specific (isolated) phobias	Excl other
+F40.8	Other phobic anxiety disorders	Excl other
+F40.9	Phobic anxiety disorder, unspecified	Excl other
+F41	Other anxiety disorders 	Excl other
+F41.0	Panic disorder [episodic paroxysmal anxiety]	Excl other
+F44	Dissociative [conversion] disorders	Excl other
+F44.0	Dissociative amnesia	Excl other
+F44.1	Dissociative fugue	Excl other
+F44.2	Dissociative stupor	Excl other
+F44.3	Trance and possession disorders	Excl other
+F44.4	Dissociative motor disorders	Excl other
+F44.5	Dissociative convulsions	Excl other
+F44.6	Dissociative anaesthesia and sensory loss	Excl other
+F44.7	Mixed dissociative [conversion] disorders	Excl other
+F44.8	Other dissociative [conversion] disorders 	Excl other
+F44.9	Dissociative [conversion] disorder, unspecified	Excl other
+F55	Abuse of non-dependence-producing substances	drug dependence
+F60	Specific personality disorders	Excl other
+F60.0	Paranoid personality disorder	Excl other
+F60.1	Schizoid personality disorder	Excl other
+F60.2	Dissocial personality disorder	Excl other
+F60.3	Emotionally unstable personality disorder	Excl other
+F60.4	Histrionic personality disorder	Excl other
+F60.5	Anankastic personality disorder	Excl other
+F60.6	Anxious [avoidant] personality disorder	Excl other
+F60.7	Dependent personality disorder	Excl other
+F60.8	Other specific personality disorders	Excl other
+F60.9	Personality disorder, unspecified	Excl other
+F61	Mixed and other personality disorders	Excl other
+F62	Enduring personality changes, not attributable to brain damage and disease	Excl other
+F62.0	Enduring personality change after catastrophic experience	Excl other
+F62.1	Enduring personality change after psychiatric illness	Excl other
+F62.8	Other enduring personality changes	Excl other
+F62.9	Enduring personality change, unspecified	Excl other
+F63	Habit and impulse disorders	Excl other
+F63.0	Pathological gambling	Excl other
+F71	Moderate mental retardation	Excl other
+F71.0	Moderate mental retardation with the statement of no, or minimal, impairment of behaviour	Excl other
+F71.1	Moderate mental retardation: significant impairment of behaviour requiring attention or treatment	Excl other
+F71.8	Moderate mental retardation: other impairments of behaviour	Excl other
+F71.9	Moderate mental retardation without mention of impairment of behaviour	Excl other
+F72	Severe mental retardation	Excl other
+F72.0	Severe mental retardation with the statement of no, or minimal, impairment or behaviour	Excl other
+F72.1	Severe mental retardation: significant impairment of behaviour requiring attention or treatment	Excl other
+F72.8	Severe mental retardation: other impairments of behaviour	Excl other
+F72.9	Severe mental retardation without mention of impairment of behaviour	Excl other
+F73	Profound mental retardation	Excl other
+F73.0	Profound mental retardation with the statement of no, or minimal, impairment of behaviour	Excl other
+F73.1	Profound mental retardation: significant impairment of behaviour requiring attention or treatment	Excl other
+F73.8	Profound mental retardation: other impairments of behaviour	Excl other
+F73.9	Profound mental retardation without mention of impairment of behaviour	Excl other
+F78	Other mental retardation	Excl other
+F78.0	Other mental retardation with the statement of no, or minimal, impairment of behaviour	Excl other
+F78.1	Other mental retardation: significant impairment of behaviour requiring attention or treatment	Excl other
+F79.1	Unspecified mental retardation: significant impairment of behaviour requiring attention or treatment	Excl other
+F79.8	Unspecified mental retardation: other impairments of behaviour	Excl other
+F99	Mental disorder, not otherwise specified	Excl other
+G31.2	Degeneration of nervous system due to alcohol	alcohol dependence
+G62.1	Alcoholic polyneuropathy	alcohol dependence
+G72.1	Alcoholic myopathy	alcohol dependence
+I06.0	Rheumatic aortic stenosis	Primary valvular obstruction
+I06.2	Rheumatic aortic stenosis with insufficiency	Primary valvular obstruction
+I08.0	Disorders of both mitral and aortic valves	Primary valvular obstruction
+I08.2	Disorders of both aortic and tricuspid valves	Primary valvular obstruction
+I08.3	Combined disorders of mitral, aortic and tricuspid valves	Primary valvular obstruction
+I08.8	Other multiple valve diseases	Primary valvular obstruction
+I11.0	Hypertensive heart disease with (congestive) heart failure	Heart failure
+I13.0	Hypertensive heart and renal disease with (congestive) heart failure	Heart failure
+I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	Heart failure
+I31.1	Chronic constrictive pericarditis	Constrictive pericarditis
+I35.0	Aortic (valve) stenosis	Primary valvular obstruction
+I35.2	Aortic (valve) stenosis with insufficiency	Primary valvular obstruction
+I37.0	Pulmonary valve stenosis	Primary valvular obstruction
+I37.2	Pulmonary valve stenosis with insufficiency	Primary valvular obstruction
+I42.6	Alcoholic cardiomyopathy	alcohol dependence
+I50	Heart failure	Heart failure
+I50.0	Congestive heart failure	Heart failure
+I50.1	Left ventricular failure	Heart failure
+I50.9	Heart failure, unspecified	Heart failure
+I60	Subarachnoid haemorrhage	stroke
+I60.0	Subarachnoid haemorrhage from carotid siphon and bifurcation	stroke
+I60.1	Subarachnoid haemorrhage from middle cerebral artery	stroke
+I60.2	Subarachnoid haemorrhage from anterior communicating artery	stroke
+I60.3	Subarachnoid haemorrhage from posterior communicating artery	stroke
+I60.4	Subarachnoid haemorrhage from basilar artery	stroke
+I60.5	Subarachnoid haemorrhage from vertebral artery	stroke
+I60.6	Subarachnoid haemorrhage from other intracranial arteries	stroke
+I60.7	Subarachnoid haemorrhage from intracranial artery, unspecified	stroke
+I60.8	Other subarachnoid haemorrhage	stroke
+I60.9	Subarachnoid haemorrhage, unspecified	stroke
+I61	Intracerebral haemorrhage	stroke
+I61.0	Intracerebral haemorrhage in hemisphere, subcortical	stroke
+I61.1	Intracerebral haemorrhage in hemisphere, cortical	stroke
+I61.2	Intracerebral haemorrhage in hemisphere, unspecified	stroke
+I61.3	Intracerebral haemorrhage in brain stem	stroke
+I61.4	Intracerebral haemorrhage in cerebellum	stroke
+I61.5	Intracerebral haemorrhage, intraventricular	stroke
+I61.6	Intracerebral haemorrhage, multiple localized	stroke
+I61.8	Other intracerebral haemorrhage	stroke
+I61.9	Intracerebral haemorrhage, unspecified	stroke
+I62	Other nontraumatic intracranial haemorrhage	stroke
+I69.0	Sequelae of subarachnoid haemorrhage	stroke
+I69.1	Sequelae of intracerebral haemorrhage	stroke
+I69.2	Sequelae of other nontraumatic intracranial haemorrhage	stroke
+I70.1	Atherosclerosis of renal artery	renal artery stenosis
+I85.0	oesophageal varices with bleeding	Liver disease
+I85.9	oesophageal varices without bleeding	Liver disease
+I86.4	Gastric varices	Liver disease
+I98.2	Oesophageal varices without bleeding in diseases classified elsewhere	Liver disease
+I98.3	Oesophageal varices with bleeding in diseases classified elsewhere	Liver disease
+K29.2	Alcoholic gastritis	alcohol dependence
+K70	Alcoholic liver disease	Liver disease
+K70.0	Alcoholic fatty liver	Liver disease
+K70.1	Alcoholic hepatitis	Liver disease
+K70.2	Alcholic fibrosis and sclerosis of liver	Liver disease
+K70.3	Alcoholic cirrhosis of liver	Liver disease
+K70.4	Alcoholic hepatic failure	Liver disease
+K70.9	Alcoholic liver disease, unspecified	Liver disease
+K71	Toxic liver disease	Liver disease
+K71.0	Toxic liver disease with cholestasis	Liver disease
+K71.1	Toxic liver disease with hepatic necrosis	Liver disease
+K71.2	Toxic liver disease with acute hepatitis	Liver disease
+K71.3	Toxic liver disease with chronic persistent hepatitis	Liver disease
+K71.4	Toxic liver disease with chronic lobular hepatitis	Liver disease
+K71.5	Toxic liver disease with chronic active hepatitis	Liver disease
+K71.6	Toxic liver disease with hepatitis, not elsewhere classified	Liver disease
+K71.7	Toxic liver disease with fibrosis and cirrhosis of liver	Liver disease
+K71.8	Toxic liver disease with other disorders of liver	Liver disease
+K71.9	Toxic liver disease, unspecified	Liver disease
+K72	Hepatic failure, not elsewhere classified	Liver disease
+K72.0	Acute and subacute hepatic failure	Liver disease
+K72.1	Chronic hepatic failure	Liver disease
+K72.9	Hepatic failure, unspecified	Liver disease
+K73	Chronic hepatitis, not elsewhere classified	Liver disease
+K73.0	Chronic persistent hepatitis, not elsewhere classified	Liver disease
+K73.1	Chronic lobular hepatitis, not elsewhere classified	Liver disease
+K73.2	Chronic active hepatitis, not elsewhere classified	Liver disease
+K73.8	Other chronic hepatitis, not elsewhere classified	Liver disease
+K73.9	Chronic hepatitis, unspecified	Liver disease
+K74	Fibrosis and cirrhosis of liver	Liver disease
+K74.0	Hepatic fibrosis	Liver disease
+K74.1	Hepatic sclerosis	Liver disease
+K74.2	Hepatic fibrosis with hepatic sclerosis	Liver disease
+K74.3	Primary biliary cirrhosis	Liver disease
+K74.4	Secondary biliary cirrhosis	Liver disease
+K74.5	Biliary cirrhosis, unspecified	Liver disease
+K74.6	Other and unspecified cirrhosis of liver	Liver disease
+K75	Other inflammatory liver diseases	Liver disease
+K75.2	Nonspecific reactive hepatitis	Liver disease
+K75.3	Granulomatous hepatitis, not elsewhere classified	Liver disease
+K75.4	Autoimmune hepatitis	Liver disease
+K75.8	Other specified inflammatory liver diseases	Liver disease
+K75.9	Inflammatory liver disease, unspecified	Liver disease
+K76	Other diseases of liver	Liver disease
+K76.2	Central haemorrhagic necrosis of liver	Liver disease
+K76.3	Infarction of liver	Liver disease
+K76.4	Peliosis hepatis	Liver disease
+K76.5	Hepatic veno-occlusive disease	Liver disease
+K76.6	Portal hypertension	Liver disease
+K76.7	Hepatorenal syndrome	Liver disease
+K76.8	Other specified diseases of liver	Liver disease
+K76.9	Liver disease, unspecified	Liver disease
+K77	Liver disorders in diseases classified elsewhere	Liver disease
+K77.8	Liver disorders in other diseases classified elsewhere	Liver disease
+O35.5	Maternal care for (suspected) damage to fetus by drugs	drug dependence
+O98.4	Viral hepatitis complicating pregnancy, childbirth and the puerperium	Liver disease
+O99.3	Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium	drug dependence
+P04.4	Fetus and newborn affected by maternal use of drugs of addiction	drug dependence
+P96.1	Neonatal withdrawal symptoms from maternal use of drugs from addiction	drug dependence
+P96.2	Withdrawal symptoms from therapeutic use of drugs in newborn	drug dependence
+Q22.1	Congenital pulmonary valve stenosis	Primary valvular obstruction
+Q22.3	Other congenital malformations of pulmonary valve	congenital heart disease
+Q23.0	Congenital stenosis of aortic valve	Primary valvular obstruction
+Q24.8	Other specified congenital malformations of heart	congenital heart disease
+Q24.9	Congenital malformation of heart, unspecified	congenital heart disease
+Q25.6	Stenosis of pulmonary artery	Primary valvular obstruction
+Q27.1	Congenital renal artery stenosis	renal artery stenosis
+Q27.2	Other congenital malformations of renal artery	renal artery stenosis
+R78.4	Finding of other drugs of addictive potential in blood	drug dependence
+S06.6	Traumatic subarachnoid haemorrhage	stroke
+T86.2	Heart transplant failure and rejection	heart transplant
+T86.3	Heart-lung transplant failure and rejection	heart transplant
+Y49.6	Psychodysleptics [hallucinogens]	drug dependence
+Z13.3	Special screening examination for mental and behavioural disorders	alcohol dependence
+Z50.2	Alcohol rehabilitation	alcohol dependence
+Z50.3	Drug rehabilitation	drug dependence
+Z71.4	Drug abuse counselling and surveillance	alcohol dependence
+Z71.5	Drug abuse counselling and surveillance	drug dependence
+Z72.1	Alcohol use	alcohol dependence
+Z72.2	Drug use	drug dependence
+Z86.4	Personal history of psychoactive susbstance abuse	alcohol dependence
+Z94.1	Heart transplant status	heart transplant
+Z94.3	Heart and lungs transplant status	heart transplant

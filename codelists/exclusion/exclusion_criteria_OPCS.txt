@@ -1,0 +1,15 @@
+OPCScode	OPCSdescription	term_main
+K01.1	Allotransplantation of heart and lung	heart transplant
+K01.2	Revision of transplantation of heart and lung	heart transplant
+K01.8	Other specified transplantation of heart and lung	heart transplant
+K01.9	Unspecified transplantation of heart and lung	heart transplant
+K02.1	Allotransplantation of heart NEC	heart transplant
+K02.2	Xenotransplantation of heart	heart transplant
+K02.3	Implantation of prosthetic heart	heart transplant
+K02.4	Piggyback transplantation of heart	heart transplant
+K02.5	Revision of implantation of prosthetic heart	heart transplant
+K02.6	Revision of transplantation of heart NEC	heart transplant
+K02.8	Other specified other transplantation of heart	heart transplant
+K02.9	Unspecified other transplantation of heart	heart transplant
+K01	Transplantation of heart and lung	heart transplant
+K02	Other transplantation of heart	heart transplant
